@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "question": "Philosophy of religion involves rational thought about religious issues without:",
+      "options": [
+        "Studying sacred texts",
+        "Examining historical contexts",
+        "Presuming a deity's existence",
+        "Analyzing ethical implications",
+        "Considering cultural influences"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Religion offers comprehensive views of life but differs from philosophy by being:",
+      "options": [
+        "Free of all beliefs",
+        "Always logical",
+        "Not necessarily critical",
+        "Completely skeptical",
+        "Based solely on doubt"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Theology employs reason to:",
+      "options": [
+        "Reject all faith-based ideas",
+        "Criticize religion without assumptions",
+        "Make beliefs clearer while presuming faith",
+        "Avoid any foundational beliefs",
+        "Replace faith entirely"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Philosophers in philosophy of religion examine:",
+      "options": [
+        "All assumptions without accepting on faith",
+        "Faith as the starting point",
+        "Theology's foundations only",
+        "Only religious dogmas",
+        "Beliefs without scrutiny"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Western philosophy of religion centers on:",
+      "options": [
+        "Rituals across cultures",
+        "Proofs for God's existence and nature",
+        "Eastern meditation practices",
+        "Historical religious events",
+        "Comparative mythology"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Key questions in philosophy of religion include whether:",
+      "options": [
+        "Evil disproves God",
+        "Faith needs no reason",
+        "Miracles prove God's existence",
+        "All religions are equal",
+        "Souls are material"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Monotheistic God possesses properties like omniscience, omnipotence, and:",
+      "options": [
+        "Changeability",
+        "Immutability only",
+        "Limited power",
+        "Omnibenevolence",
+        "Non-interference"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Pantheism identifies God with:",
+      "options": [
+        "A non-interfering creator",
+        "Human consciousness",
+        "Multiple deities",
+        "The natural universe",
+        "Something beyond the universe"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Deism holds that God is omnipotent and omniscient but:",
+      "options": [
+        "Does not interfere in the world",
+        "Is not all-good",
+        "Is unknowable",
+        "Is one of many gods",
+        "Changes over time"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Agnosticism views God as:",
+      "options": [
+        "Non-existent",
+        "Identical to nature",
+        "Interfering constantly",
+        "Multiple entities",
+        "Unknowable due to human limits"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Tylor's evolutionism traces religion from animism to polytheism and then:",
+      "options": [
+        "Deism",
+        "Atheism",
+        "Monotheism",
+        "Agnosticism",
+        "Pantheism"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Lévi-Strauss sees myths as expressing universal structures via:",
+      "options": [
+        "Evolutionary stages",
+        "Cultural superiority",
+        "Divine revelations",
+        "Binary oppositions",
+        "Historical facts"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The design argument analogizes the universe to complex objects implying a:",
+      "options": [
+        "Self-causation",
+        "Random formation",
+        "Maker or designer",
+        "Evolutionary process",
+        "Infinite regression"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Paley's watch analogy supports the idea that complexity requires:",
+      "options": [
+        "A purposeful creator",
+        "Material causes only",
+        "Human invention",
+        "Natural selection",
+        "Chance events"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Critics of the design argument question if the world is truly:",
+      "options": [
+        "Illusory",
+        "Divinely punished",
+        "Perfectly designed",
+        "Evolving randomly",
+        "Self-created"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The cosmological argument rejects infinite series of causes leading to a:",
+      "options": [
+        "Eternal cycle",
+        "First cause",
+        "Material loop",
+        "Self-causation",
+        "Random origin"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Aquinas' five ways include arguments from motion, efficient cause, and:",
+      "options": [
+        "Human conscience",
+        "Scriptural authority",
+        "Religious experience",
+        "Moral law",
+        "Governance of things"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Anselm's ontological argument defines God as that than which:",
+      "options": [
+        "Evil opposes",
+        "Nothing greater can be conceived",
+        "Humans can imagine",
+        "Nature surpasses",
+        "Everything is lesser"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The problem of evil challenges God's attributes by questioning how evil exists if God is:",
+      "options": [
+        "Unknowable",
+        "Non-existent",
+        "Omnipotent and omnibenevolent",
+        "Indifferent",
+        "Limited in power"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Solutions to the problem of evil may suggest God is not omnipotent or:",
+      "options": [
+        "Not omniscient",
+        "Multiple",
+        "Material",
+        "Not omnibenevolent",
+        "Changing"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Philosophy differs from religion by relying on reason and:",
+      "options": [
+        "Belief over logic",
+        "Tradition over criticism",
+        "Dogma over scrutiny",
+        "Revelation over analysis",
+        "Doubt over faith"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Religious experiences as proof of God raise questions about their:",
+      "options": [
+        "Scientific measurability",
+        "Moral implications",
+        "Historical accuracy",
+        "Rational reliability",
+        "Cultural universality"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Polytheism is characterized by belief in:",
+      "options": [
+        "No gods",
+        "God as nature",
+        "God's unknowability",
+        "A non-interfering God",
+        "More than one god"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Panentheism views God as greater than the universe but:",
+      "options": [
+        "Limited by it",
+        "Identical to it",
+        "Separate and distant",
+        "Including and interpenetrating it",
+        "Unaware of it"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Tylor saw religion as a human effort to explain:",
+      "options": [
+        "Artistic expressions",
+        "Economic systems",
+        "Moral laws",
+        "Dreams, death, and nature",
+        "Social structures"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Lévi-Strauss' structuralism finds religion timeless due to:",
+      "options": [
+        "Historical events",
+        "Evolutionary progress",
+        "Divine intervention",
+        "Universal mental patterns",
+        "Cultural isolation"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Quantum theory challenges design by showing processes are:",
+      "options": [
+        "Divinely ordered",
+        "Material only",
+        "Indeterminate at microscopic levels",
+        "Human-made",
+        "Perfectly predictable"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Aquinas argued everything has purpose leading to a final purpose called:",
+      "options": [
+        "Humanity",
+        "God",
+        "Nature",
+        "Matter",
+        "Chance"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Anselm argued existence in reality is greater than in:",
+      "options": [
+        "Nature",
+        "Dreams",
+        "The mind alone",
+        "Scriptures",
+        "Illusions"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The problem of evil is seen as the strongest argument against:",
+      "options": [
+        "Pantheism",
+        "Polytheism",
+        "Theistic God",
+        "Agnosticism",
+        "Deism"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

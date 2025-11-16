@@ -1,0 +1,664 @@
+{
+  "questions": [
+    {
+      "question": "According to Marx's view on automation, what fundamental question arises about human identity?",
+      "options": [
+        "What gives humans purpose and dignity when machines replace jobs",
+        "How fast can machines replace workers",
+        "Which jobs are most profitable to automate",
+        "How to improve machine efficiency"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "In the context of Marx's theory, activities like social media use and data generation that contribute to AI learning raise questions about:",
+      "options": [
+        "Data storage capacity",
+        "Whether such digital tasks count as real 'work' and their social value",
+        "Privacy settings configuration",
+        "Internet speed optimization"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "According to existentialism, if AI systems can 'choose' goals or adapt autonomously, what philosophical question emerges?",
+      "options": [
+        "How much energy does the AI consume",
+        "How fast can AI process data",
+        "What programming language is best",
+        "Do these machines possess free will or merely simulate it"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Postmodernists like Foucault argue that 'human nature' is:",
+      "options": [
+        "Determined purely by biology",
+        "Independent of social influence",
+        "Shaped by language, culture, and power structures",
+        "Fixed and universal across all cultures"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to postmodernism, why do AI systems reflect societal biases?",
+      "options": [
+        "Because of slow processing speeds",
+        "Due to hardware limitations",
+        "They learn from data influenced by existing power dynamics",
+        "Because programmers deliberately introduce bias"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Deepfake technology, from a postmodern perspective, challenges:",
+      "options": [
+        "Network bandwidth",
+        "Storage capacity",
+        "The line between real and fake identities, highlighting identity fluidity",
+        "Computer processing power"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In debates about whether brains are like computers, which argument AGAINST this view is strongest?",
+      "options": [
+        "Computers are faster than brains",
+        "Humans experience qualia—subjective sensations that algorithms cannot replicate",
+        "Computers have better memory capacity",
+        "Brains use more energy than computers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does 'intentionality' mean in the context of human consciousness vs AI?",
+      "options": [
+        "Having desires, beliefs, or true understanding that AI lacks",
+        "Following programmed instructions accurately",
+        "The ability to store large amounts of data",
+        "The speed of information processing"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "According to Buddhism's concept of 'anatta' (no permanent self), how should AI treat digital identity?",
+      "options": [
+        "As permanent records",
+        "As part of a continuous flow rather than owned entities",
+        "As property to be sold",
+        "As fixed, unchangeable profiles"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The Buddhist concept of interdependence and karma is similar to:",
+      "options": [
+        "Data storage systems",
+        "How actions ripple through networks and data flows in AI systems",
+        "Software licensing models",
+        "Computer hardware design"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Confucianism's concept of 'Ren (仁)' emphasizes:",
+      "options": [
+        "Humanity expressed through caring relationships",
+        "Individual competition and achievement",
+        "Technological efficiency above all",
+        "Profit maximization"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How would a Confucian approach to social media differ from Western platforms?",
+      "options": [
+        "Focus on nurturing group harmony and collective well-being",
+        "Emphasize competitive rankings",
+        "Focus on individual engagement metrics and personal achievements",
+        "Prioritize advertising revenue"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "In Confucian thought, 'Li (礼)' refers to:",
+      "options": [
+        "Rituals and etiquette that maintain social order and harmony",
+        "Economic productivity",
+        "Technological innovation",
+        "Personal freedom and individual rights"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Daoist 'Wu Wei' means:",
+      "options": [
+        "Rejecting all technology",
+        "'Non-action' or effortless action, working with nature's rhythms",
+        "Maximum productivity at all costs",
+        "Aggressive control and domination"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does Daoism's Yin-Yang principle apply to technology design?",
+      "options": [
+        "Always choose one extreme over another",
+        "Eliminate all contradictions",
+        "Focus only on efficiency",
+        "Recognize how opposites like order and chaos coexist and balance"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Sustainable AI inspired by Daoist principles would prioritize:",
+      "options": [
+        "Minimizing energy use and environmental impact",
+        "Fastest processing speeds only",
+        "Largest possible data centers",
+        "Maximum profit regardless of environmental cost"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Al-Farabi viewed humans as inherently:",
+      "options": [
+        "Social and political beings whose happiness depends on virtuous communities",
+        "Isolated and self-sufficient individuals",
+        "Independent of social relationships",
+        "Purely rational machines"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How would Al-Farabi's philosophy guide AI governance?",
+      "options": [
+        "Prioritize individual profit maximization",
+        "Focus only on technological efficiency",
+        "Prioritize the common good and benefit entire communities",
+        "Ignore ethical considerations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ibn Sina (Avicenna) proposed that the soul (nafs) is:",
+      "options": [
+        "Temporary and material, ending with the body",
+        "Immortal and distinct from the physical body",
+        "Non-existent",
+        "Identical to brain function"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Ibn Sina's mind-body dualism raises what question about AI?",
+      "options": [
+        "What programming language to use",
+        "How fast can AI process data",
+        "How much storage AI needs",
+        "If consciousness transcends the material, can AI truly possess a 'soul'"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Al-Ghazali critiqued excessive reliance on pure logic (aql) because it:",
+      "options": [
+        "Is mathematically imprecise",
+        "Is too slow for modern computing",
+        "Requires too much energy",
+        "Neglects spiritual and ethical dimensions essential to human well-being"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "According to Al-Ghazali's critique, what problem arises with hyper-rational AI?",
+      "options": [
+        "It uses too much memory",
+        "It may prioritize efficiency or utilitarianism without empathy or human dignity",
+        "It processes information too slowly",
+        "It cannot perform calculations"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In Islamic ethics, 'Fitrah' refers to:",
+      "options": [
+        "Innate human dignity that must be respected in all technology",
+        "Data collection methods",
+        "Technological progress at any cost",
+        "Profit maximization"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The Islamic concept of 'Khalifa' (stewardship) implies that humans should:",
+      "options": [
+        "Focus only on immediate profits",
+        "Dominate and exploit nature through technology",
+        "Reject all technological advancement",
+        "Act as responsible stewards for sustainable tech development"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is 'Halal AI' an example of?",
+      "options": [
+        "Using blockchain to verify ethical sourcing in food and finance sectors",
+        "AI that only processes food data",
+        "AI that operates faster",
+        "AI with larger storage capacity"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The Kazakh nomadic worldview emphasizes living in balance with:",
+      "options": [
+        "Technological domination",
+        "Industrial production",
+        "Natural ecosystems, reflecting sustainability",
+        "Urban development only"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Nomadic knowledge was transmitted through oral traditions including:",
+      "options": [
+        "Aitys (poetic debates) and Dastan (epic storytelling)",
+        "Scientific journals",
+        "Digital media only",
+        "Written books exclusively"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How does nomadic flexibility inspire modern IT development?",
+      "options": [
+        "It mirrors agile development, prioritizing quick pivots to user needs",
+        "It promotes rigid, unchanging systems",
+        "It focuses only on hardware",
+        "It suggests rejecting all technology"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Abai Kunanbayev's famous exhortation 'Adam bol!' means:",
+      "options": [
+        "'Be human!' emphasizing moral and intellectual development",
+        "'Follow tradition blindly'",
+        "'Pursue wealth only'",
+        "'Reject all change'"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Abai critiqued blind adherence to tradition and advocated for:",
+      "options": [
+        "Isolation from all external influences",
+        "Pure technological focus without ethics",
+        "Rejecting all Eastern wisdom",
+        "A synthesis of Eastern spiritual wisdom and Western scientific rationality"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How does Abai's humanism inspire AI ethics?",
+      "options": [
+        "By eliminating human oversight",
+        "By prioritizing empathy algorithms and moral reasoning in AI",
+        "By ignoring moral considerations",
+        "By focusing only on processing speed"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Shakarim's philosophy is based on three fundamental truths:",
+      "options": [
+        "Power, Control, and Domination",
+        "Technology, Innovation, and Growth",
+        "Profit, Speed, and Efficiency",
+        "Conscience, Justice, and Reason"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "According to Shakarim's ethics, AI systems should prioritize:",
+      "options": [
+        "Conscience-like moral judgment to ensure just and transparent decisions",
+        "Profit maximization exclusively",
+        "Speed over accuracy",
+        "Pure efficiency over moral judgment"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How could Shakarim's principles guide AI in legal contexts?",
+      "options": [
+        "By making decisions faster without ethical review",
+        "By eliminating all human judges",
+        "By reducing transparency",
+        "By promoting fairness and equity in automated decision-making"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Kazakhstan School of Dialectics, founded by Zhabaikhan Abdildin, emphasizes:",
+      "options": [
+        "Understanding contradictions and how freedom and constraint coexist",
+        "Choosing only one side of any debate",
+        "Rejecting philosophical inquiry",
+        "Avoiding all contradictions in thinking"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Applying dialectical thinking to IT encourages:",
+      "options": [
+        "Balanced innovation that respects human dignity and societal well-being",
+        "Pure technological advancement without reflection",
+        "Ignoring ethical concerns for rapid development",
+        "Rejecting all traditional values"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Abai's wisdom 'A nation that forgets its past has no future' suggests IT specialists should:",
+      "options": [
+        "Focus only on Western approaches",
+        "Reject all modern technology",
+        "Blend Kazakh heritage with cutting-edge technology",
+        "Ignore cultural context in tech design"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to Huizinga's 'Homo Ludens,' play is:",
+      "options": [
+        "Only entertainment for children",
+        "A fundamental cultural force shaping human behavior and society",
+        "Unrelated to culture or civilization",
+        "A waste of productive time"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Huizinga's 'magic circle' concept refers to:",
+      "options": [
+        "A physical gaming arena",
+        "A type of computer network",
+        "A temporary space where ordinary reality is suspended and playful rules apply",
+        "A marketing strategy"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Examples of how play forms the basis of culture include:",
+      "options": [
+        "Only children's activities",
+        "Pure entertainment without structure",
+        "Laws, war strategies, and scientific debates as rule-bound play",
+        "Only video games and sports"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Modern technology as 'playful culture' is evident in:",
+      "options": [
+        "Industrial manufacturing only",
+        "Spreadsheet calculations",
+        "Database management",
+        "Social media rituals like likes and streaks acting as play ceremonies"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is gamification?",
+      "options": [
+        "Eliminating all work activities",
+        "Replacing humans with games",
+        "Incorporating game mechanics like points and badges to make tasks engaging",
+        "Creating video games exclusively"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Duolingo uses gamification through:",
+      "options": [
+        "Traditional textbooks",
+        "Boring lecture videos only",
+        "Streaks and XP to encourage daily language practice",
+        "Mandatory classroom attendance"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The ethical risk with play-based design is:",
+      "options": [
+        "Its immersive nature can be manipulated to exploit users through dark patterns",
+        "It makes activities too enjoyable",
+        "It reduces engagement",
+        "It educates users too effectively"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "According to Huizinga, true play must be:",
+      "options": [
+        "Mandatory and controlled by authorities",
+        "Profit-driven above all",
+        "Voluntary and freely chosen by participants",
+        "Boring and educational only"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The difference between Huizinga's 'free play' and corporate gamification is:",
+      "options": [
+        "Corporate gamification is always ethical",
+        "There is no difference",
+        "Free play is voluntary and intrinsic, while corporate gamification can be coercive with extrinsic rewards",
+        "Free play requires payment"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ethical gamification solutions include:",
+      "options": [
+        "Hiding how gamification works from users",
+        "Allowing users to opt out of competitive features and focusing on meaningful rewards",
+        "Making all features mandatory and competitive",
+        "Prioritizing addiction over learning"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Albert Einstein's quote 'Play is the highest form of research' suggests:",
+      "options": [
+        "Research should never be enjoyable",
+        "Play and learning are completely separate",
+        "Play is a profound way to explore, learn, and innovate",
+        "Play is frivolous and unimportant"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Posthumanism, according to Rosi Braidotti, views humans as:",
+      "options": [
+        "Unchanging biological entities",
+        "Superior to all other life forms",
+        "Merging with ecosystems and machines, losing centrality",
+        "Completely separate from nature"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Transhumanism, advocated by Ray Kurzweil, promotes:",
+      "options": [
+        "Rejecting all technological enhancement",
+        "Avoiding all medical interventions",
+        "Maintaining current human capabilities only",
+        "Merging human biology with technology to transcend limits"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The debate about Neuralink brain implants centers on:",
+      "options": [
+        "Their color and design",
+        "Their manufacturing cost only",
+        "Whether they represent liberation through enhancement or loss of humanity",
+        "Their weight and size"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The reductionist view of digital identity treats humans as:",
+      "options": [
+        "Data points defined by likes, posts, and metrics",
+        "Complex, multi-dimensional beings",
+        "Unchanging essences",
+        "Purely spiritual entities"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The existentialist reply to digital reductionism, drawing on Sartre, argues that:",
+      "options": [
+        "Data fully captures human identity",
+        "Digital profiles are more real than lived experience",
+        "Algorithms understand consciousness completely",
+        "Identity is defined through choices and cannot be captured by static data"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "From a utilitarian perspective, emotional AI chatbots like Replika are justified if:",
+      "options": [
+        "They collect maximum user data",
+        "They improve users' well-being and reduce loneliness",
+        "They replace all human relationships",
+        "They make maximum profit"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "From a Kantian perspective, emotional AI chatbots are problematic because:",
+      "options": [
+        "They risk deceiving users and treating them as means rather than ends",
+        "They are too expensive",
+        "They require too much computing power",
+        "They are not profitable enough"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The 'Kazakh Bata' approach to tech ethics emphasizes:",
+      "options": [
+        "Intentionality—designing with purpose to benefit society: 'May this AI do good'",
+        "Profit maximization above all",
+        "Speed of development over ethics",
+        "Ignoring cultural values"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kant's Categorical Imperative applied to tech design means:",
+      "options": [
+        "Privacy is negotiable",
+        "Never treat users as mere means to an end; respect autonomy and dignity",
+        "Maximize engagement regardless of harm",
+        "Users are resources to be exploited for data"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A posthuman ecological approach to technology would:",
+      "options": [
+        "Prioritize short-term gains over long-term balance",
+        "Design tech that harmonizes with environment and promotes sustainability",
+        "Ignore environmental impact entirely",
+        "Dominate and exploit nature maximally"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "If AI systems convincingly pass the Turing Test, the pressing question becomes:",
+      "options": [
+        "What color to make them",
+        "How to make them faster",
+        "Whether they deserve moral status and rights or protections",
+        "How to reduce their cost"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "A social media company wants to maximize user engagement. Using Al-Ghazali's critique of blind rationalism, what would be the ethical concern?",
+      "options": [
+        "The algorithm isn't fast enough",
+        "The interface design needs better colors",
+        "The servers need more storage",
+        "Prioritizing efficiency without considering empathy or human dignity may harm users"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "An AI system for hiring decisions shows bias against certain groups. Which philosophical framework would best address this?",
+      "options": [
+        "Reduce the dataset size",
+        "Ignore it for efficiency",
+        "Speed up the algorithm",
+        "Apply Shakarim's Three Truths (Conscience, Justice, Reason) to ensure fairness"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "A fitness app wants to use gamification ethically. According to Huizinga's principles, it should:",
+      "options": [
+        "Force all users into competitive leaderboards",
+        "Make participation voluntary and focus on intrinsic motivation for health",
+        "Hide how points are calculated",
+        "Maximize addiction to increase usage"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A company designs an AI assistant for East Asian markets. Using Confucian principles of Li (礼), the AI should:",
+      "options": [
+        "Focus only on Western communication styles",
+        "Respect cultural norms of politeness and hierarchy in interactions",
+        "Ignore local customs completely",
+        "Use informal, casual language only"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A data center wants to become more sustainable. Which philosophical approach provides guidance?",
+      "options": [
+        "Ignore ecological concerns",
+        "Apply Daoist Wu Wei principles to minimize environmental impact",
+        "Prioritize size over efficiency",
+        "Maximize energy use for faster processing"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "An autonomous vehicle must make a split-second ethical decision. From Marx's perspective on human dignity, the key concern would be:",
+      "options": [
+        "Whether the algorithm treats human lives as mere data points or respects inherent worth",
+        "The vehicle's resale value",
+        "The fuel efficiency",
+        "The processing speed"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "A VR platform allows users to create multiple digital identities. From an existentialist perspective, this:",
+      "options": [
+        "Reflects how existence precedes essence—users create themselves through choices",
+        "Is purely technical with no philosophical implications",
+        "Only matters for entertainment purposes",
+        "Should be prohibited entirely"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

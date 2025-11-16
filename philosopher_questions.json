@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question": "The main task of philosophy is the construction of a new method of science, believed:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The philosopher who formulated 4 methodological rules:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "He created a philosophical system based on the dialectical method:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Who proposed Water as the arche?",
+      "options": [
+        "Anaximenes",
+        "Heraclitus",
+        "Anaximander",
+        "Thales"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Atomists were:",
+      "options": [
+        "Democritus and Leucippus",
+        "Plato and Aristotle",
+        "Thales and Anaximenes",
+        "Zeno and Parmenides"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Rationalism emphasizes reason as the primary source of knowledge, key figures include:",
+      "options": [
+        "Descartes, Spinoza, Leibniz",
+        "Bacon, Locke, Hume",
+        "Kant, Hegel",
+        "Freud, Wittgenstein"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The words 'Man is the measure of all things' belong to:",
+      "options": [
+        "Socrates",
+        "Pythagoras",
+        "Aristotle",
+        "Plato",
+        "Protagoras"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "The term “Philosophy of history” belongs to:",
+      "options": [
+        "Confucius",
+        "Machiavelli",
+        "Aristotle",
+        "Hobbes",
+        "Voltaire"
+      ],
+      "correct_answer": 4
+    }
+  ]
+}

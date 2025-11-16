@@ -1,0 +1,624 @@
+{
+  "questions": [
+    {
+      "question": "Consciousness has been a central enigma in philosophy, representing the essence of:",
+      "options": [
+        "self-awareness and thought",
+        "economic power",
+        "physical strength",
+        "social status"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "In modern science, consciousness is approached as a function of:",
+      "options": [
+        "the brain",
+        "the soul",
+        "the body",
+        "the environment"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "For IT, consciousness and thinking inform:",
+      "options": [
+        "UI/UX design, AI, and human-computer interaction",
+        "data storage techniques",
+        "hardware manufacturing",
+        "network security only"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Plato viewed the soul as an immortal substance that knows:",
+      "options": [
+        "eternal ideas",
+        "temporary sensations",
+        "social norms",
+        "physical matter"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Plato's theory of anamnesis suggests learning is:",
+      "options": [
+        "forgetting old ideas",
+        "recollecting knowledge the soul had before birth",
+        "creating new knowledge",
+        "imitating others"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Aristotle defined the soul as the form (entelechy) of:",
+      "options": [
+        "abstract concepts",
+        "social structures",
+        "a living body",
+        "eternal ideas"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Aristotle's hierarchy of souls includes vegetative, animal, and:",
+      "options": [
+        "digital",
+        "rational",
+        "social",
+        "mystical"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In medieval thought, Augustine emphasized:",
+      "options": [
+        "empirical experiments",
+        "social conformity",
+        "external observation",
+        "self-awareness as the foundation of certainty"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Thomas Aquinas synthesized Aristotelian philosophy with:",
+      "options": [
+        "modern science",
+        "Christian theology",
+        "digital ethics",
+        "Eastern mysticism"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Descartes asserted 'Cogito ergo sum', establishing consciousness as:",
+      "options": [
+        "a social construct",
+        "the one indubitable truth",
+        "an illusion",
+        "pure emotion"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Descartes proposed a dualism where mind and body are:",
+      "options": [
+        "merged in practice",
+        "irrelevant to knowledge",
+        "the same substance",
+        "distinct substances"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "John Locke argued knowledge derives from:",
+      "options": [
+        "innate ideas",
+        "divine revelation",
+        "social agreements",
+        "sensory experience"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Locke emphasized the mind as a 'blank slate' shaped by:",
+      "options": [
+        "environment and observation",
+        "genetics",
+        "mystical experiences",
+        "formal education only"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Immanuel Kant described consciousness as an active, synthetic process that:",
+      "options": [
+        "unifies experiences into coherent self-awareness",
+        "focuses only on external objects",
+        "rejects innate categories",
+        "ignores experiences"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kant: The mind structures reality through:",
+      "options": [
+        "social norms",
+        "random chance",
+        "external forces",
+        "innate categories and concepts"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Hegel viewed consciousness as evolving dialectically as stages of:",
+      "options": [
+        "static knowledge",
+        "individual isolation",
+        "the Absolute Spirit’s self-realization",
+        "pure sensation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Hegel's Phenomenology of Spirit traces consciousness from sense perception to:",
+      "options": [
+        "material wealth",
+        "social conformity",
+        "self-consciousness and absolute knowledge",
+        "complete skepticism"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Freud introduced the unconscious as a powerful driver of:",
+      "options": [
+        "physical strength",
+        "technological innovation",
+        "human thought",
+        "economic decisions"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Wittgenstein showed that language shapes:",
+      "options": [
+        "economic systems",
+        "physical objects",
+        "the structure of thought and reality",
+        "only communication"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In non-classical philosophy, programming languages shape how developers:",
+      "options": [
+        "conceptualize problems and solutions",
+        "ignore problems",
+        "avoid cognition",
+        "reject linguistics"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Cognitive science studies consciousness as a:",
+      "options": [
+        "economic factor",
+        "mystical entity",
+        "social illusion",
+        "brain-generated phenomenon"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The evolution of consciousness mirrors challenges in IT, such as modeling:",
+      "options": [
+        "social media trends",
+        "only hardware",
+        "human thinking and consciousness",
+        "economic models"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Cognition is the core process through which humans:",
+      "options": [
+        "reject understanding",
+        "ignore the world",
+        "acquire, process, and apply knowledge",
+        "focus on emotions only"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Socrates' maieutics is a technique of:",
+      "options": [
+        "rejecting self-examination",
+        "leading questions to uncover truth",
+        "direct instruction",
+        "ignoring dialogue"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Plato distinguished between doxa (opinion) and:",
+      "options": [
+        "techne (art)",
+        "nomos (law)",
+        "physis (nature)",
+        "episteme (knowledge)"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Aristotle advanced empirical observation combined with:",
+      "options": [
+        "social conformity",
+        "formal logic",
+        "emotional reasoning",
+        "mystical intuition"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In medieval debate, realism holds that universals:",
+      "options": [
+        "do not exist",
+        "are illusions",
+        "exist independently",
+        "are only names"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Nominalism, associated with William of Ockham, states universals are:",
+      "options": [
+        "eternal forms",
+        "only names",
+        "real entities",
+        "social constructs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Ockham's Razor advises not to multiply entities beyond:",
+      "options": [
+        "tradition",
+        "necessity",
+        "imagination",
+        "convenience"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Rationalism emphasizes reason as the primary source of knowledge, key figures include:",
+      "options": [
+        "Descartes, Spinoza, Leibniz",
+        "Bacon, Locke, Hume",
+        "Kant, Hegel",
+        "Freud, Wittgenstein"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Empiricism views knowledge as derived from:",
+      "options": [
+        "innate ideas",
+        "social consensus",
+        "sensory experience",
+        "divine revelation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Hume's problem of induction questions whether past experience can guarantee:",
+      "options": [
+        "future truths",
+        "moral values",
+        "innate knowledge",
+        "social harmony"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kant's Copernican Revolution synthesizes rationalism and empiricism through:",
+      "options": [
+        "mystical insight",
+        "social practice",
+        "a priori forms",
+        "pure sensation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Analytical tradition focuses on cognition through:",
+      "options": [
+        "language and meaning",
+        "evolutionary adaptation",
+        "social power",
+        "mystical experience"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Postmodernism (Foucault) explores the relationship between knowledge and:",
+      "options": [
+        "power",
+        "sensation",
+        "tradition",
+        "logic"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Evolutionary epistemology views cognition as an adaptive tool shaped by:",
+      "options": [
+        "mystical revelations",
+        "abstract logic",
+        "evolutionary processes",
+        "social conventions"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In IT, machine learning represents pure:",
+      "options": [
+        "idealism",
+        "empiricism",
+        "skepticism",
+        "rationalism"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Indian philosophy identifies multiple pramanas, including perception and:",
+      "options": [
+        "coherence",
+        "inference",
+        "pragmatism",
+        "convention"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The ultimate goal of cognition in Indian tradition is:",
+      "options": [
+        "technological development",
+        "accumulation of facts",
+        "moksha (liberation)",
+        "social harmony"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The concept of Maya denotes the illusory nature of:",
+      "options": [
+        "social structures",
+        "moral laws",
+        "eternal truths",
+        "the sensory world"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "In Confucianism, the rectification of names ensures:",
+      "options": [
+        "technological innovation",
+        "social harmony",
+        "personal isolation",
+        "mystical union"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Daoism accesses knowledge through wu-wei, or:",
+      "options": [
+        "formal study",
+        "non-action",
+        "intense effort",
+        "social debate"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Sufism denotes intuitive spiritual knowledge as:",
+      "options": [
+        "wu-wei",
+        "marifa",
+        "pramana",
+        "danalik"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The classical definition of knowledge requires belief, truth, and:",
+      "options": [
+        "justification",
+        "power",
+        "tradition",
+        "emotion"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Edmund Gettier's paper showed that justified true belief is:",
+      "options": [
+        "the only definition",
+        "irrelevant to knowledge",
+        "insufficient for knowledge",
+        "sufficient for knowledge"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In the DIKW pyramid, knowledge answers:",
+      "options": [
+        "when?",
+        "where?",
+        "what?",
+        "how? and why?"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Wisdom in DIKW involves:",
+      "options": [
+        "patterns",
+        "raw facts",
+        "structured data",
+        "ethical considerations"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Kant's noumenon is the object as it exists:",
+      "options": [
+        "in itself",
+        "in society",
+        "in data",
+        "in perception"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Husserl's phenomenology proposes to return to:",
+      "options": [
+        "naive realism",
+        "digital interfaces",
+        "the things themselves",
+        "social norms"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Enactivism views consciousness as arising from:",
+      "options": [
+        "embodied interaction with the environment",
+        "isolated brain activity",
+        "abstract logic",
+        "social consensus"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Correspondence theory defines truth as:",
+      "options": [
+        "internal consistency",
+        "social agreement",
+        "match between thought and reality",
+        "practical utility"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Coherence theory sees truth as consistency within:",
+      "options": [
+        "practical actions",
+        "cultural norms",
+        "a system of beliefs",
+        "sensory experiences"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Pragmatic theory, per William James, sees truth as:",
+      "options": [
+        "absolute correspondence",
+        "conventional agreement",
+        "the expedient in thinking",
+        "logical coherence"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Conventional theory views truth as:",
+      "options": [
+        "mystical insight",
+        "personal belief",
+        "sensory data",
+        "consensus among experts"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "In Kazakh tradition, knowledge is derived from experience, reason, and:",
+      "options": [
+        "economic factors",
+        "scientific experiments",
+        "digital tools",
+        "authority of sages"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The goal of knowledge in Kazakh tradition is practical wisdom for:",
+      "options": [
+        "social harmony and balance with nature",
+        "technological dominance",
+        "individual wealth",
+        "abstract theory"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The 'ustaz-shakirt' institute emphasizes:",
+      "options": [
+        "social isolation",
+        "mentorship and moral guidance",
+        "digital learning",
+        "formal exams only"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A Kazakh proverb: 'A knowledgeable person can save a thousand, the ignorant can:'",
+      "options": [
+        "ruin even one",
+        "build wealth",
+        "learn quickly",
+        "ignore wisdom"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Abai's 'Words of Edification' advise studying to become master of land and sea, not to:",
+      "options": [
+        "boast to ignoramuses",
+        "accumulate wealth",
+        "reject tradition",
+        "avoid learning"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Shakarim's 'Three Truths' include knowledge through reason, heart, and:",
+      "options": [
+        "spiritual law",
+        "technological means",
+        "economic gain",
+        "social power"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Digital Kazakhstan program emphasizes preserving cultural identity while advancing:",
+      "options": [
+        "traditional only",
+        "economic decline",
+        "technology",
+        "isolation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "New generation IT specialists in Kazakhstan combine technology with:",
+      "options": [
+        "cultural rejection",
+        "social disconnection",
+        "humanistic values",
+        "pure profit"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

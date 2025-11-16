@@ -1,0 +1,522 @@
+{  "questions": [
+    {
+      "question": "The term 'ontology' comes from Greek 'onto' meaning 'being' and 'logos' meaning:",
+      "options": ["reason", "knowledge", "science", "word"],
+      "correct_answer": 2
+    },
+    {
+      "question": "The word 'being' has two senses. Which is the first?",
+      "options": [
+        "What it is to be",
+        "Non-existence",
+        "Something that is, or exists",
+        "A universal form"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ontology studies being in two ways. Which is NOT one of them?",
+      "options": [
+        "What all things have in common",
+        "Study of what exists",
+        "Study of what it is to exist",
+        "Study of social norms"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Ontology is the study of everything under the aspect of:",
+      "options": [
+        "its change",
+        "its being/existing",
+        "its value",
+        "its social role"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Scientific ontology studies entities regarded as basic or significant across:",
+      "options": ["the arts", "virtual worlds", "myths", "the sciences"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Social ontology is the study of:",
+      "options": [
+        "social entities and what they have in common",
+        "mathematical truths",
+        "physical objects",
+        "natural laws"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which is a main ontological category listed?",
+      "options": ["Color", "Energy", "Substance", "Emotion"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Substance is described as:",
+      "options": [
+        "an event",
+        "a relation",
+        "the fundamental entity that exists in itself",
+        "a temporary state"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The Greek 'ousia' means 'being' and Latin 'substantia' means:",
+      "options": [
+        "something that stands under or grounds things",
+        "a quality",
+        "a mode",
+        "something that changes"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Pre-Socratics shifted from mythology to naturalistic explanations using:",
+      "options": [
+        "poetry",
+        "divine revelation",
+        "faith",
+        "reason and observation"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Pre-Socratics focused on the 'arche', which is:",
+      "options": [
+        "the Forms",
+        "the fundamental principle of substance",
+        "the void",
+        "the soul"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Who proposed Water as the arche?",
+      "options": ["Anaximenes", "Heraclitus", "Anaximander", "Thales"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Anaximander's arche was:",
+      "options": ["Fire", "Air", "Water", "Boundless (Apeiron)"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Heraclitus is associated with:",
+      "options": [
+        "continuous change and fire",
+        "atoms and void",
+        "numbers",
+        "being is eternal"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Parmenides said:",
+      "options": [
+        "non-being exists",
+        "multiplicity is real",
+        "\"thinking and being are the same\"",
+        "change is illusion"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The Atomists were:",
+      "options": [
+        "Democritus and Leucippus",
+        "Plato and Aristotle",
+        "Thales and Anaximenes",
+        "Zeno and Parmenides"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Plato's true realities are:",
+      "options": [
+        "the sensible world",
+        "the Forms",
+        "changing events",
+        "material objects"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In Plato, the physical world is:",
+      "options": [
+        "a shadow of the Forms",
+        "made of atoms",
+        "the only reality",
+        "perfect and unchanging"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Aristotle viewed substance as:",
+      "options": [
+        "particular concrete entities",
+        "Forms separate from things",
+        "modes of God",
+        "illusions"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Aristotle's forms are:",
+      "options": [
+        "separate ideals",
+        "mathematical",
+        "in the things",
+        "non-existent"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which is Aristotle's Material Cause?",
+      "options": [
+        "What it is made of",
+        "Who made it",
+        "The shape",
+        "Its purpose"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The Final Cause is:",
+      "options": ["the matter", "the purpose or end", "the maker", "the form"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Avicenna and Thomas Aquinas are associated with:",
+      "options": [
+        "Kazakh thought",
+        "Pre-Socratics",
+        "Medieval Philosophy",
+        "Modern Era"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Descartes proposed:",
+      "options": ["monism", "pluralism", "atomism", "mind-body dualism"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Spinoza believed in:",
+      "options": [
+        "one substance: God or Nature",
+        "many monads",
+        "no substance",
+        "two substances"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Leibniz's monads are:",
+      "options": [
+        "mind-like substances",
+        "illusions",
+        "material atoms",
+        "social entities"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Hume said belief in substance is:",
+      "options": [
+        "divine",
+        "a mistake or illusion",
+        "necessary",
+        "identical to thought"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Non-classical ontology emphasizes:",
+      "options": [
+        "fixed categories",
+        "process and transition",
+        "rigidity",
+        "dualism"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Heidegger's key question is:",
+      "options": [
+        "What is VR?",
+        "\"What does it mean for something to be?\"",
+        "What is the arche?",
+        "What is matter?"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Heidegger's 'Dasein' means:",
+      "options": ["death", "human existence", "time", "the world"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Heidegger: 'Death is the possibility of the absolute impossibility of...'",
+      "options": ["Being", "Dasein", "Thought", "World"],
+      "correct_answer": 1
+    },
+    {
+      "question": "In Kazakh philosophy, nature is seen as:",
+      "options": ["a mode", "illusion", "a shadow", "absolute reality"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Metaphysics deals with things that:",
+      "options": ["are virtual", "are social", "do not change", "change"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Aristotle's category 'Passion' refers to:",
+      "options": ["being acted upon", "time", "place", "acting"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Parmenides: non-being is:",
+      "options": ["unthinkable", "changeable", "thinkable", "real"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Descartes: 'Cogito ergo sum' proves:",
+      "options": [
+        "thinking proves existence",
+        "external world",
+        "body exists",
+        "God exists"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The Evil Demon argument leads to:",
+      "options": [
+        "certainty of matter",
+        "atomism",
+        "monism",
+        "radical skepticism"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Matrix film raises questions about:",
+      "options": [
+        "simulation hypothesis",
+        "Kazakh nomadism",
+        "four causes",
+        "arche"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is ontology?",
+      "options": [
+        "Study of society",
+        "Study of being",
+        "Study of knowledge",
+        "Study of motion"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is metaphysics concerned with?",
+      "options": [
+        "Unchanging principles",
+        "Social structures",
+        "Changeable things",
+        "Virtual worlds"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Being and existence refer to:",
+      "options": [
+        "illusions",
+        "only matter",
+        "what exists and what it is to exist",
+        "only mind"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Modern physics blurs matter and:",
+      "options": ["forms", "void", "energy", "monads"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Philosophers on VR discuss:",
+      "options": [
+        "arche",
+        "four causes",
+        "social ontology",
+        "nature of consciousness and reality"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Matrix illustrates:",
+      "options": [
+        "skepticism about reality",
+        "Pre-Socratic change",
+        "hylomorphism",
+        "Kazakh space"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Anaximenes' arche was:",
+      "options": ["Air", "Water", "Fire", "Apeiron"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Pythagoras is linked to:",
+      "options": ["fire", "being", "void", "numbers"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Zeno is known for:",
+      "options": ["atoms", "forms", "paradoxes", "monads"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Plato's two realms: Intelligible and:",
+      "options": ["Atomic", "Social", "Virtual", "Sensible"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Aristotle's Efficient Cause is:",
+      "options": ["the maker", "the shape", "the matter", "the purpose"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Newton viewed matter as having:",
+      "options": [
+        "form only",
+        "no power",
+        "active gravitational power",
+        "only extension"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Post-non-classical ontology includes:",
+      "options": [
+        "synergetic principles",
+        "dualism",
+        "fixed substances",
+        "myths"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Heidegger: Being-in-the-world means humans are:",
+      "options": [
+        "illusions",
+        "outside time",
+        "separate from world",
+        "intrinsically immersed in it"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Kazakh nomadic lifestyle influenced views of:",
+      "options": ["fixed categories", "forms", "space and time", "atoms"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Metaphysical questions include:",
+      "options": [
+        "What is the weather?",
+        "Who won?",
+        "What is price?",
+        "Why is there something rather than nothing?"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Solipsism holds that only one's ___ is certain to exist.",
+      "options": ["body", "mind", "society", "world"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Teachings about Being:",
+      "options": [
+        "Anthology",
+        "Axiology",
+        "Anthropology",
+        "epistemology",
+        "Ontology"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "How do you understand Nonsense?",
+      "options": [
+        "logics",
+        "bureaucracy",
+        "Absurd",
+        "abstract idea",
+        "confused thinking"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The transcendental means",
+      "options": [
+        "consciousness",
+        "\"going beyond\"",
+        "truth",
+        "being",
+        "\"exist here and now\""
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The \"Immanence» means",
+      "options": [
+        "truth",
+        "consciousness",
+        "Аbstract idea",
+        "\"internal, integral, innate.\"",
+        "\"«come from outside, otherworldly»\""
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The term \"Culture» originated from",
+      "options": ["Nature", "Civilization", "Cultivate", "Natural", "Being"],
+      "correct_answer": 2
+    },
+    {
+      "question": "\"Ontos» means",
+      "options": ["Nature", "Being", "Essence", "Existence", "truth"],
+      "correct_answer": 1
+    },
+    {
+      "question": "To be «Outside, otherworldly» means",
+      "options": ["truth", "Nature", "Transcendental", "Existence", "Being"],
+      "correct_answer": 2
+    },
+    {
+      "question": "The «Ability of an entity to interact with physical or mental reality» is",
+      "options": ["consciousness", "truth", "Existence", "Nature", "being"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the opposite of Being?",
+      "options": ["consciousness", "truth", "Nothingness", "Nature", "Absurd"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the opposite to Culture?",
+      "options": ["Truth", "Existence", "Nature", "Consciousness", "Being"],
+      "correct_answer": 2
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{  "questions": [
+    {
+      "question": "According to the lecture materials, the nature of values is the central subject of study for which branch of philosophy?",
+      "options": [
+        "Ontology",
+        "Epistemology",
+        "Aesthetics",
+        "Axiology",
+        "Ethics"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "According to the lecture materials, interface design based on dopamine stimulation and maximizing user time in an application most closely aligns with the principles of:",
+      "options": [
+        "Hedonism",
+        "Aristotle's virtue ethics",
+        "Religious ethics",
+        "Kant's duty ethics",
+        "Utilitarianism"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Developers resolving the dilemma between data collection for personalization and users' right to privacy are, in essence, defining:",
+      "options": [
+        "The objective truth of mathematical algorithms",
+        "The market value of an IT company's shares",
+        "The processing speed of big data",
+        "The hierarchy of values encapsulated within the product",
+        "The aesthetics of the user interface"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The lecture argues that in the digital age, ethical norms, not legal ones, are primary for decision-making in the 'gray zone.' Which logical conclusion directly follows from this assertion?",
+      "options": [
+        "Developers should ignore legal norms as they are obsolete",
+        "A developer's moral responsibility is always broader and precedes their legal liability",
+        "The legal system will soon completely subsume the system of professional ethics",
+        "Government regulation is the most effective way to solve ethical dilemmas in IT",
+        "Any action that does not violate the law is ethical by default"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Why is Kant's Categorical Imperative, according to the lecture's logic, a stricter and more universal tool compared to Confucius's Golden Rule?",
+      "options": [
+        "Because it is older and therefore more authoritative",
+        "Because it is written in complex philosophical language",
+        "Because it tests the logical consistency of a maxim as a universal law, rather than being based on personal desires",
+        "Because it provides for legal punishment for non-compliance",
+        "Because it ignores the consequences of an act, unlike Confucius's rule"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to the lecture, 'Freedom' in the ethical sense is inextricably linked to 'Responsibility.' Following this logic, what does 'developer freedom' mean in the context of creating an algorithm?",
+      "options": [
+        "The freedom to choose architectural and design decisions, which inherently entails responsibility for all social consequences of those decisions",
+        "The right to complete creative and professional autonomy without external control",
+        "Freedom from responsibility if an action formally does not break the law",
+        "The freedom to follow only those norms that the developer has chosen for themselves",
+        "Exemption from the need to foresee the long-term consequences of complex systems' operations"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The lecture presents the dilemma of the autonomous vehicle as a clash between deontological and utilitarian ethics. What is the fundamental philosophical conflict at the heart of this case that makes it so intractable?",
+      "options": [
+        "A conflict between the processing speed of the car's computer and the slow, human reaction time",
+        "A conflict between the cost of the vehicle's hardware and the software required for ethical decision-making",
+        "A conflict between the driver's right to privacy and the manufacturer's need to collect crash data",
+        "A conflict between federal safety regulations and the international standards for artificial intelligence",
+        "A conflict between an action's inherent morality (based on rules and duty) and the morality of its outcomes (based on maximizing collective good)"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "According to Kant's second formulation of the Categorical Imperative, as explained in the lecture, what is the fundamental ethical principle that must guide action in the digital era?",
+      "options": [
+        "The principle of maximizing user engagement and platform growth",
+        "The principle of achieving the greatest good for the greatest number of people",
+        "The principle that humanity, in every person, must be treated as an end in itself and never merely as a means",
+        "The principle that moral rules are social constructs designed for societal preservation",
+        "The principle that the value of an action is determined by its evolutionary utility for survival"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The lecture suggests that the origin of human morality is most likely found at the intersection of biology and culture. What is the proposed role of each, according to this synthesis?",
+      "options": [
+        "Culture suppresses our immoral biological instincts, while biology has no positive role in morality",
+        "Biology determines our specific moral rules, while culture merely transmits them",
+        "Biology provides the foundational capacity for moral feelings (e.g., empathy), while culture provides the specific language and historical rules",
+        "Culture is the source of all altruism, while biology is the source of all selfishness and evil",
+        "Both biology and culture are irrelevant, as morality is a purely rational construct of the human mind"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to the lecture, what fundamental role does reason (aql) play in the ethical system of al-Farabi and Ibn Sina (Avicenna), which inherits the ancient tradition?",
+      "options": [
+        "Reason serves as a tool to suppress all emotions and passions as pure evil",
+        "Reason is the key faculty enabling humans to distinguish good from evil, control passions, and lead a virtuous life that leads to happiness",
+        "Reason is primarily needed for developing complex technological solutions and improving efficiency",
+        "Reason is secondary to divine revelation and serves only to interpret it",
+        "Reason is a source of moral relativism and should therefore be subordinated to collective norms"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "According to the 'Philosophical Roots: Falsafa' section, what unites the approaches of Al-Farabi and Ibn Sina?",
+      "options": [
+        "They both rejected the role of reason in favor of blind faith",
+        "They both emphasized the conflict between Greek philosophy and Islamic thought",
+        "They both viewed reason as the key to achieving a virtuous life and understanding justice",
+        "They both believed that ethical norms should be determined solely by the state",
+        "Their teachings were entirely focused on metaphysics, with no connection to ethics"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to the lecture, how can the traditional value of 'Sabr' (Patience) be applied in a modern IT context?",
+      "options": [
+        "As a quality that promotes resilience and mental stability when facing online criticism and in a fast-paced environment",
+        "As a tool to accelerate software development",
+        "As a means to increase competitiveness on the global market",
+        "As a principle obliging IT specialists to always agree with users",
+        "As a method for minimizing the use of algorithms"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "According to the lecture, under what condition does power gain ethical legitimacy?",
+      "options": [
+        "When it is used to suppress dissent and maintain order",
+        "When it is exercised secretly for the efficient achievement of goals",
+        "When it is derived from the consent of the governed and exercised transparently to serve society's interests",
+        "When it is concentrated in the hands of a single political party",
+        "When it guarantees economic growth at any cost"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following forms of violence is defined in the presentation as 'systemic inequality'?",
+      "options": [
+        "Cyber violence",
+        "Physical violence",
+        "Symbolic violence",
+        "Structural violence",
+        "Psychological violence"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How is 'tolerance' understood according to the presentation?",
+      "options": [
+        "As passive acceptance or ignoring of differences",
+        "As active engagement and respect for others' beliefs and identities",
+        "As full agreement with the views of others",
+        "As an obligation to accept any actions of other people",
+        "As a legal principle applied only to religious groups"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "According to the section 'From Abstract Ethics to Professional Duty', what is the main purpose of creating formal rules for professional behavior, like the Hippocratic Oath or IEEE rules?",
+      "options": [
+        "To lower company operating costs by standardizing behavior",
+        "To resolve conflicts of interest and ensure responsible and fair conduct",
+        "To increase the profession's profitability by creating monopoly standards",
+        "To limit access to the profession and raise the status of its members",
+        "To transfer all responsibility for ethical decisions to artificial intelligence"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the listed bioethical principles directly requires technology to ensure users have the right to make informed decisions about their own health and data?",
+      "options": [
+        "The principle of 'do no harm'",
+        "The principle of justice",
+        "The principle of respect for autonomy",
+        "The principle of integrity",
+        "The principle of confidentiality"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "According to the 'Bioethics' section of the presentation, which key principle combines the duty to avoid causing harm with the duty to ensure fair access to technology's benefits?",
+      "options": [
+        "Respect for Autonomy",
+        "Do No Harm and Justice",
+        "Honesty and Transparency",
+        "Corporate Social Responsibility",
+        "Sustainable Development"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

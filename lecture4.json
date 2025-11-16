@@ -1,0 +1,452 @@
+{  "questions": [
+    {
+      "question": "What is the main focus of Philosophy of Science?",
+      "options": [
+        "Focuses on social media impacts",
+        "Deals with virtual realities only",
+        "Examines foundations, methods, and implications of science",
+        "Studies only technological tools"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The demarcation problem in Philosophy of Science asks:",
+      "options": [
+        "Why study IT?",
+        "What counts as scientific knowledge?",
+        "What is the nature of tools?",
+        "How technology shapes society?"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Philosophy of Technology studies:",
+      "options": [
+        "Ethical limits in research",
+        "The nature of technology beyond mere tools",
+        "Gradual scientific progress",
+        "Only scientific methods"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Heidegger's view in Philosophy of Technology is that technology:",
+      "options": [
+        "Only extends human power",
+        "Is just a neutral tool",
+        "Has no ethical implications",
+        "Shapes human thought and society"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Why should IT specialists care about Philosophy of Science & Technology?",
+      "options": [
+        "For hardware design only",
+        "Only for coding skills",
+        "To ignore social impacts",
+        "For ethical decision-making, understanding knowledge & reality, avoiding unintended consequences"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "In ancient times, science (episteme) was:",
+      "options": [
+        "Theoretical knowledge",
+        "Digital simulation",
+        "Manual work",
+        "Practical skill"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Technique (techne) in antiquity was:",
+      "options": [
+        "Mass production",
+        "AI development",
+        "Practical skill",
+        "Theoretical knowledge"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "During the Industrial Revolution, science and engineering merged leading to:",
+      "options": [
+        "Systematic technology like factories",
+        "Big Data",
+        "Quantum innovations",
+        "Virtual realities"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Francis Bacon promoted science for:",
+      "options": [
+        "Social media",
+        "Mystical purposes",
+        "Theoretical only",
+        "Practical use"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "In the digital age, Big Data, AI, and simulations create a feedback loop with:",
+      "options": [
+        "Ancient philosophy",
+        "Science and technology",
+        "Only technique",
+        "Manual labor"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Key debate in Philosophy of Tech: Whether machines can truly think is explored in:",
+      "options": [
+        "Post-Truth",
+        "Technological Determinism",
+        "Transhumanism",
+        "AI & Consciousness"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Technological Determinism vs Social Shaping debates:",
+      "options": [
+        "If AI is conscious",
+        "Ethical dilemmas",
+        "Bioethics",
+        "Whether technology controls society or society shapes technology"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Post-Truth & Crisis of Knowledge addresses:",
+      "options": [
+        "Human enhancement",
+        "Trusting science amid misinformation",
+        "Job displacement",
+        "Surveillance"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Transhumanism & Bioethics focuses on:",
+      "options": [
+        "Social media activism",
+        "Deepfakes",
+        "Enhancing humans with technology",
+        "Algorithm fairness"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ethical Dilemmas & Societal Impact includes:",
+      "options": [
+        "Quantum physics",
+        "Only AI consciousness",
+        "Privacy, surveillance, job displacement",
+        "Steam engines"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Philosophy encourages IT pros to ask:",
+      "options": [
+        "Ignore ethics",
+        "'Should we build it?' beyond 'Can we build it?'",
+        "Only technical questions",
+        "About hardware only"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Marshall McLuhan described technologies as:",
+      "options": [
+        "Immaterial code",
+        "Neutral tools",
+        "Parasitic systems",
+        "Extensions of human faculties"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Heidegger highlighted that technology:",
+      "options": [
+        "Is always visible",
+        "Only extends power",
+        "Withdraws from awareness until it fails",
+        "Has no paradoxes"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In Technocracy, rule is by:",
+      "options": [
+        "Social shaping",
+        "Humanistic values",
+        "Technical experts focusing on efficiency",
+        "Philosophers"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Humanism in tech prioritizes:",
+      "options": [
+        "Dehumanizing people",
+        "Data-driven decisions only",
+        "Ethical, social, accessibility concerns",
+        "Pure efficiency"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Heidegger’s Warning: Modern technology 'enframes' humans as:",
+      "options": [
+        "Resources to be optimized",
+        "Tools",
+        "Irrelevant",
+        "Free agents"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Digital code lacks physical form but drives:",
+      "options": [
+        "Ancient skills",
+        "Only virtual impacts",
+        "No societal change",
+        "Real-world effects like energy consumption"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Unlike past revolutions, digital tech disrupts:",
+      "options": [
+        "In distinct phases",
+        "Only once",
+        "Continuously with real-time updates",
+        "Manually"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Digital systems can:",
+      "options": [
+        "Self-modify and evolve autonomously",
+        "Ignore machine learning",
+        "Reject updates",
+        "Remain static"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "AR and VR technologies:",
+      "options": [
+        "Are physical tools",
+        "Have no impact",
+        "Only represent reality",
+        "Compete with and reshape human perception"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "A single app can influence:",
+      "options": [
+        "Ancient societies",
+        "Only local users",
+        "Billions worldwide instantly",
+        "No one"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "IT Responsibility Checklist: Consider human scale, autonomy, and:",
+      "options": [
+        "Hardware only",
+        "Second-order effects like social polarization",
+        "Only first-order effects",
+        "No effects"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The most dangerous phrase in tech is:",
+      "options": [
+        "Should we build it?",
+        "Let’s think ethically",
+        "What are the consequences?",
+        "I’m just following requirements"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Final question: If technology is the answer, what was the:",
+      "options": ["Code?", "Tool?", "Question?", "Extension?"],
+      "correct_answer": 2
+    },
+    {
+      "question": "The words 'Man is the measure of all things' belong to:",
+      "options": ["Socrates", "Pythagoras", "Aristotle", "Plato", "Protagoras"],
+      "correct_answer": 4
+    },
+    {
+      "question": "In what period of philosophy was Man the image and likeness of God?",
+      "options": [
+        "Medieval Philosophy",
+        "Ancient Philosophy",
+        "Renaissance Philosophy",
+        "Philosophy of 20th century",
+        "Philosophy of Modern Time"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Anthropocentrism and humanism are inherent in the epoch of:",
+      "options": [
+        "Ancient Philosophy",
+        "Philosophy of Modern Time",
+        "Renaissance Philosophy",
+        "Medieval Philosophy",
+        "Philosophy of 20th century"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In the philosophy of this period, the motives of individualism, egoism, and utilitarianism associated with nascent capitalism are clearly heard:",
+      "options": [
+        "Medieval Philosophy",
+        "Philosophy of Modern Time",
+        "Ancient Philosophy",
+        "Philosophy of 20th century",
+        "Renaissance Philosophy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A philosophical concept that denies the possibility of a reasonable knowledge of reality:",
+      "options": [
+        "Personalism",
+        "Existentialism",
+        "Irrationalism",
+        "Pragmatism",
+        "Utilitarianism"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Scientism is the view that:",
+      "options": [
+        "Science is the only valid form of knowledge",
+        "Technology is neutral",
+        "Ethics are irrelevant",
+        "Humanism overrides tech"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Anti-scientism argues against:",
+      "options": [
+        "Over-reliance on science ignoring other knowledge forms",
+        "Ethical considerations",
+        "Digital disruptions",
+        "Technological progress"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "IT Ethics involves:",
+      "options": [
+        "Hardware maintenance",
+        "No social impacts",
+        "Only coding standards",
+        "Fair algorithms, privacy, responsibility for AI harms"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Ethical limits are explored in:",
+      "options": [
+        "Theoretical knowledge",
+        "Manual skills",
+        "Only ancient tech",
+        "AI ethics, genetic engineering"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The Turing Test is mentioned in debates about:",
+      "options": [
+        "AI & Consciousness",
+        "Social Shaping",
+        "Bioethics",
+        "Post-Truth"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The Chinese Room argument challenges:",
+      "options": [
+        "Technological determinism",
+        "Human extension",
+        "Whether machines can truly understand",
+        "Digital immateriality"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Smartphones changing communication is an example of:",
+      "options": [
+        "Transhumanism",
+        "AI consciousness",
+        "Technological Determinism vs Social Shaping",
+        "Post-Truth"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Deepfakes raise questions in:",
+      "options": [
+        "Bioethics",
+        "Post-Truth & Crisis of Knowledge",
+        "Technocracy",
+        "Humanism"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Cyborgs and genetic editing are part of:",
+      "options": [
+        "Instrumental View",
+        "Algorithmic Reality",
+        "Systemic View",
+        "Transhumanism & Bioethics"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Job displacement is an ethical dilemma in:",
+      "options": [
+        "Societal Impact of technology",
+        "Quantum physics",
+        "Ancient episteme",
+        "Industrial Revolution"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Technology is never:",
+      "options": ["Useful", "Neutral", "Digital", "Innovative"],
+      "correct_answer": 1
+    },
+    {
+      "question": "IT professionals shape:",
+      "options": [
+        "The digital future wisely",
+        "No society",
+        "Hardware alone",
+        "Only code"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

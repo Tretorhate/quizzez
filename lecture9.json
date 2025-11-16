@@ -1,0 +1,499 @@
+{
+  "questions": [
+    {
+      "question": "What is the ultimate goal of communism according to Marx?",
+      "options": [
+        "Abolition of private property and classes",
+        "Expansion of free markets",
+        "Strong nationalism",
+        "Creating a religious society",
+        "Strengthening monarchies"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "For Toynbee, the key condition for the survival of a civilization is:",
+      "options": [
+        "Technological progress",
+        "Military expansion",
+        "Religious dominance",
+        "The ability of a creative minority to lead society",
+        "Abundance of natural resources"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the central idea of Spengler’s The Decline of the West?",
+      "options": [
+        "Economic systems determine culture",
+        "History is linear and progressive",
+        "Religion is the only driving force of history",
+        "Civilizations develop in cycles of growth and decline",
+        "Political revolutions explain history"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the central idea of Huntington’s Clash of Civilizations?",
+      "options": [
+        "Economic globalization will unify the world",
+        "Religion will no longer influence politics",
+        "Future conflicts will be primarily cultural and civilizational",
+        "Ideological conflicts will dominate the future",
+        "Wars will disappear in the 21st century"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is Fukuyama’s main claim in The End of History?",
+      "options": [
+        "History is a cycle of rise and decline",
+        "Religion will replace ideology",
+        "Liberal democracy marks the final stage of political development",
+        "Civilizations are destined to clash",
+        "Capitalism will be replaced by socialism"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which global event revived debates about Huntington vs. Fukuyama?",
+      "options": [
+        "The rise of the Roman Empire",
+        "World War I",
+        "The Cold War ending in 1991",
+        "The French Revolution",
+        "The Industrial Revolution"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How do you understand pantheism?",
+      "options": [
+        "The belief that God created the world but does not interfere (deism)",
+        "The belief in many gods (polytheism)",
+        "The doctrine that God and nature are identical; God is present in all things",
+        "The worship of spirits of ancestors",
+        "The belief in one personal God (monotheism)"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the concept of nomadic traditional democracy among the Kazakhs?",
+      "options": [
+        "A modern political party system",
+        "Military dictatorship without social participation",
+        "Absolute power of the khan without consultation",
+        "Collective decision-making through councils of elders and biys (assemblies)",
+        "Rule by foreign invaders"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is a cultural code?",
+      "options": [
+        "A modern technological innovation",
+        "A language grammar rule",
+        "A country’s political system",
+        "A system of economic relations",
+        "A set of symbols, values, shaping identity"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Which of the following best reflects a cosmopolitan perspective?",
+      "options": [
+        "“Every nation should isolate itself.”",
+        "“My country, right or wrong.”",
+        "“Global cooperation is impossible.”",
+        "“Only citizens have rights.”",
+        "“The world is my homeland.”"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Which development best illustrates demassification?",
+      "options": [
+        "A government controlling all media outlets",
+        "Mandatory state television",
+        "Everyone watching the same national TV news program",
+        "Individuals choosing personalized content on social media platforms",
+        "Millions reading only one newspaper"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which of the following is an example of dehierarchization in the 21st century?",
+      "options": [
+        "National TV broadcasting only one narrative",
+        "Corporations with strict chains of command",
+        "Decentralized organizations like open-source communities",
+        "Military-style bureaucracy",
+        "Traditional monarchy"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following is considered a major megatrend of the 21st century?",
+      "options": [
+        "Urbanization",
+        "Return to agrarian society",
+        "Isolationism",
+        "Decline of technology",
+        "End of globalization"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which megatrend contributes to the widening gap between rich and poor?",
+      "options": [
+        "Digitalization",
+        "Cultural integration",
+        "Urbanization",
+        "Environmentalism",
+        "Secularization"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which megatrend is expressed in the decline of religion’s influence on society?",
+      "options": [
+        "Localization",
+        "Migration",
+        "Urbanization",
+        "Militarization",
+        "Secularization"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Philosophy of history is a branch designed to answer questions about:",
+      "options": [
+        "Technological inventions",
+        "Artistic expressions",
+        "Scientific experiments",
+        "Individual biographies",
+        "Objective phenomena and meaning of historical process"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "The term “Philosophy of history” belongs to:",
+      "options": [
+        "Confucius",
+        "Machiavelli",
+        "Aristotle",
+        "Hobbes",
+        "Voltaire"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Social philosophy studies society in its:",
+      "options": [
+        "Historical development",
+        "Isolated parts",
+        "Cultural norms alone",
+        "Economic aspects only",
+        "Static form"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Aristotle believed human nature is:",
+      "options": [
+        "Fundamentally good, emphasizing virtue",
+        "Self-interested and power-driven",
+        "Selfish and competitive",
+        "Pragmatic and cynical",
+        "Kind but requiring cultivation"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Confucius saw human nature as:",
+      "options": [
+        "Cynical without principles",
+        "Good through reason",
+        "Inherently kind, stressing benevolence",
+        "Selfish leading to conflict",
+        "Power-driven"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Machiavelli viewed humans as:",
+      "options": [
+        "Competitive needing government",
+        "Kind with harmony",
+        "Self-interested, ends justifying means",
+        "Good with virtue ethics",
+        "Kind requiring cultivation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Hobbes viewed human nature as:",
+      "options": [
+        "Good through practice",
+        "Kind with respect",
+        "Benevolent in society",
+        "Pragmatic for control",
+        "Selfish and competitive, needing strong government"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Machiavelli's principle is:",
+      "options": [
+        "Virtue through reason",
+        "War of all against all",
+        "Ends over means",
+        "Social harmony",
+        "The goal justifies the means"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Hobbes' phrase 'man is a wolf to man' relates to:",
+      "options": [
+        "Moral cultivation",
+        "Virtue ethics",
+        "Political cynicism",
+        "Natural state of war",
+        "Benevolence"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Marxism interprets history through:",
+      "options": [
+        "Religious forces",
+        "Class conflict",
+        "Cultural destiny",
+        "Political revolutions",
+        "Organic cycles"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Marx's historical materialism sees society developing through:",
+      "options": [
+        "Spiritual contemplation",
+        "Individual choices",
+        "Socio-economic formations",
+        "Cultural diversity",
+        "Local civilizations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Sources of Marxism include French utopianism, Hegel's dialectics, and:",
+      "options": [
+        "Chinese Confucianism",
+        "German idealism",
+        "Greek virtue ethics",
+        "English political economy",
+        "Russian anarchism"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Spengler's civilization approach sees history as:",
+      "options": [
+        "End of ideology",
+        "Cultural clashes",
+        "Cyclical growth and decline",
+        "Class struggles",
+        "Linear progress"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Toynbee identified civilizations based on:",
+      "options": [
+        "Economic modes",
+        "Military power",
+        "Technological progress",
+        "Religious dominance",
+        "Creative minority leadership"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Huntington's clash of civilizations predicts future conflicts as:",
+      "options": [
+        "Religious only",
+        "Disappearing",
+        "Economic",
+        "Cultural and civilizational",
+        "Ideological"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Fukuyama's end of history claims:",
+      "options": [
+        "Classless society",
+        "Cultural unification",
+        "Liberal democracy as final stage",
+        "Wars ending",
+        "Cycle of decline"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Pantheism is the belief that:",
+      "options": [
+        "One personal God",
+        "Ancestor spirits",
+        "God and nature are identical",
+        "God non-interfering",
+        "Many gods"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Nomadic traditional democracy among Kazakhs involved:",
+      "options": [
+        "Party system",
+        "Collective decision-making through councils",
+        "Absolute khan power",
+        "Foreign rule",
+        "Military dictatorship"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "A cultural code is a set of:",
+      "options": [
+        "Economic relations",
+        "Grammar rules",
+        "Technological innovations",
+        "Political systems",
+        "Symbols and values shaping identity"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Cosmopolitan perspective is reflected in:",
+      "options": [
+        "My country right or wrong",
+        "Cooperation impossible",
+        "The world is my homeland",
+        "Nations isolate",
+        "Only citizens rights"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Demassification is illustrated by:",
+      "options": [
+        "Personalized social media content",
+        "One newspaper",
+        "National TV program",
+        "State television",
+        "Government media control"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Dehierarchization example in 21st century:",
+      "options": [
+        "Traditional monarchy",
+        "National broadcasting",
+        "Strict corporate chains",
+        "Military bureaucracy",
+        "Decentralized open-source communities"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "A major 21st century megatrend is:",
+      "options": [
+        "Globalization end",
+        "Isolationism",
+        "Agrarian return",
+        "Urbanization",
+        "Technology decline"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Megatrend widening rich-poor gap:",
+      "options": [
+        "Secularization",
+        "Cultural integration",
+        "Environmentalism",
+        "Digitalization",
+        "Urbanization"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Megatrend declining religion influence:",
+      "options": [
+        "Secularization",
+        "Militarization",
+        "Localization",
+        "Urbanization",
+        "Migration"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Naisbitt's megatrends include transition from industrial to:",
+      "options": [
+        "Short-term forecasts",
+        "Informational state",
+        "Institutionalized assistance",
+        "Bureaucratic hierarchy",
+        "Centralization"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Global challenges include acceleration of:",
+      "options": [
+        "Historical time",
+        "Demographic balance",
+        "Resource infinity",
+        "Freshwater surplus",
+        "Food abundance"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Social stratification arranges individuals based on:",
+      "options": [
+        "Access to resources and power",
+        "Equal opportunities",
+        "Identical occupations",
+        "Shared education",
+        "Uniform prestige"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Creative class creates:",
+      "options": [
+        "Bureaucratic hierarchies",
+        "New intellectual and technological products",
+        "Traditional manufacturing",
+        "Military strategies",
+        "Agricultural goods"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Netocracy refers to power held by:",
+      "options": [
+        "Traditional elites",
+        "Those controlling information networks",
+        "Industrial workers",
+        "Agricultural landowners",
+        "Military leaders"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

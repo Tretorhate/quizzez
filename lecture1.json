@@ -1,0 +1,211 @@
+{  "questions": [
+    {
+      "question": "Forms of worldview include:",
+      "options": [
+        "Consciousness, thinking, mind",
+        "Myth, religion, philosophy",
+        "God, nature, society",
+        "Ontology, epistemology, axiology",
+        "Man, person, individual"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Philosophical direction recognizing one beginning of the world:",
+      "options": ["Dualism", "Agnosticism", "Mechanism", "Monism", "Pluralism"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Philosophical doctrine that denies the fundamental possibility of knowing the world:",
+      "options": [
+        "Skepticism",
+        "Agnosticism",
+        "Sensationalism",
+        "Anthropologism",
+        "Atheism"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The meaning of the term Philosophy:",
+      "options": [
+        "Love of wisdom",
+        "Love of Idea",
+        "Love of thinking",
+        "Love of Science",
+        "Love of Truth"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The first form of worldview:",
+      "options": ["Religion", "Mythology", "Philosophy", "Art", "Morality"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Teachings about Being:",
+      "options": [
+        "Epistemology",
+        "Axiology",
+        "Anthology",
+        "Anthropology",
+        "Ontology"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Philosophical direction stating “Space and time are forms of our perception” belongs to:",
+      "options": [
+        "Materialism",
+        "Objective idealism",
+        "Subjective idealism",
+        "Dialectical materialism",
+        "Mechanistic materialism"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Two main sides of the main question of philosophy:",
+      "options": [
+        "Sophistry, eclecticism, dogmatism",
+        "Monism, dualism, pluralism",
+        "Sociology, political science, cultural studies",
+        "Ontology, Gnoseology",
+        "Mythology, religion, philosophy"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Teaching about knowledge:",
+      "options": [
+        "Ontology",
+        "Gnoseology",
+        "Metaphysics",
+        "Axiology",
+        "Anthropology"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Recognition of two substances at the foundation of being:",
+      "options": [
+        "Pluralism",
+        "Dualism",
+        "Monism",
+        "Conventionalism",
+        "Parallelism"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Socrates' method, which helps to give birth to new knowledge, is called:",
+      "options": [
+        "Maieutics",
+        "Dialectics",
+        "Hermeneutics",
+        "Eclectic",
+        "Sophistry"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The main task of philosophy is the construction of a new method of science, believed:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The philosopher who formulated 4 methodological rules:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "He created a philosophical system based on the dialectical method:",
+      "options": [
+        "Socrates",
+        "Rene Descartes",
+        "Francis Bacon",
+        "Georg Hegel",
+        "Aristotle"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "A philosophical method based on the principles of interpretation of any texts or systems of concepts:",
+      "options": [
+        "Maieutics",
+        "Dialectics",
+        "Hermeneutics",
+        "Eclectic",
+        "Sophistry"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "This function is that philosophy develops the basic methods of cognition of the reality:",
+      "options": [
+        "The worldview function",
+        "The methodological function",
+        "The moral function",
+        "The axiological function",
+        "The motivational function"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "This function of philosophy is to develop a worldview position:",
+      "options": [
+        "The worldview function",
+        "The methodological function",
+        "The moral function",
+        "The axiological function",
+        "The motivational function"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "This function of philosophy asserts the consciously normative attitude of a person to himself and to other people:",
+      "options": [
+        "The worldview function",
+        "The methodological function",
+        "The moral function",
+        "The axiological function",
+        "The motivational function"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "This function of philosophy teaches us to recognize the values of the surrounding world:",
+      "options": [
+        "The worldview function",
+        "The methodological function",
+        "The moral function",
+        "The axiological function",
+        "The motivational function"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "This function of philosophy brings up certain interests and ideals in a person, which determine the motives of his behavior and the achievement of his goals:",
+      "options": [
+        "The worldview function",
+        "The methodological function",
+        "The moral function",
+        "The axiological function",
+        "The motivational function"
+      ],
+      "correct_answer": 4
+    }
+  ]
+}

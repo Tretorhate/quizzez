@@ -1,0 +1,553 @@
+{
+  "questions": [
+    {
+      "question": "Which statement best shows the main difference between free will and determinism?",
+      "options": [
+        "Determinism allows unlimited freedom, while free will denies personal choice.",
+        "Determinism says choices are random, while free will says they are predictable.",
+        "Free will and determinism both reject the influence of natural laws.",
+        "Free will and determinism both believe the future is fully predetermined.",
+        "Free will about independent of prior causes, while determinism not ."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Which statement best explains the difference between positive and negative freedom?",
+      "options": [
+        "Positive freedom is self-mastery and the ability to act on one’s own goals, negative freedom is the absence of external interference.",
+        "Positive freedom is the absence of external constraints, negative freedom is self-mastery.",
+        "Positive freedom exists only in democracies, negative freedom only in dictatorships.",
+        "Positive freedom means no rules, negative freedom means following rules.",
+        "Positive freedom is about political rights, negative freedom is about economic wealth."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which example best illustrates negative freedom?",
+      "options": [
+        "A community provides free education so people can improve themselves.",
+        "A government funds programs to help citizens achieve their goals.",
+        "A person develops skills to start their own business.",
+        "A person can speak freely without government censorship.",
+        "A person chooses to follow a strict self-improvement plan."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "During a natural disaster, which Maslow’s level is most likely to be temporarily prioritized over others?",
+      "options": [
+        "Esteem needs.",
+        "Physiological and safety needs.",
+        "Moral self-fulfillment.",
+        "Self-actualization.",
+        "Love and belonging."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "According to Maslow, what usually happens when a lower-level need is largely satisfied?",
+      "options": [
+        "The person’s focus shifts to the next level of needs.",
+        "The person loses interest in higher needs.",
+        "All other needs disappear.",
+        "Needs merge into a single category.",
+        "The person becomes fully self-actualized instantly."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "A successful artist feels financially secure and loved, but takes a dangerous trip to inspire new work. Which statement best explains this behavior using Maslow’s hierarchy?",
+      "options": [
+        "They have skipped the belonging stage.",
+        "They are prioritizing self-actualization over safety.",
+        "They have not yet reached the safety stage.",
+        "They are stuck at esteem needs.",
+        "They are returning to physiological needs."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which statement best describes existentialism?",
+      "options": [
+        "The philosophy that individuals create their own meaning through choices and actions.",
+        "The view that human behavior is entirely determined by biology.",
+        "The theory that reality is purely an illusion created by the mind.",
+        "The belief that society determines all personal values without exception.",
+        "The belief that life has a predetermined meaning given by a higher power."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "According to existentialism, what is the relationship between freedom and responsibility?",
+      "options": [
+        "Freedom means doing anything without consequences.",
+        "Responsibility is irrelevant to personal freedom.",
+        "True freedom comes with full responsibility for one’s choices.",
+        "Freedom exists only when society approves of choices.",
+        "Responsibility limits freedom completely."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How does existentialism view the meaning of life?",
+      "options": [
+        "It is predetermined by fate.",
+        "It is given by religion and tradition.",
+        "It does not exist and cannot be created.",
+        "It is fixed by universal moral laws.",
+        "It is created individually through personal choices and actions."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "A journalist is arrested for publishing criticism of the government. Which right is being violated?",
+      "options": [
+        "Natural right – right to liberty",
+        "Natural right – right to own property",
+        "Political right – freedom of speech",
+        "Political right – right to fair trial",
+        "Natural right – right to life"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "A group of citizens is prevented from organizing a peaceful protest. Which right is being violated?",
+      "options": [
+        "Natural right – right to life",
+        "Natural right – right to security",
+        "Political right – freedom of assembly",
+        "Natural right – right to health",
+        "Political right – right to vote"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which statement best describes political pluralism?",
+      "options": [
+        "The belief that the majority always has absolute authority.",
+        "The belief that one political party should control all aspects of government.",
+        "The idea that multiple groups and viewpoints can coexist and influence political decision-making.",
+        "The idea that political power should be inherited.",
+        "The belief that only experts should make political decisions."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What happened to most leaders of Alash Orda in the 1930s?",
+      "options": [
+        "They joined the White Army.",
+        "They were exiled or executed during Stalin’s purges.",
+        "They returned to traditional nomadic life.",
+        "They became leaders in the Soviet government.",
+        "They moved abroad and lived in exile peacefully."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What was the main role of bii in traditional Kazakh society?",
+      "options": [
+        "To represent the Kazakh people in foreign diplomacy.",
+        "To write poetry and preserve oral traditions.",
+        "To lead military campaigns.",
+        "To collect taxes for the khan.",
+        "To act as judges and mediators, resolving disputes based on customary law (adat)."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Why is the election of khans considered an element of Kazakh democracy?",
+      "options": [
+        "Because the khan had no real power",
+        "Because power was given to a random person",
+        "Because biys and nobles participated in decision-making",
+        "Because khans always obeyed the biys"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which example shows liberty rather than freedom?",
+      "options": [
+        "Walking outside without needing permission from any authority.",
+        "Having the legal right to vote in elections.",
+        "Choosing your favorite food at home.",
+        "Feeling emotionally free from stress.",
+        "Being able to think whatever you want."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which is true about the relationship between freedom and liberty?",
+      "options": [
+        "Freedom is the general state of autonomy, and liberty is the protection of that state by laws or rules.",
+        "Liberty comes from nature, freedom comes from the government.",
+        "Liberty is about moral values, freedom is about money.",
+        "Freedom is always unlimited, liberty is always restricted.",
+        "Freedom and liberty are completely unrelated ideas."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "If a country guarantees liberty, it means:",
+      "options": [
+        "Citizens are emotionally happy.",
+        "Citizens can break laws if they feel it's fair.",
+        "Citizens can do absolutely anything they want with no restrictions.",
+        "Citizens have no government at all.",
+        "Citizens have legally protected rights to act freely within the limits of the law."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is freedom defined as in philosophical terms?",
+      "options": [
+        "The restriction of personal choices",
+        "The right to act, speak, or think as one wants without prevention by other forces",
+        "The denial of self-determination",
+        "The ability to control others",
+        "The obligation to follow societal norms"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Free will is the idea that humans can:",
+      "options": [
+        "Avoid decision-making",
+        "Always follow predetermined fates",
+        "Choose behaviors independently from circumstances",
+        "Ignore natural laws",
+        "Reject all responsibilities"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Liberty is described as a:",
+      "options": [
+        "Natural state without democracy",
+        "Purely internal psychological state",
+        "Rejection of property rights",
+        "Complete absence of laws",
+        "Social condition arising from free people in society"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Freedom is inherent to humans, while liberty is:",
+      "options": [
+        "An internal state only",
+        "A political construct from democracy and social contract",
+        "Limited to economic aspects",
+        "Unrelated to rights",
+        "Denied in society"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Freedom as an internal state refers to:",
+      "options": [
+        "Autonomy from internal constraints like fear or ignorance",
+        "Social norms restriction",
+        "External legal rights only",
+        "Economic wealth",
+        "Political independence alone"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Liberty as a societal condition defines:",
+      "options": [
+        "Cultural traditions only",
+        "Individual isolation",
+        "Political and legal rights granted by society",
+        "Personal spiritual independence",
+        "Internal moral choices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Examples of freedom include:",
+      "options": [
+        "Voting and assembly rights",
+        "Governmental powers",
+        "Freedom of thought, conscience, and moral choice",
+        "Property ownership",
+        "Social contracts"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Examples of liberty include:",
+      "options": [
+        "Psychological freedom",
+        "Moral self-realization",
+        "Internal autonomy",
+        "Political rights like voting and freedom of speech",
+        "Spiritual independence"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Viktor Frankl emphasized that:",
+      "options": [
+        "External actions define freedom",
+        "Freedom is absolute",
+        "Liberty is internal",
+        "Attitude in circumstances cannot be taken away",
+        "Choices are predetermined"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Freedom of moral choice is explored by philosophers like:",
+      "options": [
+        "Al-Farabi, Ibn Sina",
+        "Maslow, Kant",
+        "Sartre, Fromm, Dostoevsky",
+        "Locke, Spinoza",
+        "Bukeikhanov, Baitursynov"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Determinism views all events as determined by:",
+      "options": [
+        "Social contracts",
+        "Prior causes and natural laws",
+        "Moral obligations",
+        "Free will alone",
+        "Random choices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Types of determinism include causal, theological, logical, biological, and:",
+      "options": [
+        "Nomadic",
+        "Technological",
+        "Psychological",
+        "Cultural",
+        "Economic"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Maslow linked freedom to:",
+      "options": [
+        "Deterministic causes",
+        "Economic liberty",
+        "Moral evil",
+        "Personal growth and self-actualization",
+        "Political rights"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Negative freedom is freedom from:",
+      "options": [
+        "External interference",
+        "Rational will",
+        "Self-mastery",
+        "Moral values",
+        "Personal development"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Positive freedom is freedom to:",
+      "options": [
+        "Ignore laws",
+        "Act according to one’s rational will",
+        "Reject autonomy",
+        "Avoid responsibilities",
+        "Follow external constraints"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Kant's categorical imperative states that freedom must be compatible with:",
+      "options": [
+        "The freedom of others based on common law",
+        "Absolute permissiveness",
+        "Anarchism",
+        "Personal desires only",
+        "Despotism"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Spinoza viewed freedom as:",
+      "options": [
+        "Recognized necessity",
+        "Rejection of laws",
+        "Political liberty",
+        "Absolute randomness",
+        "Moral evil"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Negative understanding of freedom includes:",
+      "options": [
+        "Social contracts",
+        "Recognized necessity",
+        "Rational choices",
+        "Anarchism and absolute permissiveness",
+        "Self-mastery"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Maslow's hierarchy starts with physiological needs and ends with:",
+      "options": [
+        "Health",
+        "Self-actualization",
+        "Belonging",
+        "Safety",
+        "Esteem"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Fromm believed people always have choice between:",
+      "options": [
+        "Liberty and property",
+        "Anarchism and despotism",
+        "Determinism and fate",
+        "Good and evil",
+        "Nomadism and democracy"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Dostoevsky's quote 'If there is no God, then everything is permitted' relates to:",
+      "options": [
+        "Economic freedom",
+        "Nomadic independence",
+        "Political liberty",
+        "Freedom of moral choice",
+        "Self-actualization"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Sartre's existentialism states that existence precedes:",
+      "options": [
+        "Essence",
+        "Contract",
+        "Necessity",
+        "Liberty",
+        "Determinism"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Locke's liberalism emphasizes natural rights to:",
+      "options": [
+        "Nomadism and election",
+        "Life, liberty, and property",
+        "Good and evil",
+        "Positive and negative freedom",
+        "Moral and political choice"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Natural human rights include rights to:",
+      "options": [
+        "Anarchism and despotism",
+        "Life, health, liberty, possessions",
+        "Determinism and free will",
+        "Self-actualization and esteem",
+        "Assembly and religion"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Political liberties include freedom of:",
+      "options": [
+        "Moral choice",
+        "Recognized necessity",
+        "Existential anxiety",
+        "Nomadic life",
+        "Speech, press, religion, assembly"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Freedom of assembly protects:",
+      "options": [
+        "Governmental interference",
+        "Absolute permissiveness",
+        "Individual isolation",
+        "Collective expression and pursuit of interests",
+        "Despotic rule"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Political pluralism allows:",
+      "options": [
+        "Inherited power",
+        "Multiple groups and viewpoints to influence decisions",
+        "Expert-only decisions",
+        "One party control",
+        "Majority absolute authority"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Alash Orda philosophy blends nomadic ideals with:",
+      "options": [
+        "Liberal values of autonomy",
+        "Economic restrictions",
+        "Anarchist principles",
+        "Despotic governance",
+        "Deterministic views"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Nomadic freedom in Kazakh society includes principles like:",
+      "options": [
+        "Economic collectivism",
+        "Election of khans and competitiveness",
+        "Political singularism",
+        "Religious determinism",
+        "Absolute monarchy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Alash Orda advocated for:",
+      "options": [
+        "Cultural assimilation",
+        "Kazakh independence and liberal-democratic principles",
+        "Nomadic abandonment",
+        "Soviet integration",
+        "Economic isolation"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Freedom is a necessary condition for:",
+      "options": [
+        "A happy life",
+        "Despotism",
+        "Anarchism",
+        "Determinism",
+        "Restriction"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Deprivation of liberty is a form of:",
+      "options": [
+        "Existential freedom",
+        "Nomadic democracy",
+        "Moral choice",
+        "Legal punishment",
+        "Self-actualization"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}

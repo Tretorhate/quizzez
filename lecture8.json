@@ -1,0 +1,774 @@
+{
+  "questions": [
+    {
+      "question": "What is the main purpose of the philosophy of art?",
+      "options": [
+        "To replace the need for science and religion in society.",
+        "To study what art is, how it works, and why it matters.",
+        "To write code for creating digital art interfaces.",
+        "To decide if a piece of art is beautiful or ugly.",
+        "To teach people how to create beautiful art like Van Gogh."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is a key function of art?",
+      "options": [
+        "To conduct scientific experiments.",
+        "To replace traditional forms of communication.",
+        "To write precise code for computers.",
+        "To provide religious faith.",
+        "To create catharsis, or emotional release."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is the role of the viewer in modern art?",
+      "options": [
+        "The viewer's role is less important than the artist's technical skill.",
+        "The viewer is like a junior developer following coding standards.",
+        "The viewer must find the one true meaning intended by the artist.",
+        "The viewer is a co-creator of the artwork's meaning through their interpretation.",
+        "The viewer should avoid emotional reactions to art."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Why is art considered “twice removed from truth” in Plato's view?",
+      "options": [
+        "Because art imitates real objects, which are already copies of ideal forms",
+        "Because art uses colors and sounds instead of words",
+        "Because art expresses only human imagination",
+        "Because art shows emotions that are difficult to understand",
+        "Because art is made by people, not by gods"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does Aristotle mean by catharsis?",
+      "options": [
+        "The rejection of emotions in art",
+        "The logical analysis of art",
+        "The process of creating perfect beauty",
+        "The imitation of ideal forms",
+        "The emotional cleansing that happens during a tragedy"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Which statement best describes the main difference between Plato’s and Aristotle’s ideas about art?",
+      "options": [
+        "Plato thought art reveals truth; Aristotle thought it hides truth",
+        "Plato saw art as useful for education; Aristotle saw it as harmful",
+        "Both believed art should be banned from society",
+        "Both said art only copies perfect ideas",
+        "Plato viewed art as illusion and danger; Aristotle saw it as insight and therapy"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is the main historical transformation described by the \"paradigm shift\"?",
+      "options": [
+        "A shift from using symbols to using perspective in art.",
+        "A shift from science to religion in understanding the world.",
+        "A shift from a human-centered worldview to a God-centered worldview.",
+        "A shift from a God-centered worldview to a human-centered worldview.",
+        "A shift from philosophy to empirical science as the main source of knowledge."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How is medieval art primarily characterized?",
+      "options": [
+        "Its basis in empirical study and observation of nature.",
+        "Its primary goal to showcase the artist's individual genius.",
+        "Its use of art for personal expression and originality.",
+        "Its focus on realistic representation of the physical world.",
+        "Its function as a symbolic code to lead viewers to spiritual contemplation."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "How did the Renaissance view of beauty, as exemplified by Leonardo da Vinci, differ from the medieval view?",
+      "options": [
+        "Beauty was defined solely by the rules of the Church.",
+        "Beauty was viewed as a random occurrence in nature with no underlying order.",
+        "Beauty was seen as a divine reflection that could only be understood through faith.",
+        "Beauty was considered a human discovery that could be analyzed through observation and intellect.",
+        "Beauty was seen as less important than religious devotion."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is Immanuel Kant's concept of \"disinterested pleasure\" in the context of beauty?",
+      "options": [
+        "The enjoyment of art that has no form or harmony.",
+        "A feeling of pleasure that is not strong or important.",
+        "An appreciation of beauty without any personal interest, purpose, or practical gain.",
+        "A type of pleasure that only experts in art can experience.",
+        "A pleasure that comes from finding something useful or personally beneficial."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What are the three main historical stages of art's development in Georg Wilhelm Friedrich Hegel's theory?",
+      "options": [
+        "Symbolic, Classical, and Romantic.",
+        "Individual, Cultural, and Universal.",
+        "Medieval, Renaissance, and Modern.",
+        "Religious, Scientific, and Philosophical.",
+        "Practical, Theoretical, and Emotional."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the primary difference between Kant’s and Hegel's approaches to art?",
+      "options": [
+        "Kant focused on the mind of the individual, while Hegel focused on the evolution of human consciousness as a whole.",
+        "Kant believed art belonged to the past, while Hegel believed it was the highest form of truth.",
+        "Kant focused on the evolution of human consciousness, while Hegel focused on universal judgment.",
+        "Kant saw art as a manifestation of the Absolute Spirit, while Hegel saw it as a disinterested pleasure.",
+        "Kant focused on the historical development of art, while Hegel focused on individual taste."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the primary purpose of art for Friedrich Nietzsche?",
+      "options": [
+        "To reveal objective truth and moral order.",
+        "To replace traditional religious rituals.",
+        "To function as a logical and structured system like code.",
+        "To serve as a form of life affirmation and creative power.",
+        "To create perfect copies of the real world."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How does Martin Heidegger define the role of art?",
+      "options": [
+        "Art is a personal expression of the artist's emotions.",
+        "Art is a decorative object for aesthetic pleasure.",
+        "Art is an event that reveals or unconceals truth (*aletheia*).",
+        "Art is a balance between chaotic energy and pure order.",
+        "Art is a simulation that replaces reality with copies."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does Jean Baudrillard's concept of \"simulacra\" refer to?",
+      "options": [
+        "Ancient Greek statues that represent ideal forms.",
+        "The original source code for a digital artwork.",
+        "The moment when truth becomes visible through an artwork.",
+        "The harmonious structure of a well-designed user interface.",
+        "Copies that no longer refer to any original, creating their own reality."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is the primary philosophical role of the kobyz in Kazakh culture?",
+      "options": [
+        "It serves as a high-level language for social storytelling and community gatherings.",
+        "It functions as a direct channel to communicate with the spirit world and ancestors.",
+        "It acts as a modern replacement for ancient spiritual rituals.",
+        "It is used to create joyful music for celebrations and festivals.",
+        "It paints sonic pictures of mountains and rivers."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How is the musical form \"Kui\" defined?",
+      "options": [
+        "A shamanic dance performed during spiritual ceremonies.",
+        "A written text preserving the laws of the steppe.",
+        "A visual art form depicting nomadic life on canvas.",
+        "A type of folk song sung only during wedding rituals.",
+        "A melodic narrative that conveys legends, history, and philosophical reflections."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What key characteristic of the nomadic lifestyle is highlighted as the reason music became the ideal art form?",
+      "options": [
+        "Its portability and deep integration with daily life and rituals.",
+        "The availability of permanent studios and galleries.",
+        "Its reliance on written musical notation.",
+        "Its ability to be sold in international markets.",
+        "The need for complex and large-scale artistic projects."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the main purpose of the philosophy of art?",
+      "options": [
+        "To teach people how to create beautiful art like Van Gogh.",
+        "To replace the need for science and religion in society.",
+        "To decide if a piece of art is beautiful or ugly.",
+        "To study what art is, how it works, and why it matters.",
+        "To write code for creating digital art interfaces."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which function of art is described as creating catharsis?",
+      "options": [
+        "Conducting scientific experiments.",
+        "Writing precise code for computers.",
+        "Replacing traditional forms of communication.",
+        "Providing religious faith.",
+        "Emotional release."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What role does the viewer play in modern art?",
+      "options": [
+        "Less important than the artist's technical skill.",
+        "Finding the one true meaning intended by the artist.",
+        "Following coding standards like a junior developer.",
+        "Co-creator of the artwork's meaning through interpretation.",
+        "Avoiding emotional reactions to art."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Why is art considered “twice removed from truth” according to Plato?",
+      "options": [
+        "It shows emotions that are difficult to understand.",
+        "It uses colors and sounds instead of words.",
+        "It expresses only human imagination.",
+        "It is made by people, not by gods.",
+        "It imitates real objects, which are copies of ideal forms."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What does Aristotle's catharsis refer to?",
+      "options": [
+        "Imitation of ideal forms.",
+        "Emotional cleansing during a tragedy.",
+        "Rejection of emotions in art.",
+        "Process of creating perfect beauty.",
+        "Logical analysis of art."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main difference between Plato’s and Aristotle’s ideas about art?",
+      "options": [
+        "Plato saw art as useful for education; Aristotle saw it as harmful.",
+        "Both said art only copies perfect ideas.",
+        "Both believed art should be banned from society.",
+        "Plato viewed art as illusion and danger; Aristotle saw it as insight and therapy.",
+        "Plato thought art reveals truth; Aristotle thought it hides truth."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the paradigm shift in historical transformation?",
+      "options": [
+        "From God-centered to human-centered worldview.",
+        "From science to religion.",
+        "From symbols to perspective in art.",
+        "From philosophy to empirical science.",
+        "From human-centered to God-centered worldview."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How is medieval art characterized?",
+      "options": [
+        "Symbolic code for spiritual contemplation.",
+        "Basis in empirical study.",
+        "Showcase of artist's genius.",
+        "Use for personal expression.",
+        "Focus on realistic representation."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How did Renaissance beauty differ from medieval view?",
+      "options": [
+        "Less important than religious devotion.",
+        "Human discovery through observation and intellect.",
+        "Random occurrence in nature.",
+        "Divine reflection through faith.",
+        "Defined by Church rules."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is Kant's disinterested pleasure?",
+      "options": [
+        "Pleasure only experts experience.",
+        "Pleasure from usefulness.",
+        "Enjoyment without form.",
+        "Appreciation without personal interest.",
+        "Pleasure not strong or important."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What are Hegel's three stages of art?",
+      "options": [
+        "Practical, Theoretical, Emotional.",
+        "Symbolic, Classical, Romantic.",
+        "Individual, Cultural, Universal.",
+        "Medieval, Renaissance, Modern.",
+        "Religious, Scientific, Philosophical."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the difference between Kant’s and Hegel's approaches to art?",
+      "options": [
+        "Kant on consciousness evolution, Hegel on judgment.",
+        "Kant on past art, Hegel on truth.",
+        "Kant on Absolute Spirit, Hegel on pleasure.",
+        "Kant on individual mind, Hegel on human consciousness.",
+        "Kant on historical development, Hegel on taste."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the purpose of art for Nietzsche?",
+      "options": [
+        "Replace religious rituals.",
+        "Reveal objective truth.",
+        "Logical system like code.",
+        "Life affirmation and creative power.",
+        "Create perfect copies."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How does Heidegger define art's role?",
+      "options": [
+        "Expression of emotions.",
+        "Decorative object.",
+        "Event revealing truth (aletheia).",
+        "Simulation replacing reality.",
+        "Balance of energy and order."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is Baudrillard's simulacra?",
+      "options": [
+        "Copies without original, creating reality.",
+        "Truth visible through artwork.",
+        "Harmonious user interface.",
+        "Source code for digital art.",
+        "Greek statues of ideal forms."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the role of kobyz in Kazakh culture?",
+      "options": [
+        "Channel to spirit world.",
+        "Language for storytelling.",
+        "Replacement for rituals.",
+        "Joyful music for celebrations.",
+        "Sonic pictures of nature."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How is Kui defined?",
+      "options": [
+        "Shamanic dance.",
+        "Written text of laws.",
+        "Visual art of nomadic life.",
+        "Melodic narrative of legends.",
+        "Folk song for weddings."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Why did music become ideal for nomads?",
+      "options": [
+        "Permanent studios.",
+        "Written notation.",
+        "Portability and integration with life.",
+        "Complex projects.",
+        "International sales."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How does an app interface relate to a famous painting?",
+      "options": [
+        "Both are masterpieces.",
+        "Both create user experience.",
+        "Both are designed with instructions.",
+        "Both use code for functions.",
+        "Both convey emotion through visual language."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is a bug in the matrix analogy for?",
+      "options": [
+        "Introduction to philosophy of art.",
+        "Van Gogh's style.",
+        "Coding errors in apps.",
+        "Emotional release.",
+        "Instagram design."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does modern art require from the viewer?",
+      "options": [
+        "Emotional detachment.",
+        "Passive observation.",
+        "Technical analysis.",
+        "Historical knowledge.",
+        "Active interpretation as co-creator."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "In Plato's view, art is dangerous because it is:",
+      "options": [
+        "An illusion twice removed from truth.",
+        "Based on human imagination only.",
+        "A direct copy of ideal forms.",
+        "Made by gods.",
+        "Using words instead of colors."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Aristotle saw art as providing:",
+      "options": [
+        "Logical analysis.",
+        "Rejection of emotions.",
+        "Ideal forms imitation.",
+        "Perfect beauty creation.",
+        "Insight and therapeutic catharsis."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "The paradigm shift moved from:",
+      "options": [
+        "Religion to science.",
+        "Philosophy to science.",
+        "God-centered to human-centered worldview.",
+        "Human to God-centered.",
+        "Symbols to perspective."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Medieval art served as:",
+      "options": [
+        "Realistic physical representation.",
+        "Artist's genius showcase.",
+        "Symbolic code for spiritual contemplation.",
+        "Personal originality expression.",
+        "Empirical nature study."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Renaissance beauty was a:",
+      "options": [
+        "Less important than devotion.",
+        "Divine reflection through faith.",
+        "Random natural occurrence.",
+        "Church-defined rule.",
+        "Human discovery analyzed intellectually."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Kant's beauty is appreciated:",
+      "options": [
+        "From usefulness.",
+        "Only by experts.",
+        "Without form.",
+        "With strong feelings.",
+        "Without personal interest or gain."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Hegel's art stages are symbolic, classical, and:",
+      "options": [
+        "Modern.",
+        "Philosophical.",
+        "Emotional.",
+        "Universal.",
+        "Romantic."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Nietzsche saw art as affirming:",
+      "options": [
+        "Real world copies.",
+        "Logical systems.",
+        "Life and creative power.",
+        "Religious rituals.",
+        "Objective moral order."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Heidegger's art reveals:",
+      "options": [
+        "Truth as aletheia.",
+        "Aesthetic pleasure.",
+        "Reality simulation.",
+        "Artist emotions.",
+        "Energy balance."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Baudrillard's simulacra are copies:",
+      "options": [
+        "For digital art code.",
+        "Of ideal forms.",
+        "Of user interfaces.",
+        "Without original, creating reality.",
+        "Revealing truth."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Kobyz in Kazakh culture communicates with:",
+      "options": [
+        "Social storytelling.",
+        "Celebrations music.",
+        "Nature pictures.",
+        "Spirit world and ancestors.",
+        "Ancient rituals replacement."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Kui conveys:",
+      "options": [
+        "Shamanic dance.",
+        "Steppe laws.",
+        "Wedding songs.",
+        "Nomadic visual art.",
+        "Legends, history, reflections."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Nomadic music's ideal form due to:",
+      "options": [
+        "Large projects.",
+        "Portability and life integration.",
+        "Studios availability.",
+        "Market sales.",
+        "Notation reliance."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Philosophy of art studies:",
+      "options": [
+        "Digital code writing.",
+        "What art is and why it matters.",
+        "Art creation teaching.",
+        "Science replacement.",
+        "Beauty judgments."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Art's function includes:",
+      "options": [
+        "Experiments conducting.",
+        "Communication replacement.",
+        "Code writing.",
+        "Catharsis as emotional release.",
+        "Faith providing."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Viewer in modern art is:",
+      "options": [
+        "Coding follower.",
+        "Emotion avoider.",
+        "Meaning co-creator.",
+        "True meaning finder.",
+        "Less important."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Plato's art is removed from truth because:",
+      "options": [
+        "Colors used.",
+        "Imitates copies of forms.",
+        "Shows hard emotions.",
+        "People made.",
+        "Human imagination only."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Aristotle's catharsis is:",
+      "options": [
+        "Art analysis.",
+        "Beauty creation.",
+        "Forms imitation.",
+        "Emotional cleansing in tragedy.",
+        "Emotions rejection."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Plato vs Aristotle on art:",
+      "options": [
+        "Illusion vs insight.",
+        "Useful vs harmful.",
+        "Ban both.",
+        "Reveals vs hides truth.",
+        "Copies ideas."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Paradigm shift is:",
+      "options": [
+        "God to human worldview.",
+        "Human to God.",
+        "Symbols to perspective.",
+        "Philosophy to science.",
+        "Science to religion."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Medieval art as:",
+      "options": [
+        "Personal expression.",
+        "Genius showcase.",
+        "Realistic world.",
+        "Nature study.",
+        "Symbolic spiritual code."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Renaissance beauty as:",
+      "options": [
+        "Divine faith reflection.",
+        "Church rules.",
+        "Less than devotion.",
+        "Human intellectual discovery.",
+        "Random nature."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Kant's disinterested pleasure:",
+      "options": [
+        "From benefit.",
+        "Without personal gain.",
+        "No form enjoyment.",
+        "Experts only.",
+        "Not important."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Hegel's art stages:",
+      "options": [
+        "Individual, cultural.",
+        "Practical, theoretical.",
+        "Religious, scientific.",
+        "Medieval, renaissance.",
+        "Symbolic, classical, romantic."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Kant vs Hegel on art:",
+      "options": [
+        "Past vs truth.",
+        "Historical vs taste.",
+        "Spirit vs pleasure.",
+        "Evolution vs judgment.",
+        "Individual mind vs consciousness evolution."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Nietzsche's art purpose:",
+      "options": [
+        "Truth revelation.",
+        "Code system.",
+        "World copies.",
+        "Rituals replacement.",
+        "Life affirmation power."
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Heidegger's art role:",
+      "options": [
+        "Reality replacement.",
+        "Energy order balance.",
+        "Truth unconcealing event.",
+        "Emotions expression.",
+        "Pleasure decoration."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Baudrillard's simulacra:",
+      "options": [
+        "Ideal statues.",
+        "Copies creating reality.",
+        "Digital code.",
+        "Interface structure.",
+        "Truth visibility."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Kobyz role:",
+      "options": [
+        "Storytelling language.",
+        "Rituals replacement.",
+        "Spirit communication channel.",
+        "Celebration music.",
+        "Nature pictures."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Kui as:",
+      "options": [
+        "Melodic legends narrative.",
+        "Laws text.",
+        "Wedding song.",
+        "Nomadic canvas art.",
+        "Spiritual dance."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Nomadic music ideal because:",
+      "options": [
+        "Markets sales.",
+        "Portable life integration.",
+        "Notation reliance.",
+        "Complex projects.",
+        "Galleries availability."
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

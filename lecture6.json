@@ -1,0 +1,653 @@
+{
+  "questions": [
+    {
+      "question": "Axiology is the philosophical study of:",
+      "options": [
+        "Knowledge and truth",
+        "Logic and reasoning",
+        "Values, their nature, structure, and significance in human life",
+        "Physical reality",
+        "Political systems"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In the hierarchy of values, which category includes Justice, Truth, Beauty, and Freedom?",
+      "options": [
+        "Basic and Pragmatic Values",
+        "Social and Moral Values",
+        "Higher Values",
+        "Instrumental Values",
+        "Material Values"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Objective values are best described as:",
+      "options": [
+        "Values created by governments",
+        "Values that exist independently of individual opinions, such as universal truths",
+        "Values determined by cultural trends",
+        "Values that change based on personal preferences",
+        "Temporary values that shift over time"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The distinction between 'Being' and 'Ought' refers to:",
+      "options": [
+        "Theory versus practice",
+        "How things actually are versus how they should be according to values",
+        "Subjective versus objective reality",
+        "Individual versus collective perspectives",
+        "Past versus future states"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In Aristotle's Virtue Ethics, 'the good' is achieved through:",
+      "options": [
+        "Maximizing pleasure and avoiding pain",
+        "Following divine commandments",
+        "Living a life of virtues like wisdom, courage, and justice",
+        "Accumulating wealth",
+        "Obeying universal moral laws"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Kant's Categorical Imperative states that one should:",
+      "options": [
+        "Act only according to maxims that can become universal laws",
+        "Maximize happiness for the greatest number",
+        "Pursue personal pleasure",
+        "Do unto others as you would have them do unto you",
+        "Follow cultural traditions"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Why is Kant's Categorical Imperative considered stricter than Confucius's Golden Rule?",
+      "options": [
+        "It provides legal enforcement",
+        "It applies only to specific cultures",
+        "It is older and more traditional",
+        "It uses more complex language",
+        "It tests logical consistency as a universal law rather than being based on personal desires"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "A key limitation of Confucius' Golden Rule is that it:",
+      "options": [
+        "Only applies in Eastern cultures",
+        "Ignores all consequences",
+        "Can be subjective, relying on one's interpretation of what 'not doing harm' means",
+        "Is too difficult to understand",
+        "Requires religious authority"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The primary difference between ethical norms and legal norms is that ethical norms are:",
+      "options": [
+        "Always written while legal norms are oral",
+        "Enforced by police",
+        "Simpler than legal norms",
+        "Only for religious contexts",
+        "Voluntary and often subjective, while legal norms are mandatory and objective"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Why are laws insufficient in addressing IT and AI ethics?",
+      "options": [
+        "Laws are too expensive",
+        "Laws often lag behind technological innovation, creating ethical gaps",
+        "Laws focus only on hardware",
+        "Laws only apply in certain countries",
+        "Laws are too complex"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "'Developer freedom' in creating algorithms ethically means:",
+      "options": [
+        "Following only self-chosen norms",
+        "Freedom from responsibility if actions are legal",
+        "Freedom to choose design decisions with responsibility for social consequences",
+        "Complete autonomy without external control",
+        "No need to foresee long-term consequences"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The autonomous vehicle dilemma represents a conflict between:",
+      "options": [
+        "An action's inherent morality (duty) and the morality of its outcomes (consequences)",
+        "Privacy rights and data collection",
+        "Safety regulations and AI standards",
+        "Processing speed and human reaction time",
+        "Hardware cost and software requirements"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Kant's second formulation of the Categorical Imperative requires that:",
+      "options": [
+        "Actions have evolutionary utility",
+        "Humanity in every person must be treated as an end, never merely as a means",
+        "The greatest good for the greatest number is achieved",
+        "Moral rules are social constructs",
+        "User engagement should be maximized"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The origin of human morality likely involves:",
+      "options": [
+        "Pure rational construction by the mind",
+        "Culture suppressing biological instincts",
+        "Biology providing capacity for moral feelings while culture provides specific rules",
+        "Culture as the sole source of altruism",
+        "Biology determining specific moral rules"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In the ethical systems of al-Farabi and Ibn Sina, reason (aql) serves as:",
+      "options": [
+        "The key faculty enabling humans to distinguish good from evil and lead a virtuous life",
+        "A source of moral relativism",
+        "A tool to suppress all emotions",
+        "Primarily for technical solutions",
+        "Secondary to divine revelation"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Al-Farabi and Ibn Sina both:",
+      "options": [
+        "Focused only on metaphysics",
+        "Viewed reason as key to achieving a virtuous life and understanding justice",
+        "Rejected reason in favor of faith",
+        "Believed ethics should be determined by the state",
+        "Emphasized conflict between philosophy and religion"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The traditional value of 'Sabr' (Patience) in IT contexts promotes:",
+      "options": [
+        "Agreement with all user demands",
+        "Increased market competitiveness",
+        "Resilience and mental stability when facing online criticism",
+        "Minimizing algorithm use",
+        "Faster software development"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Power gains ethical legitimacy when it is:",
+      "options": [
+        "Focused on economic growth at any cost",
+        "Derived from consent of the governed and exercised transparently",
+        "Used to suppress dissent",
+        "Concentrated in one party",
+        "Exercised secretly"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Structural violence refers to:",
+      "options": [
+        "Physical assault in buildings",
+        "Damage to infrastructure",
+        "Construction accidents",
+        "Architectural design flaws",
+        "Systemic inequality embedded in social structures"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Tolerance in ethical terms means:",
+      "options": [
+        "Active engagement and respect for others' beliefs and identities",
+        "Passive acceptance or ignoring differences",
+        "Accepting all actions without limits",
+        "Full agreement with others' views",
+        "A legal principle for religious groups only"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The main purpose of professional codes like the Hippocratic Oath or IEEE rules is to:",
+      "options": [
+        "Increase profitability",
+        "Transfer responsibility to AI",
+        "Limit access to professions",
+        "Resolve conflicts of interest and ensure responsible conduct",
+        "Lower operating costs"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which bioethical principle requires technology to ensure users can make informed decisions about their health and data?",
+      "options": [
+        "The principle of justice",
+        "The principle of integrity",
+        "The principle of 'do no harm'",
+        "The principle of respect for autonomy",
+        "The principle of confidentiality"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The bioethical principles that combine avoiding harm with ensuring fair access to benefits are:",
+      "options": [
+        "Do No Harm and Justice",
+        "Honesty and Transparency",
+        "Corporate Social Responsibility",
+        "Sustainable Development",
+        "Respect for Autonomy"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Deontological ethics emphasizes:",
+      "options": [
+        "Developing virtuous character",
+        "Maximizing happiness for the greatest number",
+        "Duty and that some moral rules are absolute regardless of consequences",
+        "Following cultural traditions",
+        "Judging actions solely by outcomes"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Utilitarianism aims to:",
+      "options": [
+        "Produce the greatest happiness for the largest number of people",
+        "Obey divine commandments",
+        "Follow absolute moral rules",
+        "Maximize individual freedom only",
+        "Develop individual virtue"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "A challenge for utilitarian ethics is that it:",
+      "options": [
+        "Is too simple",
+        "Cannot be used in policy",
+        "Struggles with protecting minority rights and predicting consequences",
+        "Provides too much clarity",
+        "Never considers outcomes"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Jusup Balasagun was:",
+      "options": [
+        "A 20th-century Kazakh philosopher",
+        "A medieval European scholar",
+        "A modern IT specialist",
+        "An ancient Greek philosopher",
+        "An 11th-century poet and philosopher, author of Kutadgu Bilig"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "'Kutadgu Bilig' means:",
+      "options": [
+        "Wisdom That Brings Happiness",
+        "The Collection of Laws",
+        "The Book of Kings",
+        "The Guide to Power",
+        "The Path to Heaven"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "In Kutadgu Bilig, 'Qut' represents:",
+      "options": [
+        "Divine grace, fortune, and happiness supporting prosperity",
+        "Military strength",
+        "Legal punishment",
+        "Economic wealth only",
+        "Scientific knowledge"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "'Qanaqat' emphasizes:",
+      "options": [
+        "Unlimited ambition",
+        "Rejection of worldly goods",
+        "Material accumulation",
+        "Contentment and moderation, promoting balanced life",
+        "Aggressive competition"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "'Tauba' signifies:",
+      "options": [
+        "Political power",
+        "Economic prosperity",
+        "Seeking forgiveness and returning to virtuous behavior",
+        "Technological innovation",
+        "Military victory"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "'Sabyr' highlights:",
+      "options": [
+        "Steadfastness and resilience in facing challenges",
+        "Avoiding difficulties",
+        "Seeking revenge",
+        "Ignoring problems",
+        "Immediate gratification"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "The value of 'Adilet' (Justice) in IT means:",
+      "options": [
+        "Maximizing profits",
+        "Ensuring fairness and transparency in automated decision-making",
+        "Following only legal requirements",
+        "Ignoring ethical concerns",
+        "Prioritizing speed over accuracy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Kazakhstan's cultural values like hospitality and respect for elders:",
+      "options": [
+        "Foster community bonds and serve as competitive advantages",
+        "Are only relevant in rural areas",
+        "Are obstacles to modernization",
+        "Contradict modern ethics",
+        "Should be abandoned"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Ethical governance prioritizes:",
+      "options": [
+        "Elite interests",
+        "The common good over private or special interests",
+        "Foreign approval",
+        "Short-term gains",
+        "Maintaining power at all costs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Corruption represents:",
+      "options": [
+        "An acceptable business cost",
+        "A minor issue",
+        "A fundamental ethical failure where power is abused for personal gain",
+        "Only a legal problem",
+        "An inevitable aspect of governance"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Digital rights as human rights include:",
+      "options": [
+        "Privacy and freedom of expression online",
+        "Unlimited internet speed",
+        "The right to hack systems",
+        "Only the right to own computers",
+        "Free software access"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Social media's role in polarization involves:",
+      "options": [
+        "Solving all communication problems",
+        "Intensifying divides through echo chambers and amplifying extremist views",
+        "Having no effect",
+        "Always promoting tolerance",
+        "Eliminating social conflict"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "The challenge of automated content moderation is:",
+      "options": [
+        "It requires no oversight",
+        "It solves all problems",
+        "It is too expensive",
+        "Balancing removal of harmful content while protecting free expression",
+        "It works perfectly"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Professional ethics sets duties towards:",
+      "options": [
+        "Only paying customers",
+        "Only the employer",
+        "Only oneself",
+        "Clients, colleagues, society, and the profession itself",
+        "Only government"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Corporate Social Responsibility (CSR) means companies:",
+      "options": [
+        "Ignore environmental concerns",
+        "Focus only on shareholder profits",
+        "Follow only legal minimums",
+        "Minimize social spending",
+        "Commit to ethical practices benefiting society, not just shareholders"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "'Dark patterns' in software design are:",
+      "options": [
+        "Security protocols",
+        "Manipulative tactics that violate honesty and transparency",
+        "Aesthetic color choices",
+        "Accessibility tools",
+        "Energy-saving features"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Sustainable development (ESG) in IT includes:",
+      "options": [
+        "Developing energy-efficient algorithms and durable software",
+        "Focusing on short-term profits only",
+        "Ignoring environmental impact",
+        "Planned obsolescence",
+        "Maximizing energy consumption"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Bioethics becomes relevant to IT when:",
+      "options": [
+        "Creating social media platforms",
+        "Designing computer games",
+        "Digital technology merges with biological systems",
+        "Writing non-medical software",
+        "Dealing only with biology textbooks"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "The bioethical principle of 'Do No Harm' in IT means:",
+      "options": [
+        "Technology must avoid causing harm and uphold non-maleficence",
+        "Developers have no responsibility",
+        "Technology can cause any harm if profitable",
+        "Harm is inevitable",
+        "Only physical harm matters"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Biased AI systems in healthcare are problematic because they:",
+      "options": [
+        "Cost too much",
+        "Are too complex",
+        "Only work in certain languages",
+        "Can worsen healthcare inequalities and discriminate against groups",
+        "Process data too slowly"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Security vulnerabilities in medical devices like pacemakers:",
+      "options": [
+        "Are minor inconveniences",
+        "Only affect device functionality",
+        "Should be kept secret",
+        "Pose life-threatening risks making responsible disclosure a moral duty",
+        "Don't require attention"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Handling biometric data like fingerprints and genomic information requires:",
+      "options": [
+        "Only basic security",
+        "Minimal encryption",
+        "Strict protection to prevent harm, discrimination, and breaches of autonomy",
+        "No special protection",
+        "Public sharing for research"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Neurotechnologies and brain-computer interfaces raise questions about:",
+      "options": [
+        "Marketing strategies",
+        "Manufacturing costs only",
+        "Device design",
+        "Only technical compatibility",
+        "Autonomy, data ownership, and the essence of humanity"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "When collecting user data without explicit consent, developers violate:",
+      "options": [
+        "Only marketing guidelines",
+        "Duty (respect for autonomy), Conscience, and Justice",
+        "No ethical principles",
+        "Only technical standards",
+        "Only aesthetic principles"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Applying Confucius' Golden Rule to data collection means developers should:",
+      "options": [
+        "Ignore user preferences",
+        "Ignore privacy concerns",
+        "Only consider profits",
+        "Collect all available data",
+        "Not collect data without permission, respecting privacy as they expect theirs respected"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Applying Kant's Categorical Imperative to data practices means:",
+      "options": [
+        "Ignoring universal principles",
+        "Consent is unnecessary",
+        "Only following market trends",
+        "If all developers collected data without consent, trust would collapse, requiring explicit consent",
+        "Any collection method is acceptable"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Interface design based on dopamine stimulation and maximizing user time aligns with:",
+      "options": [
+        "Religious ethics",
+        "Hedonism",
+        "Kant's duty ethics",
+        "Aristotle's virtue ethics",
+        "Utilitarian principle"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Resolving the dilemma between data collection for personalization and user privacy defines:",
+      "options": [
+        "Market value of company shares",
+        "The objective truth of algorithms",
+        "The hierarchy of values encapsulated within the product",
+        "Processing speed of big data",
+        "User interface aesthetics"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In the digital age, ethical norms being primary for 'gray zone' decisions means:",
+      "options": [
+        "Legal actions are always ethical",
+        "Legal systems will subsume professional ethics",
+        "Developers should ignore legal norms",
+        "A developer's moral responsibility is broader and precedes legal liability",
+        "Government regulation solves all dilemmas"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "The ethical category of 'Conscience' represents:",
+      "options": [
+        "The inner sense guiding right and wrong when rules don't cover nuances",
+        "Technical specifications",
+        "Legal requirements",
+        "Company policies",
+        "Market forces"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "'Freedom and Responsibility' as ethical categories mean:",
+      "options": [
+        "Only freedom matters",
+        "Freedom exists without consequences",
+        "Only responsibility matters",
+        "Freedom and responsibility are unrelated",
+        "Freedom allows choice but comes with responsibility for consequences"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "question": "Before coding medical or health-related software, developers should consider:",
+      "options": [
+        "Whether it handles sensitive data responsibly and could affect health negatively",
+        "Nothing about ethics",
+        "Only processing speed",
+        "Only interface colors",
+        "Only profitability"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Being a 'responsible creator' means developers should:",
+      "options": [
+        "Avoid ethical reflection",
+        "Focus solely on innovation",
+        "Follow only minimum legal standards",
+        "Build technologies protecting human dignity and health with ethical integrity",
+        "Maximize profits regardless of harm"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}
