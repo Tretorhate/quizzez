@@ -1,0 +1,333 @@
+{  "questions": [
+    {
+      "question": "Which device operates primarily at Layer 2 of the OSI model?",
+      "options": ["Router", "Switch", "Hub", "Firewall"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main function of a default gateway?",
+      "options": [
+        "To provide DNS resolution",
+        "To connect to remote networks",
+        "To assign IP addresses",
+        "To block unwanted traffic"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which cable is used to connect a PC to a switch?",
+      "options": [
+        "Crossover cable",
+        "Straight-through cable",
+        "Fiber optic cable",
+        "Console cable"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of a MAC address?",
+      "options": [
+        "Identifies devices on the same IP network",
+        "Identifies devices at the data link layer",
+        "Provides IP routing",
+        "Encrypts network traffic"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the default VLAN on a Cisco switch?",
+      "options": ["VLAN 0", "VLAN 10", "VLAN 1", "VLAN 99"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for data encryption?",
+      "options": ["Session", "Presentation", "Network", "Transport"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol provides reliable data transfer?",
+      "options": ["TCP", "UDP", "ICMP", "IP"],
+      "correct_answer": 0
+    },
+    {
+      "question": "In the TCP/IP model, which layer corresponds to the OSI Network layer?",
+      "options": ["Application", "Internet", "Transport", "Link"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which tool captures and analyzes network packets?",
+      "options": ["Putty", "Wireshark", "Packet Tracer", "Telnet"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is encapsulation in networking?",
+      "options": [
+        "Adding headers/trailers around data",
+        "Encrypting data",
+        "Removing headers",
+        "Translating IP addresses"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What unit measures bandwidth?",
+      "options": ["Bytes", "Bits per second", "Hertz", "Megabytes per hour"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which device converts digital signals to analog for transmission?",
+      "options": ["Switch", "Modem", "Hub", "Repeater"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which cable type is most resistant to electromagnetic interference?",
+      "options": ["UTP", "STP", "Coaxial", "Fiber optic"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Binary value of decimal 45 is:",
+      "options": ["100101", "101101", "110011", "1011010"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which layer defines physical media characteristics?",
+      "options": ["Network", "Data Link", "Physical", "Transport"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Ethernet uses which access method?",
+      "options": ["CSMA/CA", "CSMA/CD", "Token Ring", "TDMA"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the frame delimiter in Ethernet?",
+      "options": ["Preamble", "CRC", "Source MAC", "EtherType"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Switches use which table to forward frames?",
+      "options": [
+        "ARP table",
+        "Routing table",
+        "MAC address table",
+        "IP address table"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the minimum Ethernet frame size?",
+      "options": ["46 bytes", "64 bytes", "128 bytes", "512 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "VLANs are used to:",
+      "options": [
+        "Increase physical ports",
+        "Divide a LAN into segments",
+        "Reduce MAC addresses",
+        "Encrypt data"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command shows the routing table on a Cisco router?",
+      "options": [
+        "show interfaces",
+        "show ip route",
+        "show arp",
+        "show version"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol maps IP addresses to MAC addresses?",
+      "options": ["DNS", "DHCP", "ARP", "ICMP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What type of address is 192.168.1.1?",
+      "options": ["Public", "Private", "Multicast", "Loopback"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which device operates at Layer 3?",
+      "options": ["Switch", "Router", "Bridge", "Hub"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the function of a default route?",
+      "options": [
+        "For DNS lookup",
+        "Used when no other route matches",
+        "Used for ARP resolution",
+        "For broadcast traffic"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Subnet mask 255.255.255.192 provides how many usable hosts?",
+      "options": ["62", "30", "126", "14"],
+      "correct_answer": 0
+    },
+    {
+      "question": "192.168.10.0/26 — what is the broadcast address?",
+      "options": [
+        "192.168.10.64",
+        "192.168.10.63",
+        "192.168.10.62",
+        "192.168.10.65"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which class is IP 172.16.5.1?",
+      "options": ["Class A", "Class B", "Class C", "Class D"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the CIDR notation for subnet mask 255.255.255.0?",
+      "options": ["/24", "/25", "/26", "/27"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which command assigns an IP to a router interface?",
+      "options": [
+        "ip assign",
+        "set ip address",
+        "ip address 192.168.1.1 255.255.255.0",
+        "assign address"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "IPv6 address length is:",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which IPv6 address is equivalent to IPv4 loopback 127.0.0.1?",
+      "options": ["::1", "::", "FE80::1", "FF02::1"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which protocol is used by IPv6 for address resolution?",
+      "options": ["ICMPv6", "ARP", "DHCPv6", "ND"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the scope of address FE80::1?",
+      "options": ["Global", "Unique local", "Link-local", "Anycast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which ICMPv6 message type is Neighbor Advertisement?",
+      "options": ["133", "134", "135", "136"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which protocol ensures reliable delivery?",
+      "options": ["UDP", "TCP", "ICMP", "IP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Port 80 is used by:",
+      "options": ["FTP", "SMTP", "HTTP", "DNS"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which field in TCP header ensures ordering?",
+      "options": [
+        "Sequence number",
+        "Acknowledgment number",
+        "Port number",
+        "Window size"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "UDP is used for:",
+      "options": ["File Transfer", "Web browsing", "Voice streaming", "Email"],
+      "correct_answer": 2
+    },
+    {
+      "question": "TCP three-way handshake sequence is:",
+      "options": [
+        "SYN → SYN-ACK → ACK",
+        "ACK → SYN → SYN-ACK",
+        "SYN → ACK → SYN-ACK",
+        "FIN → ACK → FIN"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "DNS uses which transport protocol?",
+      "options": ["TCP", "UDP", "ICMP", "Both TCP and UDP"],
+      "correct_answer": 3
+    },
+    {
+      "question": "SMTP works on which port?",
+      "options": ["21", "25", "80", "110"],
+      "correct_answer": 1
+    },
+    {
+      "question": "POP3 retrieves emails from:",
+      "options": [
+        "Server to client",
+        "Client to server",
+        "Peer to peer",
+        "None of these"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "FTP control connection uses which port?",
+      "options": ["20", "21", "22", "23"],
+      "correct_answer": 1
+    },
+    {
+      "question": "HTTP status code 404 means:",
+      "options": ["OK", "Forbidden", "Not Found", "Unauthorized"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol securely connects to network devices?",
+      "options": ["Telnet", "SSH", "HTTP", "FTP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command encrypts passwords on Cisco devices?",
+      "options": [
+        "enable secret",
+        "password encrypt",
+        "service password-encryption",
+        "encrypt all"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which is a strong password example?",
+      "options": ["admin123", "Password", "@NetWork!23", "12345"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which message appears before login to warn users?",
+      "options": [
+        "MOTD banner",
+        "Welcome banner",
+        "Login message",
+        "Session banner"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which feature prevents brute-force login attempts on Cisco devices?",
+      "options": [
+        "login lockout",
+        "password block",
+        "login block-for",
+        "ssh timeout"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{  "questions": [
+    {
+      "question": "What device connects a host to a network?",
+      "options": ["Router", "Switch", "Network Interface Card (NIC)", "Modem"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary function of the Physical Layer?",
+      "options": [
+        "To route packets between networks",
+        "To transport bits across network media",
+        "To encrypt data for transmission",
+        "To provide error correction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the Physical Layer accept from the Data Link Layer?",
+      "options": [
+        "Raw bits",
+        "A complete frame that it encodes as signals",
+        "IP packets",
+        "Application data"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which three functional areas do Physical Layer standards address?",
+      "options": [
+        "Routing, Switching, and Addressing",
+        "Physical Components, Encoding, and Signaling",
+        "Security, Reliability, and Speed",
+        "Hardware, Software, and Firmware"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does encoding do in the Physical Layer?",
+      "options": [
+        "Encrypts data for security",
+        "Converts the stream of bits into a format recognizable by the next device",
+        "Compresses data to save bandwidth",
+        "Routes data to the destination"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which encoding method is mentioned as an example in Physical Layer standards?",
+      "options": ["UTF-8", "ASCII", "Manchester", "Base64"],
+      "correct_answer": 2
+    },
+    {
+      "question": "How are bit values represented over fiber-optic cable?",
+      "options": [
+        "Electrical signals",
+        "Light pulses",
+        "Microwave signals",
+        "Radio waves"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does digital bandwidth measure?",
+      "options": [
+        "The physical size of the cable",
+        "The amount of data that can flow in a given amount of time",
+        "The voltage of electrical signals",
+        "The frequency of radio waves"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is 1 Gbps equal to?",
+      "options": [
+        "1,000 bps",
+        "1,000,000 bps",
+        "1,000,000,000 bps",
+        "1,000,000,000,000 bps"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is latency in networking?",
+      "options": [
+        "The maximum bandwidth available",
+        "The amount of time for data to travel from one point to another",
+        "The measure of usable data transferred",
+        "The size of data packets"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How is goodput calculated?",
+      "options": [
+        "Bandwidth + Latency",
+        "Throughput - Traffic overhead",
+        "Bandwidth × Time",
+        "Latency - Throughput"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is attenuation in copper cabling?",
+      "options": [
+        "The increase in signal strength over distance",
+        "The weakening of electrical signals over distance",
+        "The twisting of wire pairs",
+        "The shielding of cables"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which two sources can cause interference in copper cables?",
+      "options": [
+        "Heat and moisture",
+        "EMI and RFI",
+        "Light and sound",
+        "Pressure and tension"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How is crosstalk mitigated in copper cabling?",
+      "options": [
+        "By using thicker cables",
+        "By increasing voltage",
+        "By twisting opposing circuit pair wires together",
+        "By using gold-plated connectors"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the most common type of networking media?",
+      "options": [
+        "Fiber-optic cable",
+        "Coaxial cable",
+        "Unshielded Twisted Pair (UTP)",
+        "Wireless"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What connector type is used with UTP cabling?",
+      "options": ["RJ-11", "RJ-45", "BNC", "SC"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What advantage does STP have over UTP?",
+      "options": [
+        "It is less expensive",
+        "It is easier to install",
+        "It provides better noise protection",
+        "It uses different connectors"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Where is coaxial cable commonly used today?",
+      "options": [
+        "Office LAN connections",
+        "Wireless installations and cable internet",
+        "Fiber-optic backbones",
+        "Telephone systems"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does UTP cabling limit crosstalk through cancellation?",
+      "options": [
+        "By using thicker insulation",
+        "By using opposite polarity in wire pairs that cancel magnetic fields",
+        "By increasing the distance between wires",
+        "By using metallic shielding"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which organization establishes standards for UTP cabling?",
+      "options": ["IEEE", "IETF", "TIA/EIA", "ICANN"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does the TIA/EIA-568 standard cover?",
+      "options": [
+        "Only cable types",
+        "Cable types, lengths, connectors, termination, and testing methods",
+        "Only connector types",
+        "Wireless standards"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which cable type connects a host to a network device like a switch?",
+      "options": [
+        "Crossover cable",
+        "Rollover cable",
+        "Straight-through cable",
+        "Fiber-optic cable"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What type of cable was traditionally used for host-to-host connections?",
+      "options": [
+        "Straight-through cable",
+        "Rollover cable",
+        "Crossover cable",
+        "Coaxial cable"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Why are crossover cables now considered legacy?",
+      "options": [
+        "They are too expensive",
+        "Most NICs use Auto-MDIX to sense cable type",
+        "They don't work with modern equipment",
+        "They are too slow"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is a key advantage of fiber-optic cabling over copper?",
+      "options": [
+        "It is less expensive",
+        "It is easier to install",
+        "It can transmit data over longer distances at higher bandwidth",
+        "It requires less technical skill"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does fiber-optic cable use to encode bits?",
+      "options": [
+        "Electrical pulses",
+        "Radio waves",
+        "Laser or LED light pulses",
+        "Magnetic fields"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which type of fiber uses expensive lasers and is used for long-distance applications?",
+      "options": [
+        "Multimode Fiber",
+        "Single-Mode Fiber",
+        "Plastic Fiber",
+        "Copper Fiber"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the maximum distance for Multimode Fiber at 10 Gbps?",
+      "options": ["100 meters", "550 meters", "1000 meters", "10 kilometers"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does dispersion refer to in fiber-optic cabling?",
+      "options": [
+        "The bending of the cable",
+        "The spreading out of a light pulse over time",
+        "The reflection of light",
+        "The absorption of light"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In enterprise networks, where is fiber-optic cabling primarily used?",
+      "options": [
+        "Desktop connections",
+        "Backbone cabling and interconnecting infrastructure devices",
+        "Printer connections",
+        "Wireless access points"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What color jacket typically indicates single-mode fiber cables?",
+      "options": ["Orange", "Aqua", "Yellow", "Blue"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What color jacket typically indicates multimode fiber cables?",
+      "options": ["Yellow", "Orange or aqua", "Red", "Green"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Compared to UTP, fiber-optic cabling has what level of immunity to EMI and RFI?",
+      "options": [
+        "Low",
+        "Moderate",
+        "High - Completely immune",
+        "Same as copper"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a major limitation of wireless networks?",
+      "options": [
+        "Too expensive to implement",
+        "Requires physical cables",
+        "Susceptible to interference and operates in half-duplex",
+        "Only works indoors"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Why is wireless communication considered a security concern?",
+      "options": [
+        "It is too slow",
+        "It requires no access to physical media, so anyone can intercept transmissions",
+        "It cannot be encrypted",
+        "It only works over short distances"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does it mean that WLANs operate in half-duplex?",
+      "options": [
+        "Data can travel in both directions simultaneously",
+        "Only one device can send or receive at a time",
+        "Two devices can communicate at once",
+        "Data can only travel one direction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which wireless standard is used for Wireless LAN technology?",
+      "options": ["IEEE 802.15", "IEEE 802.11", "IEEE 802.16", "IEEE 802.3"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is Bluetooth primarily used for?",
+      "options": [
+        "Long-distance communication",
+        "Wireless Personal Area Network (WPAN)",
+        "Wireless LAN",
+        "Satellite communication"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which wireless standard is primarily used for Internet of Things (IoT) applications?",
+      "options": ["Wi-Fi", "Bluetooth", "WiMAX", "Zigbee"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What device concentrates wireless signals from users and connects to the copper-based network?",
+      "options": ["Router", "Switch", "Wireless Access Point (AP)", "Modem"],
+      "correct_answer": 2
+    },
+    {
+      "question": "How many bits are in an IPv4 address?",
+      "options": ["16 bits", "32 bits", "64 bits", "128 bits"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bits are in each octet of an IPv4 address?",
+      "options": ["4 bits", "8 bits", "16 bits", "32 bits"],
+      "correct_answer": 1
+    },
+    {
+      "question": "In binary positional notation, what is the value of the position 2^4?",
+      "options": ["8", "16", "32", "64"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the binary number 10101000 in decimal?",
+      "options": ["158", "168", "178", "188"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the decimal number 192 in binary?",
+      "options": ["11000000", "10100000", "11100000", "10110000"],
+      "correct_answer": 0
+    },
+    {
+      "question": "In the binary number system, what is the leftmost bit position value in an 8-bit octet?",
+      "options": ["64", "128", "256", "512"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many digits does the hexadecimal numbering system use?",
+      "options": [
+        "10 digits (0-9)",
+        "16 digits (0-9 and A-F)",
+        "8 digits (0-7)",
+        "2 digits (0-1)"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bits are in an IPv6 address?",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "correct_answer": 2
+    },
+    {
+      "question": "In IPv6, how many bits does each hexadecimal digit represent?",
+      "options": ["2 bits", "4 bits", "8 bits", "16 bits"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is a hextet in IPv6 addressing?",
+      "options": [
+        "A group of two hexadecimal characters",
+        "A group of four hexadecimal characters",
+        "A group of eight hexadecimal characters",
+        "A group of sixteen hexadecimal characters"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{  "questions": [
+    {
+      "question": "What is the primary reason for transitioning from IPv4 to IPv6?",
+      "options": [
+        "IPv4 addresses are running out",
+        "IPv4 is too slow",
+        "IPv6 is easier to configure",
+        "IPv4 doesn't support wireless networks"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How many bits are in an IPv6 address?",
+      "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which migration technique allows devices to run both IPv4 and IPv6 simultaneously?",
+      "options": ["Tunneling", "Translation", "Dual stack", "Encapsulation"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What method transports IPv6 packets over IPv4 networks by encapsulating them?",
+      "options": ["Dual stack", "Tunneling", "Translation", "NAT64"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which technology allows IPv6-enabled devices to communicate with IPv4-enabled devices?",
+      "options": ["Dual stack", "Tunneling", "NAT64", "SLAAC"],
+      "correct_answer": 2
+    },
+    {
+      "question": "In IPv6 address representation, what is the term for a segment of 16 bits?",
+      "options": ["Octet", "Hextet", "Nibble", "Segment"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which rule allows omitting leading zeros in IPv6 address notation?",
+      "options": ["Rule 1", "Rule 2", "Double colon rule", "Compression rule"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does the double colon (::) represent in IPv6 addressing?",
+      "options": [
+        "Any single hexadecimal value",
+        "A contiguous string of zeros",
+        "The network portion",
+        "The interface ID"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many times can the double colon be used in a single IPv6 address?",
+      "options": ["Once", "Twice", "Three times", "As many times as needed"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which IPv6 address type is used to send a packet to multiple destinations?",
+      "options": ["Unicast", "Multicast", "Anycast", "Broadcast"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main characteristic of an anycast address?",
+      "options": [
+        "Sends packets to all interfaces",
+        "Routes packets to the nearest device with that address",
+        "Used for loopback testing",
+        "Automatically configured addresses"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which statement about IPv6 broadcast addresses is correct?",
+      "options": [
+        "IPv6 uses the same broadcast address as IPv4",
+        "IPv6 has a dedicated broadcast address type",
+        "IPv6 does not have broadcast addresses",
+        "IPv6 broadcast addresses start with FF00::"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the recommended prefix length for most IPv6 networks?",
+      "options": ["/48", "/64", "/128", "/32"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bits are typically used for the Interface ID in IPv6 addressing?",
+      "options": ["32 bits", "48 bits", "64 bits", "128 bits"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which IPv6 address type is similar to public IPv4 addresses?",
+      "options": [
+        "Link-local address",
+        "Global unicast address",
+        "Unique local address",
+        "Multicast address"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary purpose of a link-local address in IPv6?",
+      "options": [
+        "Communication over the internet",
+        "Communication with devices on the same local link",
+        "Communication with remote networks",
+        "Communication with IPv4 devices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which address range is used for IPv6 link-local addresses?",
+      "options": ["2000::/3", "FC00::/7", "FE80::/10", "FF00::/8"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a key difference between IPv6 unique local addresses and IPv4 private addresses?",
+      "options": [
+        "ULAs are globally routable",
+        "ULAs are automatically translated",
+        "ULAs are not intended for security through obscurity",
+        "ULAs can only be used on point-to-point links"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which field in a global unicast address identifies subnets within an organization?",
+      "options": [
+        "Global Routing Prefix",
+        "Subnet ID",
+        "Interface ID",
+        "Site ID"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the current range of assigned global unicast addresses?",
+      "options": ["1000::/3", "2000::/3", "3000::/3", "4000::/3"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command configures a global unicast address on a Cisco router interface?",
+      "options": [
+        "ip address",
+        "ipv6 address",
+        "interface address",
+        "set ipv6 address"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the best practice for configuring the default gateway on IPv6 hosts?",
+      "options": [
+        "Use the global unicast address of the router",
+        "Use the link-local address of the router",
+        "Use the unique local address of the router",
+        "Use the multicast address of the router"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol provides feedback about issues related to IP packet processing?",
+      "options": ["TCP", "UDP", "ICMP", "ARP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What are the ICMP message types common to both ICMPv4 and ICMPv6?",
+      "options": [
+        "Host reachability, Destination unreachable, Time exceeded",
+        "Router solicitation, Neighbor advertisement",
+        "Duplicate address detection, Address resolution",
+        "Echo request, Router advertisement"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which ICMP message tests the reachability of a host?",
+      "options": [
+        "Destination Unreachable",
+        "Time Exceeded",
+        "Echo Request/Reply",
+        "Redirect"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does an ICMP Destination Unreachable message indicate?",
+      "options": [
+        "The packet took too long to arrive",
+        "A destination or service is not reachable",
+        "The TTL field has expired",
+        "There is a routing loop"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which field determines when an ICMPv6 Time Exceeded message is generated?",
+      "options": ["Time to Live", "Hop Limit", "Protocol", "Traffic Class"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary purpose of ICMPv6 Router Solicitation messages?",
+      "options": [
+        "To detect duplicate addresses",
+        "To resolve MAC addresses",
+        "To request router information",
+        "To test host reachability"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How often do IPv6 routers typically send Router Advertisement messages?",
+      "options": [
+        "Every 30 seconds",
+        "Every 200 seconds",
+        "Only when requested",
+        "Once per day"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What information can a Router Advertisement message include?",
+      "options": [
+        "Prefix, prefix length, DNS address, domain name",
+        "MAC address, hostname, default gateway",
+        "Subnet mask, broadcast address, WINS server",
+        "TTL value, protocol type, port number"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which ICMPv6 message is used for duplicate address detection?",
+      "options": [
+        "Router Solicitation",
+        "Router Advertisement",
+        "Neighbor Solicitation",
+        "Neighbor Advertisement"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of Neighbor Solicitation messages in ICMPv6?",
+      "options": [
+        "To locate routers on the network",
+        "To request address configuration information",
+        "To resolve IPv6 addresses to MAC addresses",
+        "To test network connectivity"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which utility uses ICMP echo request and echo reply messages?",
+      "options": ["traceroute", "ping", "netstat", "ipconfig"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does pinging the loopback address test?",
+      "options": [
+        "Network connectivity to the default gateway",
+        "Connectivity to remote hosts",
+        "The internal IP configuration of the local host",
+        "DNS resolution capabilities"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the IPv6 loopback address?",
+      "options": ["127.0.0.1", "::1", "FE80::1", "FF02::1"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Why might the first ping to a destination timeout?",
+      "options": [
+        "The destination is always slow to respond",
+        "Address resolution needs to be performed first",
+        "ICMP messages are blocked by default",
+        "The TTL value is set too low"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does a successful ping to the default gateway indicate?",
+      "options": [
+        "Internet connectivity is working",
+        "DNS resolution is functioning",
+        "The host and router interface are operational on the local network",
+        "All network services are available"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Why might a ping to a remote host fail even if connectivity exists?",
+      "options": [
+        "ICMP messages might be blocked by security restrictions",
+        "The remote host doesn't support IPv6",
+        "The default gateway is misconfigured",
+        "DNS is not working properly"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What information does the traceroute utility provide?",
+      "options": [
+        "The MAC addresses of all devices in the path",
+        "A list of hops and round-trip times between hosts",
+        "The bandwidth capacity of each link",
+        "The protocol used by each router"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does an asterisk (*) indicate in traceroute output?",
+      "options": [
+        "A successful hop",
+        "A lost or unreplied packet",
+        "The destination host",
+        "A router with high latency"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does traceroute determine the path to a destination?",
+      "options": [
+        "By sending packets with increasing TTL values",
+        "By querying DNS for path information",
+        "By analyzing routing tables locally",
+        "By using special routing protocols"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the initial TTL value used by traceroute?",
+      "options": ["0", "1", "16", "64"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which ICMP message does traceroute rely on?",
+      "options": [
+        "Echo Reply",
+        "Destination Unreachable",
+        "Time Exceeded",
+        "Redirect"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is Stateless Address Autoconfiguration (SLAAC)?",
+      "options": [
+        "Manual configuration of IPv6 addresses",
+        "Automatic configuration using DHCPv6",
+        "Automatic configuration using router advertisements",
+        "Translation between IPv4 and IPv6"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which component of NDP replaces ARP in IPv6?",
+      "options": [
+        "Router Solicitation/Advertisement",
+        "Neighbor Solicitation/Advertisement",
+        "Duplicate Address Detection",
+        "Redirect messages"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of Duplicate Address Detection in IPv6?",
+      "options": [
+        "To find the fastest path to a destination",
+        "To ensure IPv6 addresses are unique on the network",
+        "To detect duplicate routers on the same network",
+        "To identify duplicate MAC addresses"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which IPv6 address type is confined to a single link and not routable?",
+      "options": [
+        "Global Unicast Address",
+        "Unique Local Address",
+        "Link-Local Address",
+        "Multicast Address"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main advantage of IPv6's larger address space?",
+      "options": [
+        "Faster packet processing",
+        "Eliminates the need for NAT",
+        "Built-in encryption",
+        "Simpler header format"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which IPv6 transition method is considered the long-term goal?",
+      "options": [
+        "Dual stack",
+        "Tunneling",
+        "Translation",
+        "Native IPv6 communications"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What does the 'link-local' keyword do in Cisco IOS IPv6 configuration?",
+      "options": [
+        "Enables automatic address configuration",
+        "Specifies that the address is a link-local address",
+        "Configures the interface for local routing only",
+        "Enables link-state routing protocols"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Why is it recommended to use different link-local addresses on each router interface?",
+      "options": [
+        "To improve security",
+        "To make the router and interface easier to identify",
+        "To increase routing speed",
+        "To comply with RFC standards"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary function of ICMPv6 Redirect messages?",
+      "options": [
+        "To inform hosts of a better first-hop router",
+        "To notify of unreachable destinations",
+        "To test host reachability",
+        "To detect duplicate addresses"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which field in IPv6 is equivalent to the IPv4 TTL field?",
+      "options": ["Traffic Class", "Flow Label", "Hop Limit", "Next Header"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the IPv6 solicited-node multicast address?",
+      "options": [
+        "For router discovery",
+        "For duplicate address detection",
+        "For efficient address resolution",
+        "For automatic configuration"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which statement about IPv6 address assignment is correct?",
+      "options": [
+        "All-zeros and all-ones addresses cannot be used",
+        "Only all-zeros addresses can be assigned to devices",
+        "All-zeros and all-ones addresses can be assigned to devices",
+        "Only all-ones addresses can be assigned to devices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main difference between ICMPv4 and ICMPv6?",
+      "options": [
+        "ICMPv6 includes additional functionality like neighbor discovery",
+        "ICMPv4 is more reliable than ICMPv6",
+        "ICMPv6 cannot test connectivity like ICMPv4",
+        "ICMPv4 supports IPv6 addressing"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

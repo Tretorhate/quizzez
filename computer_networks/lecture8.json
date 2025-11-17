@@ -1,0 +1,423 @@
+{  "questions": [
+    {
+      "question": "What is the primary responsibility of the transport layer in the TCP/IP model?",
+      "options": [
+        "Physical transmission of data",
+        "Logical communications between applications on different hosts",
+        "Routing packets between networks",
+        "Error detection in data frames"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which transport layer protocol is considered connection-oriented?",
+      "options": ["UDP", "TCP", "IP", "ICMP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main characteristic of UDP that makes it suitable for real-time applications?",
+      "options": [
+        "Guaranteed delivery",
+        "Low overhead and minimal delay",
+        "Flow control mechanisms",
+        "Error correction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which TCP header field is used for data reassembly purposes?",
+      "options": ["Source Port", "Sequence Number", "Window Size", "Checksum"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bytes does a typical UDP header require?",
+      "options": ["20 bytes", "8 bytes", "16 bytes", "32 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of port numbers in transport layer protocols?",
+      "options": [
+        "To identify the physical location of devices",
+        "To manage multiple simultaneous conversations",
+        "To determine packet routing paths",
+        "To encrypt data transmissions"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which port number range is reserved for well-known services?",
+      "options": ["0-1023", "1024-49151", "49152-65535", "1000-5000"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does the term 'socket' refer to in networking?",
+      "options": [
+        "A physical connector on a device",
+        "The combination of IP address and port number",
+        "A type of network cable",
+        "A wireless connection point"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol is commonly used for email transmission?",
+      "options": ["FTP", "HTTP", "SMTP", "DNS"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the TCP three-way handshake?",
+      "options": [
+        "To encrypt the data transmission",
+        "To establish a connection between devices",
+        "To compress data for faster transfer",
+        "To verify data integrity"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which TCP control bit is used to synchronize sequence numbers during connection establishment?",
+      "options": ["ACK", "SYN", "FIN", "RST"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens during TCP session termination?",
+      "options": [
+        "Both devices send FIN flags",
+        "The connection is abruptly closed",
+        "Only the client can terminate the session",
+        "No acknowledgment is required"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "How does TCP ensure reliable delivery of data?",
+      "options": [
+        "By using larger packet sizes",
+        "Through sequence numbers and acknowledgments",
+        "By encrypting all transmissions",
+        "Through faster transmission rates"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary purpose of TCP flow control?",
+      "options": [
+        "To prevent network congestion",
+        "To adjust data rate based on receiver capability",
+        "To encrypt sensitive information",
+        "To compress data for efficiency"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does MSS stand for in TCP communications?",
+      "options": [
+        "Maximum Segment Size",
+        "Minimum Segment Size",
+        "Maximum Session Size",
+        "Minimum Session Size"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is a typical MSS value when using IPv4?",
+      "options": ["1500 bytes", "1460 bytes", "1000 bytes", "1024 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does UDP handle datagrams that arrive out of order?",
+      "options": [
+        "It reassembles them in the order received",
+        "It requests retransmission of missing segments",
+        "It reorders them using sequence numbers",
+        "It discards out-of-order datagrams"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which application would most likely use UDP rather than TCP?",
+      "options": [
+        "File transfer",
+        "Email",
+        "Live video streaming",
+        "Web browsing"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main advantage of UDP's simplicity?",
+      "options": [
+        "Better security",
+        "Lower overhead and faster transmission",
+        "Guaranteed delivery",
+        "Automatic error correction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which port number is used by DNS?",
+      "options": ["25", "53", "80", "110"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the range for private or dynamic ports?",
+      "options": ["0-1023", "1024-49151", "49152-65535", "1000-20000"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which command can be used to view active TCP connections on a host?",
+      "options": ["ping", "tracert", "netstat", "ipconfig"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the Window Size field in the TCP header?",
+      "options": [
+        "To indicate the number of bytes that can be accepted at one time",
+        "To specify the total size of the transmission",
+        "To determine the routing path",
+        "To identify the application protocol"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which TCP feature allows receivers to acknowledge discontinuous segments?",
+      "options": [
+        "Sliding window",
+        "Selective Acknowledgement (SACK)",
+        "Flow control",
+        "Congestion avoidance"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens when TCP detects congestion on the network?",
+      "options": [
+        "It increases transmission rate",
+        "It reduces the number of bytes sent before waiting for acknowledgment",
+        "It switches to UDP",
+        "It terminates the connection"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does TCP handle lost segments?",
+      "options": [
+        "It ignores them and continues",
+        "It requests retransmission of unacknowledged data",
+        "It terminates the connection",
+        "It switches to a different port"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of TCP?",
+      "options": [
+        "Connection-oriented",
+        "Reliable delivery",
+        "Flow control",
+        "Minimal overhead"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the primary use of the netstat command?",
+      "options": [
+        "To test network connectivity",
+        "To verify active network connections",
+        "To configure network interfaces",
+        "To trace packet routes"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which transport layer protocol would be best for a simple request-reply application?",
+      "options": [
+        "TCP",
+        "UDP",
+        "Both are equally suitable",
+        "Neither is suitable"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the Checksum field in transport layer headers provide?",
+      "options": [
+        "Encryption of data",
+        "Error checking of header and data",
+        "Authentication of users",
+        "Compression information"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does TCP provide same-order delivery?",
+      "options": [
+        "By using sequence numbers to reorder segments",
+        "By sending all data in a single segment",
+        "By using multiple parallel connections",
+        "By requesting retransmission of out-of-order segments"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which application typically uses port 443?",
+      "options": ["HTTP", "HTTPS", "FTP", "SSH"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main difference between how TCP and UDP handle multiple conversations?",
+      "options": [
+        "TCP uses port numbers while UDP does not",
+        "UDP uses port numbers while TCP does not",
+        "Both use port numbers but TCP maintains connection state",
+        "Neither uses port numbers for multiple conversations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What happens when a TCP segment arrives with the RST flag set?",
+      "options": [
+        "The connection is established",
+        "The connection is reset due to an error or timeout",
+        "Data transfer begins",
+        "The connection is gracefully terminated"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which field in the UDP header indicates the length of the datagram?",
+      "options": ["Source Port", "Destination Port", "Length", "Checksum"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the key advantage of UDP for applications that can tolerate some data loss?",
+      "options": [
+        "Guaranteed delivery",
+        "Lower latency and overhead",
+        "Built-in encryption",
+        "Automatic error correction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does TCP implement flow control?",
+      "options": [
+        "By adjusting the window size based on receiver capability",
+        "By reducing transmission speed automatically",
+        "By using smaller packet sizes",
+        "By prioritizing certain types of traffic"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which protocol is used for secure remote access to network devices?",
+      "options": ["Telnet", "FTP", "SSH", "HTTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of ephemeral ports?",
+      "options": [
+        "For well-known services",
+        "For registered applications",
+        "For temporary client-side connections",
+        "For administrative purposes only"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which TCP feature helps prevent network congestion?",
+      "options": [
+        "Sequence numbers",
+        "Congestion avoidance mechanisms",
+        "Port numbers",
+        "Header length field"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does UDP differ from TCP in terms of session management?",
+      "options": [
+        "UDP establishes sessions before data transfer",
+        "UDP does not establish sessions before data transfer",
+        "Both establish sessions in the same way",
+        "Neither protocol establishes sessions"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which application would typically use both TCP and UDP?",
+      "options": ["DNS", "Email", "File transfer", "Web browsing"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the role of the Acknowledgement Number field in TCP?",
+      "options": [
+        "To indicate the next byte expected from the source",
+        "To identify the destination application",
+        "To specify the total data size",
+        "To determine the transmission rate"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which transport layer protocol is considered 'best-effort' delivery?",
+      "options": ["TCP", "UDP", "Both TCP and UDP", "Neither TCP nor UDP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary benefit of TCP's stateful nature?",
+      "options": [
+        "Faster transmission speeds",
+        "Better tracking of communication session state",
+        "Smaller header size",
+        "Simpler implementation"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does segmentation at the transport layer benefit network communication?",
+      "options": [
+        "It allows multiple applications to use the network simultaneously",
+        "It encrypts data for security",
+        "It compresses data for efficiency",
+        "It prioritizes certain types of traffic"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which port number is used by HTTP?",
+      "options": ["21", "25", "80", "110"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main reason VoIP applications often use UDP?",
+      "options": [
+        "Guaranteed delivery is essential",
+        "Low latency is more important than perfect delivery",
+        "UDP provides better audio quality",
+        "TCP is not compatible with voice data"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does TCP handle situations where network resources are overtaxed?",
+      "options": [
+        "By terminating the connection",
+        "By requesting reduced data flow from the application",
+        "By switching to UDP",
+        "By increasing packet size"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the relationship between MTU and MSS in TCP?",
+      "options": [
+        "MSS is typically MTU minus IP and TCP header sizes",
+        "MTU is typically MSS minus IP and TCP header sizes",
+        "MSS and MTU are the same value",
+        "There is no relationship between MTU and MSS"
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{  "questions": [
+    {
+      "question": "What is the Data Link Layer responsible for?",
+      "options": [
+        "Routing packets between networks",
+        "Communications between end-device network interface cards",
+        "Encrypting application data",
+        "Providing user interface"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the Data Link Layer do with Layer 3 packets?",
+      "options": [
+        "Encrypts them",
+        "Routes them",
+        "Encapsulates them into Layer 2 frames",
+        "Compresses them"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What are the two sublayers of the IEEE 802 LAN/MAN Data Link Layer?",
+      "options": [
+        "Physical and Network",
+        "LLC and MAC",
+        "TCP and IP",
+        "Session and Presentation"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary responsibility of the LLC sublayer?",
+      "options": [
+        "Data encapsulation and media access control",
+        "Communicating between networking software and device hardware",
+        "Physical signal transmission",
+        "Error correction"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the MAC sublayer responsible for?",
+      "options": [
+        "Routing decisions",
+        "Data encapsulation and media access control",
+        "Application layer protocols",
+        "User authentication"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many basic Layer 2 functions does a router perform at each hop?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which organization is NOT mentioned as defining data link layer protocols?",
+      "options": ["IEEE", "ITU", "IETF", "ISO"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does a physical topology show?",
+      "options": [
+        "Virtual connections using IP addressing",
+        "Physical connections and how devices are interconnected",
+        "Only wireless connections",
+        "Software configurations"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does a logical topology identify?",
+      "options": [
+        "Physical cable types",
+        "Virtual connections using device interfaces and IP addressing",
+        "Hardware specifications",
+        "Power requirements"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which WAN topology consists of a permanent link between two endpoints?",
+      "options": ["Mesh", "Hub and spoke", "Point-to-point", "Ring"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which WAN topology provides high availability but requires every system to be connected to every other system?",
+      "options": ["Point-to-point", "Hub and spoke", "Mesh", "Star"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the most common LAN topology for end devices?",
+      "options": ["Bus", "Ring", "Star or extended star", "Mesh"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What characterizes half-duplex communication?",
+      "options": [
+        "Both devices can transmit and receive simultaneously",
+        "Only one device can send or receive at a time",
+        "Data flows in one direction only",
+        "Multiple devices can send simultaneously"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What type of communication do Ethernet switches operate in?",
+      "options": ["Half-duplex", "Simplex", "Full-duplex", "Single-duplex"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which access method is used on legacy bus-topology Ethernet?",
+      "options": ["CSMA/CA", "CSMA/CD", "Token Ring", "TDMA"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which access method is used on Wireless LANs?",
+      "options": ["CSMA/CD", "CSMA/CA", "Token passing", "Circuit switching"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens when devices detect a collision in CSMA/CD?",
+      "options": [
+        "They stop transmitting permanently",
+        "They wait a random period and retransmit",
+        "They increase transmission power",
+        "They switch to a different frequency"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does CSMA/CA avoid collisions?",
+      "options": [
+        "By detecting collisions after they occur",
+        "Devices include time duration needed for transmission so others know when medium is unavailable",
+        "By using separate channels",
+        "By increasing power"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many parts does a data link frame have?",
+      "options": [
+        "Two: Header and Data",
+        "Three: Header, Data, and Trailer",
+        "Four: Preamble, Header, Data, and Trailer",
+        "Five: Start, Header, Data, Trailer, and End"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What information does the addressing field in a frame contain?",
+      "options": [
+        "IP addresses only",
+        "Source and destination nodes",
+        "Port numbers",
+        "Application identifiers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of the Error Detection field in a frame?",
+      "options": [
+        "To encrypt data",
+        "To compress data",
+        "To determine transmission errors",
+        "To route the frame"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Where is a Layer 2 address contained?",
+      "options": [
+        "In the frame trailer",
+        "In the frame header",
+        "In the data payload",
+        "In the preamble"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How is a Layer 2 address updated as a frame travels through a network?",
+      "options": [
+        "It remains unchanged throughout the journey",
+        "It is encrypted at each hop",
+        "It is updated by each device that forwards the frame",
+        "It is only changed at the destination"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "At which layers does Ethernet operate?",
+      "options": [
+        "Network and Transport layers",
+        "Data Link and Physical layers",
+        "Application and Presentation layers",
+        "Session and Transport layers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which IEEE standard defines Ethernet at the LLC sublayer?",
+      "options": ["IEEE 802.2", "IEEE 802.3", "IEEE 802.11", "IEEE 802.15"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does the LLC sublayer place in the frame?",
+      "options": [
+        "MAC addresses",
+        "Information to identify which network layer protocol is used",
+        "Error detection codes",
+        "Physical addresses"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the FCS trailer in an Ethernet frame provide?",
+      "options": [
+        "Addressing information",
+        "Routing information",
+        "Error detection",
+        "Encryption"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What access method do legacy Ethernet networks using hubs employ?",
+      "options": [
+        "Full-duplex",
+        "CSMA/CD contention-based access",
+        "Token passing",
+        "Circuit switching"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Do modern Ethernet switches using full-duplex require CSMA/CD?",
+      "options": [
+        "Yes, always",
+        "No, full-duplex communications do not require CSMA/CD",
+        "Only for wireless connections",
+        "Only for fiber connections"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the minimum Ethernet frame size?",
+      "options": ["32 bytes", "64 bytes", "128 bytes", "256 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the maximum standard Ethernet frame size?",
+      "options": ["512 bytes", "1024 bytes", "1518 bytes", "2048 bytes"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a frame less than 64 bytes called?",
+      "options": [
+        "Mini frame",
+        "Collision fragment or runt frame",
+        "Short frame",
+        "Micro frame"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bits are in an Ethernet MAC address?",
+      "options": ["32 bits", "48 bits", "64 bits", "128 bits"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many hexadecimal values express an Ethernet MAC address?",
+      "options": [
+        "6 hexadecimal values",
+        "8 hexadecimal values",
+        "10 hexadecimal values",
+        "12 hexadecimal values"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "How many bytes is an Ethernet MAC address?",
+      "options": ["4 bytes", "6 bytes", "8 bytes", "12 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is an OUI in Ethernet addressing?",
+      "options": [
+        "Optional User Interface",
+        "Organizationally Unique Identifier assigned by IEEE",
+        "Operating Unit Indicator",
+        "Outbound User Information"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many hexadecimal characters does the OUI consist of?",
+      "options": [
+        "3 hexadecimal characters",
+        "6 hexadecimal characters",
+        "9 hexadecimal characters",
+        "12 hexadecimal characters"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does a NIC do when it receives a frame with a non-matching destination MAC address?",
+      "options": [
+        "Forwards it to the router",
+        "Stores it for later processing",
+        "Discards the frame",
+        "Broadcasts it to all devices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What protocol is used to determine the destination MAC address associated with an IPv4 address?",
+      "options": ["DNS", "DHCP", "ARP", "ICMP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What protocol is used to determine the destination MAC address associated with an IPv6 address?",
+      "options": ["ARP", "Neighbor Discovery (ND)", "DNS", "DHCP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the broadcast MAC address in hexadecimal?",
+      "options": [
+        "00-00-00-00-00-00",
+        "FF-FF-FF-FF-FF-FF",
+        "01-00-5E-00-00-00",
+        "33-33-00-00-00-00"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens to an Ethernet broadcast frame at a switch?",
+      "options": [
+        "It is discarded",
+        "It is sent only to the destination",
+        "It is flooded out all ports except the incoming port",
+        "It is forwarded only to routers"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the destination MAC address prefix for IPv4 multicast?",
+      "options": ["FF-FF", "01-00-5E", "33-33", "00-00-00"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the destination MAC address prefix for IPv6 multicast?",
+      "options": ["FF-FF", "01-00-5E", "33-33", "AA-AA-AA"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Can a multicast address be used as a source address?",
+      "options": [
+        "Yes, always",
+        "No, it can only be used as a destination",
+        "Yes, but only in IPv6",
+        "Yes, but only in IPv4"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does a Layer 2 switch use to make forwarding decisions?",
+      "options": [
+        "IP addresses",
+        "MAC addresses",
+        "Port numbers",
+        "Application protocols"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the MAC address table sometimes called?",
+      "options": [
+        "Routing table",
+        "ARP cache",
+        "Content Addressable Memory (CAM) table",
+        "Forwarding information base"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does a switch examine to learn MAC addresses?",
+      "options": [
+        "Destination MAC address",
+        "Source MAC address and incoming port",
+        "IP address",
+        "Frame size"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How long does a switch typically keep a MAC address entry by default?",
+      "options": ["1 minute", "5 minutes", "10 minutes", "30 minutes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens if a switch receives a frame with a destination MAC address not in its table?",
+      "options": [
+        "It discards the frame",
+        "It forwards the frame out all ports except the incoming port (unknown unicast)",
+        "It sends it to the router",
+        "It stores it until the address is learned"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which switching method receives the entire frame and computes CRC before forwarding?",
+      "options": [
+        "Cut-through switching",
+        "Store-and-forward switching",
+        "Fast-forward switching",
+        "Fragment-free switching"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which switching method forwards frames before they are entirely received?",
+      "options": [
+        "Store-and-forward switching",
+        "Cut-through switching",
+        "Buffered switching",
+        "Queued switching"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is an advantage of store-and-forward switching?",
+      "options": [
+        "Lowest latency",
+        "Fastest forwarding",
+        "Determines if frame has errors before forwarding",
+        "Uses less memory"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which cut-through variant offers the lowest latency?",
+      "options": [
+        "Fragment-free switching",
+        "Store-and-forward switching",
+        "Fast-forward switching",
+        "Buffered switching"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How many bytes does fragment-free switching check before forwarding?",
+      "options": ["32 bytes", "64 bytes", "128 bytes", "256 bytes"],
+      "correct_answer": 1
+    },
+    {
+      "question": "In port-based memory buffering, when is a frame transmitted?",
+      "options": [
+        "Immediately upon arrival",
+        "Only when all frames ahead in the queue have been transmitted",
+        "After a random delay",
+        "When the buffer is full"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is a characteristic of shared memory buffering?",
+      "options": [
+        "Each port has dedicated memory",
+        "All frames are stored in a common buffer shared by all ports",
+        "Memory cannot be dynamically allocated",
+        "Only works with half-duplex"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In full-duplex communication, what can both ends of the connection do?",
+      "options": [
+        "Only send data",
+        "Only receive data",
+        "Send and receive simultaneously",
+        "Send or receive one at a time"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is autonegotiation used for?",
+      "options": [
+        "To automatically configure IP addresses",
+        "To enable devices to automatically negotiate best speed and duplex",
+        "To establish routing protocols",
+        "To configure VLANs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is one of the most common causes of performance issues on 10/100 Mbps Ethernet?",
+      "options": [
+        "Cable length",
+        "Duplex mismatch",
+        "Wrong IP address",
+        "Incorrect VLAN"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the best practice for configuring Ethernet switch ports?",
+      "options": [
+        "Always use half-duplex",
+        "Configure both ports as full-duplex",
+        "Use different speeds on each end",
+        "Always use auto-negotiation off"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does Auto-MDIX do?",
+      "options": [
+        "Automatically configures IP addresses",
+        "Automatically detects cable type and configures interfaces",
+        "Automatically creates VLANs",
+        "Automatically enables security features"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

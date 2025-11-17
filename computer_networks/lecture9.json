@@ -1,0 +1,363 @@
+{  "questions": [
+    {
+      "question": "What is the primary purpose of the application layer in network communication?",
+      "options": [
+        "To establish physical connections between devices",
+        "To provide the interface between applications and the underlying network",
+        "To encrypt all network traffic automatically",
+        "To assign IP addresses to network devices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following protocols is responsible for translating domain names into IP addresses?",
+      "options": ["HTTP", "FTP", "DNS", "DHCP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "In a peer-to-peer network, what role can each connected device assume?",
+      "options": [
+        "Only client functions",
+        "Only server functions",
+        "Both client and server functions",
+        "Neither client nor server functions"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What are the three common message types used in HTTP?",
+      "options": [
+        "SEND, RECEIVE, ACK",
+        "OPEN, CLOSE, VERIFY",
+        "GET, POST, PUT",
+        "REQUEST, RESPONSE, ERROR"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol is specifically designed for sending email messages?",
+      "options": ["POP3", "IMAP", "SMTP", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What happens to email messages on a server when retrieved using POP3?",
+      "options": [
+        "They are copied to the client and remain on the server",
+        "They are moved to a different folder on the server",
+        "They are downloaded to the client and deleted from the server",
+        "They are encrypted and stored permanently on the server"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How does IMAP differ from POP3 in handling email?",
+      "options": [
+        "IMAP doesn't support folder management",
+        "IMAP downloads and deletes messages immediately",
+        "IMAP keeps original messages on the server until manually deleted",
+        "IMAP is only for sending email, not receiving"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the function of the presentation layer in the OSI model?",
+      "options": [
+        "To establish and maintain sessions between applications",
+        "To route packets between different networks",
+        "To format, compress, and encrypt data for transmission",
+        "To define electrical specifications for physical connections"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which DNS record type maps a domain name to an IPv4 address?",
+      "options": ["AAAA", "MX", "NS", "A"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the purpose of DHCP in network communications?",
+      "options": [
+        "To translate domain names to IP addresses",
+        "To dynamically assign IP addresses to network devices",
+        "To encrypt web browser communications",
+        "To transfer files between computers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In the DHCP process, what message does a client send to initiate an IP address request?",
+      "options": ["DHCPOFFER", "DHCPDISCOVER", "DHCPREQUEST", "DHCPACK"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What type of DNS record identifies mail servers for a domain?",
+      "options": ["A", "AAAA", "MX", "NS"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol uses both port 20 and port 21 for different types of connections?",
+      "options": ["HTTP", "SSH", "FTP", "SMTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary advantage of using HTTPS over HTTP?",
+      "options": [
+        "Faster data transfer speeds",
+        "More efficient compression",
+        "Secure encrypted communications",
+        "Simpler implementation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In a hybrid P2P system, what is the purpose of the index server?",
+      "options": [
+        "To store all shared files centrally",
+        "To provide the location of resources stored on peers",
+        "To encrypt all peer-to-peer communications",
+        "To assign IP addresses to all peers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for creating and maintaining dialogs between applications?",
+      "options": ["Application", "Presentation", "Session", "Transport"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What command-line utility allows manual querying of DNS servers?",
+      "options": ["ping", "tracert", "nslookup", "ipconfig"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol allows for long-term connections to shared resources, making them appear as local resources?",
+      "options": ["FTP", "HTTP", "SMB", "SMTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the default port number for HTTP communications?",
+      "options": ["21", "25", "80", "110"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which email protocol allows users to keep messages on the server while working with copies locally?",
+      "options": ["SMTP", "POP3", "IMAP", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the hierarchical structure used by DNS to organize domain names?",
+      "options": [
+        "Linear addressing system",
+        "Tree-like structure with root at top",
+        "Mesh network of interconnected servers",
+        "Flat namespace with no hierarchy"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In the context of FTP, what is the purpose of the control connection?",
+      "options": [
+        "To transfer the actual file data",
+        "To manage commands and replies between client and server",
+        "To encrypt the file transfer process",
+        "To compress data before transmission"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which application layer protocol is used by web browsers to retrieve web pages?",
+      "options": ["FTP", "SMTP", "HTTP", "DNS"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does a DHCP server provide to a client besides an IP address?",
+      "options": [
+        "Domain name resolution",
+        "Subnet mask and default gateway",
+        "Email server addresses",
+        "Web page content"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which DNS record type is used for IPv6 addresses?",
+      "options": ["A", "AAAA", "IP6", "IPv6"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main difference between client-server and peer-to-peer networks?",
+      "options": [
+        "Client-server uses wireless technology",
+        "P2P requires dedicated server hardware",
+        "In P2P, devices can function as both client and server",
+        "Client-server is more expensive to implement"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol would be used to upload a file to a web server?",
+      "options": ["GET", "POST", "DOWNLOAD", "RETRIEVE"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens when a DNS server cannot resolve a domain name using its own records?",
+      "options": [
+        "It returns an error and stops",
+        "It contacts other DNS servers to resolve the name",
+        "It assigns a temporary IP address",
+        "It creates a new DNS record automatically"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which TCP port does SMTP use for communication?",
+      "options": ["21", "25", "80", "110"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of the session layer in the OSI model?",
+      "options": [
+        "To format data for presentation",
+        "To establish, maintain, and restart dialogs between applications",
+        "To route packets across network boundaries",
+        "To define physical connections between devices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In FTP, which port is used for the actual data transfer?",
+      "options": ["20", "21", "22", "23"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does the 'S' in HTTPS represent?",
+      "options": ["Simple", "Secure", "Standard", "System"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol is used by clients to retrieve email from a server without deleting it?",
+      "options": ["SMTP", "POP3", "IMAP", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a fully qualified domain name (FQDN)?",
+      "options": [
+        "An IP address with a subnet mask",
+        "A complete domain name specifying all domain levels",
+        "A website's home page address",
+        "An encrypted domain name"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which application layer protocol dynamically assigns IP addresses?",
+      "options": ["DNS", "HTTP", "DHCP", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the final step in the DHCP process?",
+      "options": ["DHCPDISCOVER", "DHCPOFFER", "DHCPREQUEST", "DHCPACK"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which message type in HTTP is used by a client to request data from a server?",
+      "options": ["POST", "PUT", "GET", "SEND"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary function of the application layer in the TCP/IP model?",
+      "options": [
+        "Physical transmission of data",
+        "Routing between networks",
+        "Providing services to user applications",
+        "Error detection and correction"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol allows for the centralized management of shared files and printers?",
+      "options": ["FTP", "HTTP", "SMB", "SMTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does DNS resolution accomplish?",
+      "options": [
+        "Encrypts domain names for security",
+        "Converts domain names to IP addresses",
+        "Assigns IP addresses to new devices",
+        "Compresses web page content"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In a P2P network, how are resources typically shared?",
+      "options": [
+        "Through a centralized dedicated server",
+        "Directly between peer devices",
+        "Through a hierarchical chain of servers",
+        "Via broadcast to all network devices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which email protocol is used specifically for sending messages?",
+      "options": ["POP3", "IMAP", "SMTP", "HTTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the GET method in HTTP?",
+      "options": [
+        "To upload data to the server",
+        "To request data from the server",
+        "To delete resources on the server",
+        "To establish a secure connection"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which DNS record type identifies authoritative name servers for a domain?",
+      "options": ["A", "MX", "NS", "CNAME"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a key characteristic of the peer-to-peer model?",
+      "options": [
+        "Requires dedicated server hardware",
+        "Devices can function as both clients and servers",
+        "More expensive to implement than client-server",
+        "Centralized management of all resources"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol would you use to transfer large files between systems?",
+      "options": ["HTTP", "SMTP", "FTP", "DNS"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What information does a DHCP server provide to a client?",
+      "options": [
+        "Domain name to IP address mapping",
+        "IP address, subnet mask, and default gateway",
+        "Email server configuration",
+        "Web page authentication"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for data compression and encryption?",
+      "options": ["Application", "Presentation", "Session", "Transport"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the default port for HTTPS?",
+      "options": ["80", "443", "8080", "21"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol is used to retrieve email while keeping the original messages on the server?",
+      "options": ["POP3", "IMAP", "SMTP", "FTP"],
+      "correct_answer": 1
+    }
+  ]
+}

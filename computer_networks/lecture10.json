@@ -1,0 +1,438 @@
+{  "questions": [
+    {
+      "question": "What is the primary goal of a well-designed small network?",
+      "options": [
+        "To use the most expensive equipment available",
+        "To enhance employee productivity and minimize downtime",
+        "To implement the latest networking protocols",
+        "To eliminate all wireless connections"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which factor is NOT typically considered when selecting network devices for a small business?",
+      "options": [
+        "Cost of equipment",
+        "Speed and types of ports/interfaces",
+        "Brand popularity among consumers",
+        "Expandability for future growth"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of implementing redundancy in a network design?",
+      "options": [
+        "To increase network complexity",
+        "To eliminate single points of failure",
+        "To reduce equipment costs",
+        "To simplify troubleshooting"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which technology helps prioritize real-time traffic like voice and video over other data types?",
+      "options": ["DNS", "DHCP", "QoS (Quality of Service)", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the difference between network applications and application layer services?",
+      "options": [
+        "Network applications are free while services are paid",
+        "Applications communicate directly with lower layers while services interface for non-network-aware programs",
+        "Services are faster than applications",
+        "Applications work only on Windows while services work on all operating systems"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol provides secure remote access to network devices?",
+      "options": ["Telnet", "HTTP", "FTP", "SSH"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What information is essential for scaling a small network to a larger one?",
+      "options": [
+        "Employee birthdays and work anniversaries",
+        "Network documentation and device inventory",
+        "Office decoration preferences",
+        "Company vacation schedules"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command is most effective for quickly testing Layer 3 connectivity between devices?",
+      "options": ["tracert", "ipconfig", "ping", "arp -a"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What protocol does the ping command use to test connectivity?",
+      "options": ["TCP", "UDP", "ICMP", "HTTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "In Windows, what does an exclamation mark (!) indicate in ping results?",
+      "options": [
+        "Failed connection attempt",
+        "Successful receipt of an echo reply",
+        "Network congestion detected",
+        "Authentication failure"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What tool can help identify where a connectivity problem occurs along a network path?",
+      "options": ["ping", "ipconfig", "traceroute", "arp"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which command displays IP address details including MAC address on a Windows host?",
+      "options": ["ipconfig", "ipconfig /all", "ping localhost", "tracert"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What command can renew IP configuration on a DHCP client in Windows?",
+      "options": [
+        "ipconfig /flushdns",
+        "ipconfig /release followed by ipconfig /renew",
+        "ping 127.0.0.1",
+        "arp -d"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "On Linux systems, which command displays active interfaces and their IP configuration?",
+      "options": ["ipconfig", "ifconfig", "netstat", "route"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the 'arp -a' command display?",
+      "options": [
+        "All routing table entries",
+        "Known IP address to MAC address bindings",
+        "Active network connections",
+        "DNS server information"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which show command verifies the current configuration and settings on a Cisco device?",
+      "options": [
+        "show interfaces",
+        "show running-config",
+        "show ip route",
+        "show version"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What information does the 'show ip interface brief' command provide?",
+      "options": [
+        "Detailed packet analysis",
+        "Complete routing tables",
+        "Summary of interface status and IP addresses",
+        "CPU and memory utilization"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol discovers information about directly connected Cisco devices?",
+      "options": ["HTTP", "DNS", "CDP", "FTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the first step in the basic troubleshooting methodology?",
+      "options": [
+        "Test the theory to determine cause",
+        "Identify the problem",
+        "Establish a plan of action",
+        "Document findings"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "When should a network problem be escalated?",
+      "options": [
+        "After the first test fails",
+        "When it requires manager decisions or specific expertise",
+        "Only when multiple devices are affected",
+        "After business hours"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What command displays real-time process and protocol messages on Cisco devices?",
+      "options": ["show", "debug", "ping", "traceroute"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command enables log message display on remote terminal connections?",
+      "options": [
+        "terminal monitor",
+        "debug all",
+        "show logging",
+        "enable monitor"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What network issue occurs when one device operates in full-duplex and another in half-duplex?",
+      "options": [
+        "DNS mismatch",
+        "IP conflict",
+        "Duplex mismatch",
+        "Gateway overload"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What IP address range does Windows assign when it cannot contact a DHCP server?",
+      "options": [
+        "10.0.0.0/8",
+        "192.168.0.0/16",
+        "169.254.0.0/16",
+        "172.16.0.0/12"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of a default gateway?",
+      "options": [
+        "To assign IP addresses to devices",
+        "To resolve domain names to IP addresses",
+        "To forward traffic to other networks",
+        "To encrypt network communications"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which command verifies the default route on a Cisco router?",
+      "options": [
+        "show interfaces",
+        "show ip route",
+        "show running-config",
+        "show version"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What tool can manually query DNS servers to troubleshoot name resolution?",
+      "options": ["ping", "tracert", "nslookup", "ipconfig"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of establishing a network baseline?",
+      "options": [
+        "To set minimum security standards",
+        "To monitor and troubleshoot network performance",
+        "To determine employee internet usage",
+        "To calculate equipment depreciation"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which network protocol is used specifically for file transfers with security features?",
+      "options": ["FTP", "TFTP", "SFTP", "HTTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does QoS priority queuing ensure for real-time applications?",
+      "options": [
+        "Highest bandwidth allocation",
+        "Lowest security restrictions",
+        "Preferred treatment over other traffic types",
+        "Automatic protocol conversion"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which document type helps inform decisions when scaling a small network?",
+      "options": [
+        "Employee performance reviews",
+        "Marketing strategy plans",
+        "Physical and logical topology diagrams",
+        "Company holiday schedules"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What information does protocol analysis provide for network planning?",
+      "options": [
+        "Employee work habits",
+        "Traffic flow patterns and requirements",
+        "Equipment warranty status",
+        "Software licensing costs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command provides a quick summary of interface status on a router?",
+      "options": [
+        "show ip interface brief",
+        "show running-config",
+        "show protocols",
+        "show cdp neighbors"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What problem might cause a device to have limited network communication despite having an IP address?",
+      "options": [
+        "Incorrect default gateway",
+        "Wrong monitor resolution",
+        "Outdated web browser",
+        "Insufficient RAM"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which feature helps minimize latency for real-time applications like VoIP?",
+      "options": [
+        "Larger IP address pools",
+        "Quality of Service mechanisms",
+        "Multiple DNS servers",
+        "Extended ping options"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the 'show cdp neighbors detail' command reveal?",
+      "options": [
+        "IP addresses of neighboring devices",
+        "Password information for connected devices",
+        "Network security vulnerabilities",
+        "Employee access patterns"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which step in troubleshooting involves testing theories about potential causes?",
+      "options": [
+        "Identify the problem",
+        "Establish a theory of probable causes",
+        "Test the theory to determine cause",
+        "Establish a plan of action"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What command turns off all active debug operations on a Cisco device?",
+      "options": ["no debug all", "debug off", "undebug all", "stop debugging"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What type of network issue might still allow communication but with poor performance?",
+      "options": [
+        "Complete network failure",
+        "Duplex mismatch",
+        "Power outage",
+        "Firewall block"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which Windows command displays cached DNS entries?",
+      "options": [
+        "ipconfig /displaydns",
+        "ipconfig /flushdns",
+        "nslookup cache",
+        "arp -a"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is a key consideration when supporting real-time applications on a network?",
+      "options": [
+        "Infrastructure capacity and capability",
+        "Employee training requirements",
+        "Marketing material quality",
+        "Office furniture arrangement"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which protocol is essential for dynamic IP address assignment in small networks?",
+      "options": ["DNS", "DHCP", "FTP", "SMTP"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does traffic management help accomplish in a small network?",
+      "options": [
+        "Reduce equipment costs",
+        "Monitor employee internet usage",
+        "Prioritize important applications",
+        "Eliminate all network delays"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which element is NOT typically part of network documentation for scaling purposes?",
+      "options": [
+        "Physical topology",
+        "Device inventory",
+        "Employee personal information",
+        "Traffic analysis"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What command helps verify Layer 2 address resolutions on a local network?",
+      "options": ["ping", "tracert", "arp -a", "ipconfig"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which troubleshooting step involves implementing preventive measures?",
+      "options": [
+        "Identify the problem",
+        "Test the theory",
+        "Verify solution and implement preventive measures",
+        "Document findings"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What information can be gathered from employee network utilization snapshots?",
+      "options": [
+        "Evolving protocol requirements and traffic flows",
+        "Personal email content",
+        "Social media preferences",
+        "Vacation planning details"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which network service provides alternative DNS resolution with security filtering?",
+      "options": ["Google DNS", "OpenDNS", "Cloudflare DNS", "ISP DNS"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of the extended ping command in Cisco IOS?",
+      "options": [
+        "To ping multiple devices simultaneously",
+        "To customize ping parameters for specific testing",
+        "To automatically fix network issues",
+        "To bypass security restrictions"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which factor influences the selection of intermediary devices in a small network?",
+      "options": [
+        "Color of the device",
+        "Operating system features and services",
+        "Manufacturer's stock price",
+        "Employee brand preferences"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What problem might be indicated by asterisks (*) in traceroute output?",
+      "options": [
+        "Successful hops",
+        "Reply timeouts or potential network problems",
+        "Encrypted connections",
+        "High-speed links"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{  "questions": [
+    {
+      "question": "What are the four basic operations performed by the network layer?",
+      "options": [
+        "Addressing, Encapsulation, Routing, De-encapsulation",
+        "Framing, Error Checking, Flow Control, Access Management",
+        "Segmentation, Multiplexing, Connection Control, Error Recovery",
+        "Synchronization, Encryption, Compression, Authentication"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which characteristic describes IP as having no mechanism to resend data that is not received?",
+      "options": [
+        "Connectionless",
+        "Best Effort",
+        "Media Independent",
+        "Unreliable"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens when the Time-to-Live (TTL) field in an IPv4 header reaches zero?",
+      "options": [
+        "The packet is prioritized for faster delivery",
+        "The packet is encrypted for security",
+        "The router discards the packet",
+        "The packet is fragmented into smaller units"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which IPv4 header field identifies the next level protocol such as ICMP, TCP, or UDP?",
+      "options": [
+        "Version",
+        "Protocol",
+        "Header Checksum",
+        "Differentiated Services"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What was a major limitation of IPv4 that IPv6 was designed to overcome?",
+      "options": [
+        "Lack of broadcast capability",
+        "IPv4 address depletion",
+        "Inability to support encryption",
+        "Fixed header size limitations"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does IPv6 handle packet fragmentation compared to IPv4?",
+      "options": [
+        "IPv6 fragments packets more efficiently than IPv4",
+        "IPv6 allows routers to fragment packets when needed",
+        "IPv6 does not fragment packets; routers discard oversized packets",
+        "IPv6 uses the same fragmentation method as IPv4"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What determines whether a host sends packets to itself, a local host, or a remote host?",
+      "options": [
+        "The subnet mask and destination IP address",
+        "The MAC address of the default gateway",
+        "The protocol being used (TCP or UDP)",
+        "The size of the data payload"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the purpose of a default gateway on a network?",
+      "options": [
+        "To assign IP addresses to new devices",
+        "To encrypt all network traffic",
+        "To forward traffic to remote networks",
+        "To provide wireless connectivity"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which type of route is automatically added by a router when an interface is active and has addressing?",
+      "options": [
+        "Static Route",
+        "Default Route",
+        "Directly Connected Route",
+        "Dynamic Route"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main difference between static and dynamic routing?",
+      "options": [
+        "Static routing uses IP addresses while dynamic routing uses MAC addresses",
+        "Static routing requires manual configuration while dynamic routing automatically adjusts",
+        "Static routing works only with IPv4 while dynamic routing works with both IPv4 and IPv6",
+        "Static routing is more secure but slower than dynamic routing"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "When a device needs to send a packet to a destination on a remote network, what destination MAC address does it use?",
+      "options": [
+        "The MAC address of the destination device",
+        "The MAC address of the default gateway",
+        "A broadcast MAC address (FF:FF:FF:FF:FF:FF)",
+        "Its own MAC address"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does ARP do when no entry is found in the ARP table for a destination IPv4 address?",
+      "options": [
+        "Drops the packet silently",
+        "Sends the packet using a broadcast MAC address",
+        "Sends an ARP request to find the corresponding MAC address",
+        "Uses the IPv6 address instead"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which command activates a router interface after configuration?",
+      "options": ["description", "ip address", "no shutdown", "interface"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'description' command when configuring a router interface?",
+      "options": [
+        "To set the interface speed and duplex settings",
+        "To add information about the network connected to the interface",
+        "To enable encryption on the interface",
+        "To assign a MAC address to the interface"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command displays all interfaces, their IP addresses, and current status on a router?",
+      "options": [
+        "show ip route",
+        "show interfaces",
+        "show ip interface brief",
+        "show running-config"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary function of the Network Layer in the OSI model?",
+      "options": [
+        "To provide services allowing end devices to exchange data",
+        "To establish connections between applications",
+        "To convert data into electrical signals",
+        "To manage frame delivery between devices"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which field in the IPv6 header replaces the TTL field from IPv4?",
+      "options": ["Traffic Class", "Flow Label", "Hop Limit", "Next Header"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the typical size of an IPv6 header?",
+      "options": ["20 bytes", "32 bytes", "40 bytes", "64 bytes"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which IPv4 header field is used for Quality of Service (QoS) prioritization?",
+      "options": [
+        "Version",
+        "Differentiated Services",
+        "Identification",
+        "Header Checksum"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of extension headers in IPv6?",
+      "options": [
+        "To make the header smaller than IPv4",
+        "To provide optional network layer information",
+        "To replace the need for TCP and UDP",
+        "To encrypt the packet payload"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does a host determine if a destination is on the same local network?",
+      "options": [
+        "By comparing the destination MAC address with its own",
+        "By using its IP address and subnet mask with the destination IP",
+        "By sending a broadcast request to all devices",
+        "By checking the TTL value in the IP header"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens to a packet when no route matches in the routing table and no default route exists?",
+      "options": [
+        "It is broadcast to all interfaces",
+        "It is queued for later delivery",
+        "It is discarded by the router",
+        "It is forwarded to the nearest router"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which routing method automatically discovers remote networks and adjusts to topology changes?",
+      "options": [
+        "Static routing",
+        "Directly connected routing",
+        "Default routing",
+        "Dynamic routing"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the main advantage of IPv6's simplified header compared to IPv4?",
+      "options": [
+        "Smaller overall size",
+        "Improved packet handling performance",
+        "Built-in encryption",
+        "Backward compatibility with IPv4"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol is used by IPv6 for address resolution instead of ARP?",
+      "options": [
+        "ICMPv6",
+        "DHCPv6",
+        "Neighbor Discovery",
+        "Router Solicitation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the Flow Label field in the IPv6 header?",
+      "options": [
+        "To identify packets that should be handled the same way",
+        "To specify the maximum transmission unit size",
+        "To indicate the protocol of the payload",
+        "To track the number of router hops"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which command would you use to view the IPv6 routing table on a Cisco router?",
+      "options": [
+        "show ip route",
+        "show ipv6 route",
+        "display ipv6 routing",
+        "show route ipv6"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What type of address is FE80::1 in IPv6?",
+      "options": ["Global unicast", "Unique local", "Link-local", "Multicast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following best describes a connectionless protocol?",
+      "options": [
+        "Establishes a dedicated path before sending data",
+        "Requires acknowledgments for all packets",
+        "Sends data without establishing a connection first",
+        "Guarantees delivery of all packets"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary purpose of the Header Checksum field in IPv4?",
+      "options": [
+        "To encrypt the header for security",
+        "To detect corruption in the IPv4 header",
+        "To prioritize time-sensitive traffic",
+        "To identify fragmented packets"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which network layer characteristic allows IP to operate over different physical media types?",
+      "options": [
+        "Connectionless",
+        "Best Effort",
+        "Media Independent",
+        "Unreliable"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is fragmentation in the context of IP networking?",
+      "options": [
+        "Splitting a large IP packet into smaller units",
+        "Breaking a network into smaller subnets",
+        "Distributing traffic across multiple paths",
+        "Dividing a hard drive into partitions"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Why does fragmentation cause latency in network communication?",
+      "options": [
+        "Fragmented packets are encrypted for security",
+        "All fragments must be reassembled at the destination",
+        "Fragments take longer routes through the network",
+        "Routers prioritize unfragmented packets"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command secures privileged EXEC mode on a Cisco router?",
+      "options": [
+        "enable secret",
+        "password encrypt",
+        "service password-encryption",
+        "line console 0"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the purpose of the 'banner motd' command?",
+      "options": [
+        "To encrypt all passwords in the configuration",
+        "To display a message before login",
+        "To configure the router's hostname",
+        "To set the interface description"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command saves the running configuration to NVRAM?",
+      "options": [
+        "copy running-config startup-config",
+        "save configuration",
+        "write memory",
+        "store settings"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What does the 'service password-encryption' command accomplish?",
+      "options": [
+        "Secures the privileged EXEC mode",
+        "Encrypts all plaintext passwords in the configuration",
+        "Enables SSH access to the router",
+        "Hides the router from network scans"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following represents a best practice for router security?",
+      "options": [
+        "Using common passwords for easy remembering",
+        "Enabling both Telnet and SSH for flexibility",
+        "Configuring strong, unique passwords for all access methods",
+        "Leaving the default configuration unchanged"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'transport input ssh' command?",
+      "options": [
+        "To encrypt all outgoing traffic",
+        "To allow only SSH connections to the router",
+        "To configure the router as an SSH client",
+        "To enable packet forwarding between interfaces"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command shows detailed statistics for a specific router interface?",
+      "options": [
+        "show ip interface brief",
+        "show interfaces",
+        "show running-config",
+        "show version"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What information does the 'show ip route' command display?",
+      "options": [
+        "All configured passwords on the router",
+        "The contents of the IP routing table",
+        "Interface status and IP addresses",
+        "The router's hardware specifications"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Why must a switch have a default gateway address configured?",
+      "options": [
+        "To forward frames between VLANs",
+        "To allow remote management from another network",
+        "To assign IP addresses to connected devices",
+        "To increase the switching speed"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the relationship between a host's IP address and its default gateway?",
+      "options": [
+        "They must be in different networks",
+        "They must be in the same network",
+        "They must have the same MAC address",
+        "They must use different subnet masks"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command configures an IPv4 default gateway on a switch?",
+      "options": [
+        "ip default-gateway",
+        "default-router",
+        "gateway ip",
+        "ip route default"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the purpose of the Maximum Transmission Unit (MTU)?",
+      "options": [
+        "To define the maximum speed of the interface",
+        "To specify the largest size of a packet that can be transmitted",
+        "To determine the number of simultaneous connections",
+        "To set the maximum number of routing table entries"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does the network layer determine the appropriate MTU?",
+      "options": [
+        "From the transport layer protocol",
+        "From control information sent by the data link layer",
+        "Based on the destination IP address",
+        "Using the TTL value in the IP header"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the primary benefit of eliminating NAT in IPv6?",
+      "options": [
+        "Faster packet processing",
+        "Restored end-to-end connectivity",
+        "Smaller packet headers",
+        "Built-in security features"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which IPv6 address is equivalent to the IPv4 loopback address 127.0.0.1?",
+      "options": ["::1", "::", "FE80::1", "FF02::1"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the main function of the Next Header field in IPv6?",
+      "options": [
+        "To identify the next router in the path",
+        "To specify the protocol of the payload",
+        "To indicate where to forward the packet",
+        "To track the packet's journey through the network"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of IP?",
+      "options": [
+        "Connectionless",
+        "Reliable delivery",
+        "Best Effort",
+        "Media Independent"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens when a router receives a packet destined for a network not in its routing table?",
+      "options": [
+        "It broadcasts the packet to all interfaces",
+        "It forwards it to the default gateway if one exists",
+        "It stores the packet for later delivery",
+        "It returns the packet to the sender"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command would you use to verify IPv6 interface statistics?",
+      "options": [
+        "show ipv6 interface",
+        "show interface ipv6",
+        "display ipv6 stats",
+        "verify ipv6 configuration"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the primary purpose of ARP in IPv4 networks?",
+      "options": [
+        "To assign IP addresses to devices",
+        "To resolve IP addresses to MAC addresses",
+        "To route packets between networks",
+        "To encrypt network communications"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How does a host typically learn the default gateway address?",
+      "options": [
+        "Through manual configuration or DHCP",
+        "By querying the DNS server",
+        "From the ARP table",
+        "Through broadcast messages from routers"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the significance of the 'L' code in a Cisco routing table?",
+      "options": [
+        "Local interface IP address",
+        "Learned route via OSPF",
+        "Load-balanced path",
+        "Longest match route"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which of the following best describes the 'Best Effort' characteristic of IP?",
+      "options": [
+        "IP guarantees delivery of all packets",
+        "IP provides the best possible path for each packet",
+        "IP makes an attempt to deliver packets but without guarantees",
+        "IP prioritizes important traffic over regular traffic"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

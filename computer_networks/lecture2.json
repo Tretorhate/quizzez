@@ -1,0 +1,443 @@
+{  "questions": [
+    {
+      "question": "What are the three fundamental elements required for any communication to occur?",
+      "options": [
+        "Protocol, data, and encryption",
+        "Source, destination, and channel",
+        "Sender, receiver, and firewall",
+        "Hardware, software, and network"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the process of converting information into another acceptable form for transmission called?",
+      "options": ["Encryption", "Formatting", "Encoding", "Packaging"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Why must source hosts break long messages into individual pieces before transmission?",
+      "options": [
+        "To increase security",
+        "To meet minimum and maximum size requirements of frames",
+        "To reduce bandwidth usage",
+        "To improve encryption"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which message timing component manages the rate of data transmission and defines how much information can be sent?",
+      "options": [
+        "Response Timeout",
+        "Access Method",
+        "Flow Control",
+        "Collision Detection"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What type of message delivery sends information from one device to all devices on a network?",
+      "options": ["Unicast", "Multicast", "Broadcast", "Anycast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which message delivery method involves one-to-one communication?",
+      "options": ["Broadcast", "Multicast", "Unicast", "Groupcast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol type is responsible for providing authentication, data integrity, and data encryption?",
+      "options": [
+        "Network Communications",
+        "Network Security",
+        "Routing",
+        "Service Discovery"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What protocol function determines if data became corrupted during transmission?",
+      "options": [
+        "Sequencing",
+        "Flow Control",
+        "Error Detection",
+        "Addressing"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol governs the way a web server and web client interact?",
+      "options": ["FTP", "TCP", "HTTP", "IP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary function of TCP in network communication?",
+      "options": [
+        "Delivers messages globally",
+        "Manages individual conversations and provides guaranteed delivery",
+        "Encrypts data",
+        "Assigns IP addresses"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which protocol delivers messages from one NIC to another NIC on the same Ethernet LAN?",
+      "options": ["IP", "TCP", "HTTP", "Ethernet"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is a protocol suite?",
+      "options": [
+        "A single protocol that handles all network functions",
+        "A group of inter-related protocols necessary to perform a communication function",
+        "A hardware device for network management",
+        "A type of network topology"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which organization maintains the Internet Protocol Suite (TCP/IP)?",
+      "options": ["ISO", "IEEE", "IETF", "ITU"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does OSI stand for in networking?",
+      "options": [
+        "Open System Interface",
+        "Operating System Interconnection",
+        "Open Systems Interconnection",
+        "Optical Signal Integration"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which characteristic describes the TCP/IP protocol suite?",
+      "options": [
+        "It is proprietary and can only be used with a license",
+        "It is an open standard freely available to the public",
+        "It is only used for local area networks",
+        "It requires special hardware to implement"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the benefit of open standards in networking?",
+      "options": [
+        "They limit competition to ensure quality",
+        "They encourage interoperability, competition, and innovation",
+        "They are only available to large corporations",
+        "They reduce network security"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which organization is responsible for creating standards in telecommunications and networking?",
+      "options": ["ICANN", "IEEE", "ISOC", "EIA"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does ICANN coordinate?",
+      "options": [
+        "Network hardware manufacturing",
+        "IP address allocation and domain name management",
+        "Internet speed regulations",
+        "Network security protocols"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which organization oversees and manages IP address allocation and protocol identifiers?",
+      "options": ["IETF", "IANA", "ISO", "ITU-T"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Why are layered models used in networking?",
+      "options": [
+        "To make networks more expensive",
+        "To explain and understand complex network operations",
+        "To reduce network speed",
+        "To limit protocol development"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many layers does the OSI Reference Model have?",
+      "options": ["4 layers", "5 layers", "7 layers", "9 layers"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which OSI layer provides services for process-to-process communications?",
+      "options": [
+        "Physical Layer",
+        "Transport Layer",
+        "Application Layer",
+        "Network Layer"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary function of the OSI Transport Layer?",
+      "options": [
+        "Determines the best path through the network",
+        "Defines services to segment, transfer, and reassemble data",
+        "Manages physical connections",
+        "Provides data encryption"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which OSI layer is responsible for providing services to exchange individual pieces of data over the network?",
+      "options": [
+        "Data Link Layer",
+        "Network Layer",
+        "Session Layer",
+        "Presentation Layer"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the Physical Layer of the OSI model describe?",
+      "options": [
+        "Data encryption methods",
+        "Routing algorithms",
+        "The means to activate, maintain, and de-activate physical connections",
+        "Application protocols"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How many layers does the TCP/IP Reference Model have?",
+      "options": ["3 layers", "4 layers", "5 layers", "7 layers"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which TCP/IP layer determines the best path through the network?",
+      "options": ["Application", "Transport", "Internet", "Network Access"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does the Network Access layer of the TCP/IP model control?",
+      "options": [
+        "User applications and data representation",
+        "End-to-end communication and reliability",
+        "Routing and logical addressing",
+        "Hardware devices and media that make up the network"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is a key difference between the OSI and TCP/IP models?",
+      "options": [
+        "OSI has fewer layers than TCP/IP",
+        "TCP/IP divides OSI's network access and application layers into multiple layers",
+        "OSI divides TCP/IP's network access and application layers into multiple layers",
+        "They have the same number of layers"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is segmenting in network communication?",
+      "options": [
+        "Encrypting messages for security",
+        "Breaking up messages into smaller units",
+        "Routing messages through different paths",
+        "Compressing data files"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is multiplexing?",
+      "options": [
+        "Sending single messages one at a time",
+        "Taking multiple streams of segmented data and interleaving them together",
+        "Encrypting multiple data streams",
+        "Compressing multiple files into one"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is a primary benefit of segmenting messages?",
+      "options": [
+        "It reduces network security",
+        "It increases speed by allowing large data to be sent without tying up links",
+        "It makes data easier to encrypt",
+        "It eliminates the need for error checking"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Why is sequencing important in network communication?",
+      "options": [
+        "To encrypt the data",
+        "To compress the message",
+        "To number segments so the message can be reassembled at the destination",
+        "To route the message through multiple paths"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which protocol is responsible for sequencing individual segments?",
+      "options": ["IP", "HTTP", "TCP", "Ethernet"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is encapsulation in networking?",
+      "options": [
+        "Removing headers from data",
+        "The process where protocols add their information to the data",
+        "Encrypting data for transmission",
+        "Compressing data to save bandwidth"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the correct order of PDUs as data moves down the protocol stack?",
+      "options": [
+        "Bits, Frame, Packet, Segment, Data",
+        "Data, Segment, Packet, Frame, Bits",
+        "Frame, Packet, Segment, Data, Bits",
+        "Data, Packet, Segment, Frame, Bits"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens during de-encapsulation?",
+      "options": [
+        "Headers are added to data as it moves down the stack",
+        "Data is encrypted at each layer",
+        "Headers are stripped off as data moves up the stack",
+        "Data is compressed at each layer"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "At which layers is addressing used to deliver data from source to destination?",
+      "options": [
+        "Physical and Application layers",
+        "Data Link and Network layers",
+        "Transport and Session layers",
+        "Presentation and Application layers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the network layer source IP address represent?",
+      "options": [
+        "The default gateway address",
+        "The IP address of the sending device, original source of the packet",
+        "The MAC address of the source device",
+        "The subnet mask of the network"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the network portion of an IPv4 address indicate?",
+      "options": [
+        "The specific device within a network",
+        "The MAC address of the device",
+        "The network group which the IP address is a member of",
+        "The port number being used"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does the host portion of an IPv4 address identify?",
+      "options": [
+        "The network segment",
+        "A specific device within the network group",
+        "The default gateway",
+        "The subnet mask"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "When two devices are on the same network, what will be identical in their IP addresses?",
+      "options": [
+        "The host portion",
+        "The MAC address",
+        "The network portion",
+        "The port number"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What type of address is a MAC address?",
+      "options": [
+        "Logical addressing",
+        "Global addressing",
+        "Local addressing physically embedded in the NIC",
+        "Virtual addressing"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "When devices are on the same Ethernet network, what address does the data link frame use for the destination?",
+      "options": [
+        "The IP address of the destination",
+        "The actual MAC address of the destination NIC",
+        "The default gateway MAC address",
+        "The subnet mask"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the default gateway?",
+      "options": [
+        "The MAC address of the destination device",
+        "The subnet mask of the network",
+        "The router interface IP address that provides access to remote networks",
+        "The physical port on a switch"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "When a device needs to send data to a remote network, what destination MAC address is used in the first frame?",
+      "options": [
+        "The MAC address of the final destination device",
+        "The MAC address of the default gateway",
+        "The broadcast MAC address",
+        "The source device's own MAC address"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens to Layer 2 MAC addresses as a packet travels through multiple routers?",
+      "options": [
+        "They remain the same throughout the journey",
+        "They are removed after the first hop",
+        "They change at each hop/segment",
+        "They are only used at the source"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What happens to Layer 3 IP addresses as a packet travels from source to destination through routers?",
+      "options": [
+        "They change at each router",
+        "They remain the same throughout the journey",
+        "They are replaced with MAC addresses",
+        "They are encrypted at each hop"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which addressing changes from link to link as data travels across a network?",
+      "options": [
+        "Layer 3 IP addressing",
+        "Layer 2 MAC addressing",
+        "Both Layer 2 and Layer 3 addressing",
+        "Neither addressing changes"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What benefit does a layered model provide for protocol design?",
+      "options": [
+        "It makes networks slower but more secure",
+        "Protocols at a specific layer have defined information they act upon and defined interfaces",
+        "It eliminates the need for standards",
+        "It requires all protocols to be developed by one vendor"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{  "questions": [
+    {
+      "question": "In a client-server network architecture, what role does an email server perform?",
+      "options": [
+        "It sends requests to clients for email data",
+        "It runs email server software and provides information to clients",
+        "It only forwards emails between clients",
+        "It stores emails locally on each client device"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is a key disadvantage of peer-to-peer networks?",
+      "options": [
+        "They are too expensive to implement",
+        "They require specialized hardware",
+        "They are not scalable for larger networks",
+        "They cannot transfer files between devices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which type of device is responsible for regenerating and retransmitting data signals in a network?",
+      "options": [
+        "End devices",
+        "Client computers",
+        "Intermediary devices",
+        "Server devices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which network media type uses pulses of light for data transmission?",
+      "options": [
+        "Metal wires within cables",
+        "Wireless transmission",
+        "Fiber-optic cable",
+        "Coaxial cable"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary difference between physical and logical topology diagrams?",
+      "options": [
+        "Physical shows devices and addressing, logical shows cable installation",
+        "Physical shows physical locations and cables, logical shows addressing scheme",
+        "They show the same information in different formats",
+        "Physical is for LANs, logical is for WANs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which network type spans a small geographical area like a home or office?",
+      "options": ["WAN", "MAN", "LAN", "Internet"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main characteristic that distinguishes a WAN from a LAN?",
+      "options": [
+        "WANs use different protocols than LANs",
+        "WANs span wide geographical areas and typically provide slower speeds",
+        "WANs only connect servers, not end devices",
+        "WANs are only used by government organizations"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is an intranet?",
+      "options": [
+        "A public network accessible to everyone",
+        "A private network internal to an organization",
+        "A type of wireless network",
+        "A network that connects different countries"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which internet connection type is most suitable for rural areas without traditional ISPs?",
+      "options": ["Cable", "DSL", "Satellite", "Fiber optic"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a key advantage of converged networks?",
+      "options": [
+        "They require separate cabling for each service",
+        "They can deliver data, voice, and video over the same infrastructure",
+        "They only support voice communications",
+        "They are slower than traditional networks"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is fault tolerance in network architecture?",
+      "options": [
+        "The ability to detect software bugs",
+        "The capability to limit the impact of failures with redundant paths",
+        "A security feature that blocks malware",
+        "A method to increase network speed"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which network characteristic allows it to expand quickly to support new users without impacting existing performance?",
+      "options": [
+        "Fault tolerance",
+        "Security",
+        "Scalability",
+        "Quality of Service"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary purpose of Quality of Service (QoS) in networks?",
+      "options": [
+        "To encrypt all network traffic",
+        "To ensure reliable delivery of content by managing bandwidth",
+        "To block unauthorized users",
+        "To reduce hardware costs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a goal of network security?",
+      "options": ["Confidentiality", "Integrity", "Availability", "Complexity"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What does BYOD stand for in network trends?",
+      "options": [
+        "Build Your Own Device",
+        "Bring Your Own Device",
+        "Buy Your Own Data",
+        "Backup Your Own Documents"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which cloud computing type is intended for a specific organization or entity?",
+      "options": [
+        "Public Cloud",
+        "Private Cloud",
+        "Hybrid Cloud",
+        "Community Cloud"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Powerline networking is useful when:",
+      "options": [
+        "You need the fastest possible connection",
+        "Wireless access points cannot reach all devices",
+        "You want to reduce electricity costs",
+        "You need to connect to the internet"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What are the three main components of an operating system?",
+      "options": [
+        "Hardware, Software, Network",
+        "Shell, Kernel, Hardware",
+        "GUI, CLI, API",
+        "Input, Process, Output"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which access method is recommended for remotely connecting to a network device?",
+      "options": ["Console", "Telnet", "SSH", "HTTP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What symbol indicates that you are in privileged EXEC mode on a Cisco device?",
+      "options": [">", "#", "$", "*"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command is used to enter global configuration mode from privileged EXEC mode?",
+      "options": ["enable", "configure terminal", "config global", "setup"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What key combination can be used to exit from any configuration mode back to privileged EXEC mode?",
+      "options": ["Ctrl+C", "Ctrl+Z", "Ctrl+X", "Ctrl+D"],
+      "correct_answer": 1
+    },
+    {
+      "question": "In Cisco IOS command syntax, what does italic text indicate?",
+      "options": [
+        "Optional keywords",
+        "Commands entered as shown",
+        "Arguments for which the user provides values",
+        "Required elements"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does the Tab key do in Cisco IOS CLI?",
+      "options": [
+        "Deletes the current command",
+        "Completes a partial command name entry",
+        "Moves to the next line",
+        "Shows help information"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which key sequence can be used to abort operations like DNS lookups or pings?",
+      "options": ["Ctrl-C", "Ctrl-Z", "Ctrl-Shift-6", "Ctrl-Alt-Del"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is a good practice when creating device hostnames?",
+      "options": [
+        "Use spaces to separate words",
+        "Start with a number for easy identification",
+        "Keep it under 64 characters and use only letters, digits, and dashes",
+        "Use special characters like @ and #"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which command is used to set the privileged EXEC mode password?",
+      "options": [
+        "password secret",
+        "enable password",
+        "enable secret",
+        "set password"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'line vty 0 15' command?",
+      "options": [
+        "To configure console access",
+        "To configure remote access via Telnet or SSH",
+        "To set up physical interfaces",
+        "To enable routing protocols"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command encrypts all plaintext passwords in the configuration?",
+      "options": [
+        "password encryption",
+        "encrypt passwords",
+        "service password-encryption",
+        "enable password-encryption"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of a banner message on a network device?",
+      "options": [
+        "To display the device hostname",
+        "To show current configuration",
+        "To warn unauthorized personnel from accessing the device",
+        "To list connected users"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Where is the startup-config file stored?",
+      "options": ["RAM", "ROM", "NVRAM", "Flash"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which file contains the current active configuration of a Cisco device?",
+      "options": [
+        "startup-config",
+        "running-config",
+        "boot-config",
+        "system-config"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What happens to the running-config when a device is powered off without saving?",
+      "options": [
+        "It is automatically saved",
+        "It is lost because RAM is volatile",
+        "It is stored in Flash memory",
+        "It is backed up to NVRAM"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command saves the running configuration to the startup configuration?",
+      "options": [
+        "save configuration",
+        "write memory",
+        "copy running-config startup-config",
+        "backup config"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "How can you restore a device to its previous configuration if unsaved changes were made?",
+      "options": [
+        "Use the undo command",
+        "Reload the device without saving",
+        "Use the restore command",
+        "Restart the configuration wizard"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which command completely erases the startup configuration?",
+      "options": [
+        "delete startup-config",
+        "erase startup-config",
+        "clear startup-config",
+        "remove startup-config"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What type of network design is peer-to-peer most suitable for?",
+      "options": [
+        "Large enterprise networks",
+        "Very small networks with simple tasks",
+        "Data centers",
+        "Wide area networks"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which devices are examples of intermediary network devices?",
+      "options": [
+        "Laptops and smartphones",
+        "Printers and scanners",
+        "Switches and routers",
+        "Monitors and keyboards"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does NIC stand for?",
+      "options": [
+        "Network Interface Controller",
+        "Network Internet Connection",
+        "Node Identification Code",
+        "Network Interconnection Cable"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which organization helps maintain structure on the internet?",
+      "options": ["Microsoft", "ICANN", "Cisco", "IBM"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is an extranet used for?",
+      "options": [
+        "Public internet access",
+        "Internal company communications only",
+        "Providing secure access to external partners who need data access",
+        "Connecting home devices"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which connection type offers high bandwidth and is always on, provided by cable TV companies?",
+      "options": ["Dial-up", "Satellite", "Cable", "Cellular"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is Symmetric Digital Subscriber Line (SDSL) primarily used for?",
+      "options": [
+        "Home internet connections",
+        "Business DSL connections",
+        "Mobile devices",
+        "Satellite communications"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In packet switching, how is traffic handled?",
+      "options": [
+        "All data follows a single dedicated circuit",
+        "Traffic is split into packets that can take different paths",
+        "Data is sent only during off-peak hours",
+        "All packets must follow the same route"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main benefit of network redundancy?",
+      "options": [
+        "Increased cost",
+        "Slower performance",
+        "Fault tolerance through multiple paths",
+        "Simplified configuration"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which type of cloud is built to meet the needs of a specific industry?",
+      "options": [
+        "Public Cloud",
+        "Private Cloud",
+        "Hybrid Cloud",
+        "Custom Cloud"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What technology allows devices to connect to a LAN through electrical outlets?",
+      "options": [
+        "Wi-Fi",
+        "Bluetooth",
+        "Powerline networking",
+        "Cellular networking"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which mode allows access only to basic monitoring commands on a Cisco device?",
+      "options": [
+        "Privileged EXEC mode",
+        "User EXEC mode",
+        "Global configuration mode",
+        "Interface configuration mode"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What command is used to move from user EXEC mode to privileged EXEC mode?",
+      "options": ["login", "enable", "configure", "privilege"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which configuration mode is used to configure a switch port or router interface?",
+      "options": [
+        "Line configuration mode",
+        "Global configuration mode",
+        "Interface configuration mode",
+        "VLAN configuration mode"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

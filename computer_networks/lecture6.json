@@ -1,0 +1,443 @@
+{  "questions": [
+    {
+      "question": "What are the two main portions that make up an IPv4 address?",
+      "options": [
+        "Network and Host portions",
+        "Subnet and Interface portions",
+        "Public and Private portions",
+        "Class and Range portions"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the purpose of a subnet mask in IPv4 addressing?",
+      "options": [
+        "To encrypt network communications",
+        "To identify network and host portions of an IP address",
+        "To assign automatic IP addresses",
+        "To convert private IPs to public IPs"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does the prefix length in slash notation represent?",
+      "options": [
+        "The number of hosts in the network",
+        "The number of bits set to 1 in the subnet mask",
+        "The class of the IP address",
+        "The number of available subnets"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which process is used to determine the network address by comparing an IP address with its subnet mask?",
+      "options": ["ORing", "ANDing", "XORing", "NOTing"],
+      "correct_answer": 1
+    },
+    {
+      "question": "In a typical IPv4 network, which address is used for broadcasting to all hosts on the same network?",
+      "options": [
+        "The network address",
+        "The first usable host address",
+        "The last usable host address",
+        "The broadcast address"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "What type of transmission sends a packet to one specific destination IP address?",
+      "options": ["Broadcast", "Multicast", "Unicast", "Anycast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which IPv4 address range is reserved for private networks according to RFC 1918?",
+      "options": [
+        "10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16",
+        "11.0.0.0/8, 173.16.0.0/12, 193.168.0.0/16",
+        "127.0.0.0/8, 169.254.0.0/16, 224.0.0.0/4",
+        "1.0.0.0/8, 128.0.0.0/16, 191.0.0.0/8"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What technology translates private IPv4 addresses to public IPv4 addresses for internet communication?",
+      "options": ["DNS", "DHCP", "NAT", "ARP"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which special IPv4 address range is used for loopback testing?",
+      "options": [
+        "169.254.0.0/16",
+        "127.0.0.0/8",
+        "224.0.0.0/4",
+        "240.0.0.0/4"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of APIPA (Automatic Private IP Addressing) addresses?",
+      "options": [
+        "For multicast group communications",
+        "For internet-facing servers",
+        "For Windows clients when no DHCP server is available",
+        "For router-to-router communications"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In classful addressing, which class was designed for large networks with many hosts?",
+      "options": ["Class A", "Class B", "Class C", "Class D"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which organization manages and allocates blocks of IP addresses to Regional Internet Registries?",
+      "options": ["IEEE", "IETF", "IANA", "ISO"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary device that stops broadcast propagation between networks?",
+      "options": ["Switch", "Hub", "Router", "Bridge"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the main problem with large broadcast domains?",
+      "options": [
+        "They require more IP addresses",
+        "They generate excessive broadcasts that affect network performance",
+        "They cannot connect to the internet",
+        "They are less secure than small broadcast domains"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the process of dividing a network into smaller broadcast domains called?",
+      "options": ["Supernetting", "Subnetting", "NATing", "Aggregating"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a common reason for segmenting networks?",
+      "options": [
+        "Reducing overall network traffic",
+        "Implementing security policies between segments",
+        "Increasing broadcast domain size",
+        "Reducing devices affected by abnormal broadcast traffic"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the number of usable hosts in a /24 network?",
+      "options": ["256", "254", "255", "253"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which prefix length provides 30 usable host addresses per subnet?",
+      "options": ["/26", "/27", "/28", "/29"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many subnets are created when borrowing 3 bits from the host portion?",
+      "options": ["4", "6", "8", "16"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the broadcast address for the network 192.168.1.0/24?",
+      "options": [
+        "192.168.1.0",
+        "192.168.1.1",
+        "192.168.1.254",
+        "192.168.1.255"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which subnet mask in dotted decimal notation corresponds to /26?",
+      "options": [
+        "255.255.255.0",
+        "255.255.255.128",
+        "255.255.255.192",
+        "255.255.255.224"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the first usable host address in the network 10.0.0.0/8?",
+      "options": ["10.0.0.0", "10.0.0.1", "10.255.255.254", "10.0.0.255"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many host bits are available in a /16 network?",
+      "options": ["8 bits", "16 bits", "24 bits", "32 bits"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the network address for host 172.16.5.10 with subnet mask 255.255.0.0?",
+      "options": ["172.16.0.0", "172.16.5.0", "172.0.0.0", "172.16.5.10"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which classless addressing method allows different subnet masks within the same network?",
+      "options": ["CIDR", "VLSM", "NAT", "APIPA"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the main advantage of using VLSM?",
+      "options": [
+        "Simpler configuration",
+        "Better security",
+        "More efficient use of IP address space",
+        "Faster routing"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "In VLSM design, which subnets should be addressed first?",
+      "options": [
+        "The smallest subnets",
+        "The subnets with the most hosts",
+        "WAN links",
+        "DMZ networks"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many usable host addresses does a /30 network provide?",
+      "options": ["2", "4", "6", "8"],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the primary purpose of network address planning?",
+      "options": [
+        "To use as many IP addresses as possible",
+        "To create a scalable network addressing scheme",
+        "To make the network more complex",
+        "To eliminate the need for routers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which type of devices should typically be assigned static IP addresses?",
+      "options": [
+        "End-user clients",
+        "Servers and network peripherals",
+        "Guest wireless devices",
+        "Temporary mobile devices"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the binary representation of the subnet mask 255.255.255.0?",
+      "options": [
+        "11111111.11111111.11111111.00000000",
+        "11111111.11111111.00000000.00000000",
+        "11111111.00000000.00000000.00000000",
+        "11111111.11111111.11111111.11100000"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which logical AND operation produces a result of 1?",
+      "options": ["0 AND 0", "0 AND 1", "1 AND 0", "1 AND 1"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the result of ANDing 192.168.1.100 with 255.255.255.0?",
+      "options": [
+        "192.168.1.100",
+        "192.168.1.0",
+        "192.168.0.0",
+        "255.255.255.0"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which transmission method sends packets to a specific group of devices?",
+      "options": ["Unicast", "Broadcast", "Multicast", "Anycast"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the limited broadcast address in IPv4?",
+      "options": ["0.0.0.0", "255.255.255.255", "127.0.0.1", "192.168.255.255"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which private address range provides the largest number of host addresses?",
+      "options": [
+        "10.0.0.0/8",
+        "172.16.0.0/12",
+        "192.168.0.0/16",
+        "169.254.0.0/16"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What is the purpose of the DMZ in network design?",
+      "options": [
+        "To host internal employee workstations",
+        "To contain internet-facing servers",
+        "To store backup data",
+        "To manage wireless access points"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which IPv4 address class was designated for multicast groups?",
+      "options": ["Class A", "Class B", "Class C", "Class D"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What was the main limitation of classful addressing?",
+      "options": [
+        "It was too secure",
+        "It wasted many IPv4 addresses",
+        "It was too complicated to implement",
+        "It didn't support internet connectivity"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many total host addresses are available in a /28 network?",
+      "options": ["14", "16", "30", "32"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the last usable host address in network 192.168.1.64/26?",
+      "options": [
+        "192.168.1.64",
+        "192.168.1.65",
+        "192.168.1.126",
+        "192.168.1.127"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which device is primarily responsible for creating broadcast domains?",
+      "options": ["Hub", "Switch", "Router", "Bridge"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary benefit of network segmentation?",
+      "options": [
+        "Increased broadcast traffic",
+        "Improved network performance and security",
+        "Simpler IP address management",
+        "Elimination of the need for routers"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In subnetting, what happens to the number of available hosts as the prefix length increases?",
+      "options": [
+        "The number of hosts increases",
+        "The number of hosts decreases",
+        "The number of hosts stays the same",
+        "The number of hosts becomes unlimited"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "How many bits need to be borrowed to create 16 subnets?",
+      "options": ["2 bits", "3 bits", "4 bits", "5 bits"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main consideration when planning subnets?",
+      "options": [
+        "The color of network cables",
+        "The brand of networking equipment",
+        "The number of host addresses and subnets required",
+        "The physical location of the building"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which type of network typically uses public IP addresses?",
+      "options": [
+        "Internal employee network",
+        "DMZ with internet-facing servers",
+        "Guest wireless network",
+        "Management network"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the recommended method for assigning IP addresses to end-user clients?",
+      "options": ["Static assignment", "DHCP", "APIPA", "Manual configuration"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which component is crucial for developing a scalable enterprise network addressing scheme?",
+      "options": [
+        "Using only class A addresses",
+        "Implementing extensive NAT",
+        "Proper IP network planning",
+        "Using the shortest possible subnet masks"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the primary difference between classful and classless addressing?",
+      "options": [
+        "Classful uses fixed network boundaries, classless does not",
+        "Classful is for IPv4, classless is for IPv6",
+        "Classful is more efficient than classless",
+        "Classless addressing only works with private IPs"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which protocol do most clients use to automatically obtain IP address configuration?",
+      "options": ["ARP", "DNS", "DHCP", "NAT"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the purpose of performing a network requirement study before designing subnets?",
+      "options": [
+        "To determine how many switches to purchase",
+        "To understand how the network will be segmented and used",
+        "To calculate the cost of IP addresses",
+        "To decide which vendor equipment to use"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "In a well-designed network, what type of addresses should intermediary devices have?",
+      "options": [
+        "No IP addresses",
+        "Dynamic addresses that change frequently",
+        "Predictable static addresses for management",
+        "Only link-local addresses"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the relationship between the number of subnets and the number of borrowed bits?",
+      "options": [
+        "Number of subnets = 2^(borrowed bits)",
+        "Number of subnets = borrowed bits × 2",
+        "Number of subnets = 32 - borrowed bits",
+        "Number of subnets = borrowed bits^2"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which addressing scheme allows for the most efficient use of IP address space in networks with varying host requirements?",
+      "options": [
+        "Classful addressing",
+        "Fixed-length subnet masking",
+        "Variable Length Subnet Masking (VLSM)",
+        "Network Address Translation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the main goal when designing an IP addressing scheme for an organization?",
+      "options": [
+        "To use as many public IPs as possible",
+        "To create a predictable and maintainable pattern",
+        "To make the addressing as complex as possible",
+        "To avoid using private IP addresses"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}
